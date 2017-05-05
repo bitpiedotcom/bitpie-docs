@@ -10,15 +10,19 @@
    :maxdepth: 3
    :caption: 目录:
 
+   raq/index
    note/index
-   id/index
+   download/index
+   soft/index
    password/index
+   version/index
+   id/index
    btc/index
    send/index
    otc/index
    tx/index
    address/index
    collection/index
-   version/index
+
 
 
