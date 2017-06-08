@@ -19,6 +19,7 @@
    id/index
    btc/index
    send/index
+   vip/index
    otc/index
    tx/index
    address/index
