@@ -26,6 +26,7 @@
    tx/index
    address/index
    collection/index
+   btcbcc/index
 
 
 
