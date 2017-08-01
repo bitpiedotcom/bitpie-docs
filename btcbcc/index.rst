@@ -47,7 +47,7 @@
     :align: center
 
 
-3.选择相对应的账户地址，输入BCC地址及密码。
+3.选择相对应的账户地址，输入比特派BCC地址及密码。
 
 .. image:: ../img/choose.png
     :width: 320px

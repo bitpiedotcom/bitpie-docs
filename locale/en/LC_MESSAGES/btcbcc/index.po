@@ -55,11 +55,11 @@ msgstr "1.Update Bither to the latest version "
 
 #: ../../btcbcc/index.rst:41
 msgid "2.设置-高级选项-获取BCC。"
-msgstr "2.settint-Advanced options-obtain BCC"
+msgstr "2.setting-Advanced options-obtain BCC"
 
 #: ../../btcbcc/index.rst:50
 msgid "3.选择相对应的账户地址，输入BCC地址及密码。"
-msgstr "3.Choose the corresponding account address, enter BCC address and password."
+msgstr "3.Choose the corresponding account address, enter Bitpie BCC address and password."
 
 #: ../../btcbcc/index.rst:66
 msgid "如果是比太热钱包监控冷钱包，这时需要进行签名交易。"
