@@ -51,7 +51,7 @@ msgstr "Bitcoin Cash is in Bither"
 
 #: ../../btcbcc/index.rst:39
 msgid "1.更新比太钱包，通过比太热钱包进行操作。"
-msgstr "1.Update Bither to the latest version "
+msgstr "1.Update Bither to the latest version，it is operated by Bither hot wallet."
 
 #: ../../btcbcc/index.rst:41
 msgid "2.设置-高级选项-获取BCC。"
@@ -60,12 +60,11 @@ msgstr "2.setting-Advanced options-obtain BCC"
 #: ../../btcbcc/index.rst:50
 msgid "3.选择相对应的账户地址，输入比特派BCC地址及密码。"
 msgstr ""
-"3.Choose the corresponding account address, enter Bitpie BCC address and "
-"password."
+"3.Choose the corresponding account address and enter into Bitpie BCC address and password."
 
 #: ../../btcbcc/index.rst:65
 msgid "备注:因为BTC与BCC的地址现在没有区分，为了能成功获取到BCC，不丢币，所以我们规定使用比特派上的BCC地址。其它钱包的密钥导入比太，也可以领取BCC。"
-msgstr ""
+msgstr "Note: since BTC and BCC address are not different now, for successfully obtaining  BCC and not losing the coin, so we require to use the BCC address on the BCC. The key of other wallet can be inducted into Bither to obtain Bcc"
 
 #: ../../btcbcc/index.rst:68
 msgid "如果是比太热钱包监控冷钱包，这时需要进行签名交易。"
