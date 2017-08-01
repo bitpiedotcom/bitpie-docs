@@ -28,7 +28,7 @@ msgstr "1.Update Bither to the latest version，it is operated by Bither hot wal
 #: ../../bitherbcc/index.rst:7
 #, fuzzy
 msgid "2.设置 - 高级选项 - 获得BCC。"
-msgstr "2.setting - Advanced options - obtain BCC."
+msgstr "2.setting-Advanced options-obtain BCC."
 
 #: ../../bitherbcc/index.rst:16
 msgid "3.选择相对应的账户地址，输入比特派BCC地址及密码。"
