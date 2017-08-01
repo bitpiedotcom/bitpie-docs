@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Bitpie 0.1\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2017-08-01 21:48+0800\n"
+"POT-Creation-Date: 2017-08-01 21:56+0800\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -26,9 +26,8 @@ msgid "1.更新比太钱包，通过比太热钱包进行操作。"
 msgstr "1.Update Bither to the latest version，it is operated by Bither hot wallet."
 
 #: ../../bitherbcc/index.rst:7
-#, fuzzy
-msgid "2.设置 - 高级选项 - 获得BCC。"
-msgstr "2.setting-Advanced options-obtain BCC."
+msgid "2.设置-高级选项-获得BCC。"
+msgstr "2.setting-Advanced options-obtain BCC"
 
 #: ../../bitherbcc/index.rst:16
 msgid "3.选择相对应的账户地址，输入比特派BCC地址及密码。"
@@ -49,4 +48,5 @@ msgid "如果是比太热钱包监控冷钱包，这时需要进行签名交易�
 msgstr ""
 "If the Bitpie hot wallet  monitors a cold wallet, the signature is "
 "required for transaction."
+
 

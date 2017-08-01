@@ -4,7 +4,7 @@
 
 1.更新比太钱包，通过比太热钱包进行操作。
 
-2.设置 - 高级选项 - 获得BCC。
+2.设置-高级选项-获得BCC。
 
 .. image:: ../img/bitherBcc.png
     :width: 320px
