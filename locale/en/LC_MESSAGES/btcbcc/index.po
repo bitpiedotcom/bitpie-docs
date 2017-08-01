@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Bitpie 0.1\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2017-08-01 19:40+0800\n"
+"POT-Creation-Date: 2017-08-01 20:25+0800\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -58,10 +58,17 @@ msgid "2.设置-高级选项-获取BCC。"
 msgstr "2.setting-Advanced options-obtain BCC"
 
 #: ../../btcbcc/index.rst:50
-msgid "3.选择相对应的账户地址，输入BCC地址及密码。"
-msgstr "3.Choose the corresponding account address, enter Bitpie BCC address and password."
+msgid "3.选择相对应的账户地址，输入比特派BCC地址及密码。"
+msgstr ""
+"3.Choose the corresponding account address, enter Bitpie BCC address and "
+"password."
 
-#: ../../btcbcc/index.rst:66
+#: ../../btcbcc/index.rst:65
+msgid "备注:因为BTC与BCC的地址现在没有区分，为了能成功获取到BCC，不丢币，所以我们规定使用比特派上的BCC地址。其它钱包的密钥导入比太，也可以领取BCC。"
+msgstr ""
+
+#: ../../btcbcc/index.rst:68
 msgid "如果是比太热钱包监控冷钱包，这时需要进行签名交易。"
-msgstr "If it's colder than too hot wallet monitoring purse, then need to sign deals."
-
+msgstr ""
+"If the Bitpie hot wallet  monitors a cold wallet, the signature is "
+"required for transaction."
