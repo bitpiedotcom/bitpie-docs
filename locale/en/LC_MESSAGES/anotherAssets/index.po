@@ -24,7 +24,7 @@ msgstr "Help you extract the transferred error cryptocurrency "
 #: ../../anotherAssets/index.rst:4
 #, fuzzy
 msgid "更新比特派最新版本(v2.1.3)。"
-msgstr "Update Bitpie to the latest version(v2.1.3)."
+msgstr "Update Bitpie to the latest version(v2.1.3)"
 
 #: ../../anotherAssets/index.rst:8
 msgid "提取转错的BCC"
@@ -74,14 +74,10 @@ msgstr ""
 #, fuzzy
 msgid "如果没有找到BCC地址(误发的地址)，请切换到BCC界面。选择收币-我的BCC地址-检测BTC资产(右上角三点)。"
 msgstr ""
-"If Bitcoin address (address in error) is not found, please switch to BCC "
-"interface. Choose Receive - My BCC Addresses - Detect BTC assets(Three in"
-" the top right corner)"
+"If Bitcoin address (address in error) is not found, please switch to BCC interface. Choose Receive - My BCC Addresses - Detect BTC assets(Three in the top right corner)"
 
 #: ../../anotherAssets/index.rst:69
 #, fuzzy
 msgid "3.提取BTC，提取BTC地址就是你的收币地址。"
-msgstr "3.Extract BTC. The address to extract BTC is your Receiving btc address."
-
-
+msgstr "3.Extract BTC,The address to extract BTC is your Receiving btc address."
 
