@@ -28,6 +28,7 @@
    collection/index
    bitpiebcc/index
    bitherbcc/index
+   anotherAssets/index
 
 
 
