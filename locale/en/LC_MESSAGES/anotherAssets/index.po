@@ -19,10 +19,9 @@ msgstr ""
 
 #: ../../anotherAssets/index.rst:2
 msgid "帮您提取转错的币"
-msgstr "Help you extract the transferred error cryptocurrency "
+msgstr "Help you extract the transferred error cryptocurrency"
 
 #: ../../anotherAssets/index.rst:4
-#, fuzzy
 msgid "更新比特派最新版本。"
 msgstr "Update Bitpie to the latest version"
 
@@ -32,25 +31,17 @@ msgstr "Extract the transferred error BCC"
 
 #: ../../anotherAssets/index.rst:10
 msgid "1.如果误将BCC发到了BTC地址上，请切换到BTC界面。"
-msgstr ""
-"1.If the BCC is sent to the BTC address, please switch to the BTC "
-"interface."
+msgstr "1.If the BCC is sent to the BTC address, please switch to the BTC interface."
 
 #: ../../anotherAssets/index.rst:12
 msgid "2.选择我的-我的地址－收款地址-在我的历史收款BTC地址中'选择误发的地址'-检测BCC资产。"
-msgstr ""
-"2.Choose My - My Address - RECEIVING ADDRESS - 'choose the wrong address "
-"' in My History Receiving BTC address - DETECT BCC ASSETS "
+msgstr "2.Choose My - My Address - RECEIVING ADDRESS - 'choose the wrong address' in My History Receiving BTC address - DETECT BCC ASSETS "
 
 #: ../../anotherAssets/index.rst:28
 msgid "如果没有找到BTC地址(误发的地址)，请切换到BTC界面。选择收币-我的BTC地址-检测BCC资产(右上角三点)。"
-msgstr ""
-"If Bitcoin address (address in error) is not found, please switch to BTC "
-"interface. Choose Receive - My BTC Addresses - Detect BCC assets(Three in"
-" the top right corner)"
+msgstr "If Bitcoin address (address in error) is not found, please switch to BTC interface. Choose Receive - My BTC Addresses - Detect BCC assets(Three in the top right corner)"
 
 #: ../../anotherAssets/index.rst:37
-#, fuzzy
 msgid "3.提取BCC，提取BCC地址就是你的收币地址。"
 msgstr "3.Extract BCC. The address to extract BCC is your Receiving bcc address."
 
@@ -60,21 +51,17 @@ msgstr "Extract the transferred error BTC"
 
 #: ../../anotherAssets/index.rst:49
 msgid "1.如果误将BTC发到BCC地址上，请切换到BCC界面。"
-msgstr ""
-"1.If the BTC is sent to the BCC address, please switch to the BCC "
-"interface."
+msgstr "1.If the BTC is sent to the BCC address, please switch to the BCC interface."
 
 #: ../../anotherAssets/index.rst:51
 msgid "2.选择我的-我的地址－收款地址-在我的历史收款BCC地址中'选择误发的地址'-检测BTC资产。"
-msgstr "2.Choose My - My Address - RECEIVING ADDRESS - 'choose the wrong address' in My History Receiving BCC address - DETECT BTC ASSETS "
+msgstr "2.Choose My - My Address - RECEIVING ADDRESS - 'choose the wrong address' in My History Receiving BCC address - DETECT BTC ASSETS"
 
 #: ../../anotherAssets/index.rst:60
-#, fuzzy
 msgid "如果没有找到BCC地址(误发的地址)，请切换到BCC界面。选择收币-我的BCC地址-检测BTC资产(右上角三点)。"
 msgstr "If Bitcoin address (address in error) is not found, please switch to BCC interface. Choose Receive - My BCC Addresses - Detect BTC assets(Three in the top right corner)"
 
 #: ../../anotherAssets/index.rst:69
-#, fuzzy
 msgid "3.提取BTC，提取BTC地址就是你的收币地址。"
 msgstr "3.Extract BTC,The address to extract BTC is your Receiving btc address."
 
