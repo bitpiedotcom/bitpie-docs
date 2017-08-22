@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Bitpie 0.1\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2017-08-22 14:25+0800\n"
+"POT-Creation-Date: 2017-08-22 14:51+0800\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -23,8 +23,8 @@ msgstr "Help you extract the transferred error cryptocurrency "
 
 #: ../../anotherAssets/index.rst:4
 #, fuzzy
-msgid "更新比特派最新版本(v2.1.3)。"
-msgstr "Update Bitpie to the latest version(v2.1.3)"
+msgid "更新比特派最新版本。"
+msgstr "Update Bitpie to the latest version"
 
 #: ../../anotherAssets/index.rst:8
 msgid "提取转错的BCC"
@@ -66,15 +66,12 @@ msgstr ""
 
 #: ../../anotherAssets/index.rst:51
 msgid "2.选择我的-我的地址－收款地址-在我的历史收款BCC地址中'选择误发的地址'-检测BTC资产。"
-msgstr ""
-"2.Choose My - My Address - RECEIVING ADDRESS - 'choose the wrong address "
-"' in My History Receiving BCC address - DETECT BTC ASSETS "
+msgstr "2.Choose My - My Address - RECEIVING ADDRESS - 'choose the wrong address' in My History Receiving BCC address - DETECT BTC ASSETS "
 
 #: ../../anotherAssets/index.rst:60
 #, fuzzy
 msgid "如果没有找到BCC地址(误发的地址)，请切换到BCC界面。选择收币-我的BCC地址-检测BTC资产(右上角三点)。"
-msgstr ""
-"If Bitcoin address (address in error) is not found, please switch to BCC interface. Choose Receive - My BCC Addresses - Detect BTC assets(Three in the top right corner)"
+msgstr "If Bitcoin address (address in error) is not found, please switch to BCC interface. Choose Receive - My BCC Addresses - Detect BTC assets(Three in the top right corner)"
 
 #: ../../anotherAssets/index.rst:69
 #, fuzzy
