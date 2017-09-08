@@ -1,0 +1,80 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2017, bitpie
+# This file is distributed under the same license as the Bitpie package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2017.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Bitpie 0.1\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2017-08-17 20:44+0800\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.4.0\n"
+
+#: ../../TxAcelerate/index.rst:2
+msgid "交易加速器使用"
+msgstr "TX Accelerator Instructions"
+
+#: ../../TxAcelerate/index.rst:5
+msgid "说明"
+msgstr "Description"
+
+#: ../../TxAcelerate/index.rst:7
+msgid "加速器是针对未确认的交易进行加速的，一个加速器对应一个不大于1K的未确认交易，如果你的依赖交易比较多，可能不止需要一个加速器的。"
+msgstr ""
+"TX Accelerator is designed for unconfirmed transactions to accelerate and"
+" an accelerator only corresponds to an unconfirmed transaction. If rely "
+"on more than one transaction, you may need more than one accelerator."
+
+#: ../../TxAcelerate/index.rst:9
+msgid "比特派加速器可以给任何平台比特币交易进行交易加速。"
+msgstr "Bitpie accelerator can speed up Bitcoin transaction on any platforms."
+
+#: ../../TxAcelerate/index.rst:14
+msgid "比特派交易加速器购买方法"
+msgstr "How to buy a Bitpie TX Accelerator?"
+
+#: ../../TxAcelerate/index.rst:16
+msgid "交易加速器支持比特币，人民币购买。"
+msgstr "You can buy a TX Accelerator by Bitcoin or RMB."
+
+#: ../../TxAcelerate/index.rst:17
+msgid "需要购买些加速器，在底部菜单—我的—交易加速器。你可以购买加速器。"
+msgstr ""
+"You can find TX Accelerator in the Bottom Menu - My - TX Accelerator to "
+"buy. "
+
+#: ../../TxAcelerate/index.rst:18
+msgid "购买加速器后可在交易加速器界面中查看交易器数量。"
+msgstr ""
+"After buying TX Accelerator, you can view the numbers of TX Accelerators "
+"on its Interface."
+
+#: ../../TxAcelerate/index.rst:21
+msgid "比特派交易加速使用方法"
+msgstr "How to use Bitpie TX Accelerator?"
+
+#: ../../TxAcelerate/index.rst:23
+msgid "底部菜单—我的—交易加速器－待加速（加速）。"
+msgstr "My - TX Accelerator - Upper right corner (acceleration)."
+
+#: ../../TxAcelerate/index.rst:31
+msgid "在交易加器界面中，待加速。查看“待加速”的交易和“已加速”的交易。在“待加速”列表中选择要一项加速的交易，点击“加速”按钮进行加速。"
+msgstr ""
+"On TX Accelerator Interface, you can check 'To Accelerate' and "
+"'Accelerated' transactions. You can select a transaction in the 'To "
+"Accelerate' list and click 'Accelerate' button to speed up."
+
+#: ../../TxAcelerate/index.rst:32
+msgid "tx_id可以指定比特币交易id进行加速（输入正确的交易id，不能包含空格及其他的特殊字符）。"
+msgstr ""
+"Tx_id can assign one Bitcoin transaction ID to accelerate (Please enter "
+"the correct transaction id. Don’t contain spaces and other special "
+"characters)."
+

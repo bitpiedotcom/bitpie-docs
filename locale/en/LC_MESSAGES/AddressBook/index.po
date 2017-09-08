@@ -1,0 +1,59 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2017, bitpie
+# This file is distributed under the same license as the Bitpie package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2017.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Bitpie 0.1\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2017-08-17 20:44+0800\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.4.0\n"
+
+#: ../../AddressBook/index.rst:2
+msgid "地址簿"
+msgstr "Address Book"
+
+#: ../../AddressBook/index.rst:6
+msgid "概述"
+msgstr "Overview"
+
+#: ../../AddressBook/index.rst:8
+msgid "管理比特币地址。"
+msgstr "Bitpie Address Management."
+
+#: ../../AddressBook/index.rst:19
+msgid "地址簿使用方法"
+msgstr "The usage of Address Book"
+
+#: ../../AddressBook/index.rst:21
+msgid "底部菜单-设置-地址簿。"
+msgstr "Bottom Menu — Setting — Address Book."
+
+#: ../../AddressBook/index.rst:27
+msgid "地址管理"
+msgstr "Address Book Management"
+
+#: ../../AddressBook/index.rst:29
+msgid "点击地址标签可对地址进行编辑或删除。点击地址可以对地址进行复制，生成二维码。"
+msgstr "Click time to press Address Label for editing and deleting. Long time to press Address for copying it and generating QR Code."
+
+#: ../../AddressBook/index.rst:30
+msgid "这里我们需要知道，你的比特派每次有交易后，你的收款地址是会改变的，旧地址在你的历史地址里可以查到。底部菜单—我的——我的地址—收款地址。可以查到你的旧地址，点击可以添加到地址簿，然后你可以备注下，用来区分。旧地址也是可以正常收币的。"
+msgstr "Reminder: Each time when you complete a transaction, your receivable address will change and the old address can be found in your historical address that is on Bottom Menu - My - My address - Recipient address. You can Click address for a long time to add it in Address Book. And then you can remark it to distinguish. The old address can also normally receive Bitcoin."
+
+#: ../../AddressBook/index.rst:49
+msgid "注意事项"
+msgstr "Precautions"
+
+#: ../../AddressBook/index.rst:51
+msgid "地址簿中的地址不一定都是您自己的地址。"
+msgstr "The address in Address Book is maybe not yourself address."
+

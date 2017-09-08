@@ -47,7 +47,7 @@ msgstr ""
 
 #: ../../btcbcc/index.rst:36
 msgid "比太钱包获取BCC"
-msgstr ""
+msgstr "Bitcoin Cash is in Bither"
 
 #: ../../btcbcc/index.rst:39
 msgid "1.更新比太钱包，通过比太热钱包进行操作。"

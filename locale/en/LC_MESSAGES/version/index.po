@@ -17,12 +17,11 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Generated-By: Babel 2.4.0\n"
 
-#: ../../source/version/index.rst:2
+#: ../../version/index.rst:2
 msgid "版本升级"
-msgstr "Version Upgrade"
+msgstr ""
 
-#: ../../source/version/index.rst:12
+#: ../../version/index.rst:12
 msgid "在设置里可以看到当前比特派的版本号，如果不是最新版的话，就点击检测新版本，然后会提示你更新的，下载安装覆盖就可以了。一定要经常关注比特派官方网站和比特派官方群，如果有更新或者维护的通知，会提前有公告的。"
-msgstr "In the Settings, you can see the current Bitpie version. If not the latest version, you can click 'Detect latest version' to remind you update and then install. Please must keep an eye on Bitpie official website and online group. If there is a renewal or maintenance of Bitpie, it will be announced in advance. "
-
+msgstr ""
 

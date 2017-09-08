@@ -17,16 +17,15 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Generated-By: Babel 2.4.0\n"
 
-#: ../../source/collection/index.rst:2
+#: ../../collection/index.rst:2
 msgid "收款信息管理"
-msgstr "Receivable Information Management"
+msgstr ""
 
-#: ../../source/collection/index.rst:4
+#: ../../collection/index.rst:4
 msgid "在设置—个人设置-收款信息-创建收款信息"
-msgstr "Settings — Bank Card - Add Bank Card"
+msgstr ""
 
-#: ../../source/collection/index.rst:13
+#: ../../collection/index.rst:13
 msgid "点击进去可以添加收款方式。目前默认货币是人民币的话可以添加银行卡，支付宝，微信三种。"
-msgstr "Clicking to add receivable methods. Until now, the default currency is RMB, so you can add Alipay, Wechat and Bankcard."
-
+msgstr ""
 

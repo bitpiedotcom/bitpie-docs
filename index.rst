@@ -12,23 +12,25 @@
 
 
 
-   raq/index
-   note/index
-   download/index
-   soft/index
-   password/index
-   version/index
-   id/index
-   btc/index
-   send/index
-   vip/index
-   otc/index
-   tx/index
-   address/index
-   collection/index
-   bitpiebcc/index
-   bitherbcc/index
-   anotherAssets/index
+   FAQ/index
+   Introduction/index
+   Download/index
+   Function/index
+   RegisterAndRecover/index
+   VerificationOfIdentity/index
+   InstantTrade/index
+   SendAndReceive/index
+   VIP/index
+   OTC/index
+   TxAcelerate/index
+   AddressBook/index
+   MessageSigning/index
+   BankCard/index
+   MultiCurrency/index
+   BitherBcc/index
+   BitpieBcc/index
+   BtcBcc/index
+   AnotherAssets/index
 
 
 

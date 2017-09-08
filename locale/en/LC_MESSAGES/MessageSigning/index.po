@@ -1,0 +1,81 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2017, bitpie
+# This file is distributed under the same license as the Bitpie package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2017.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Bitpie 0.1\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2017-09-07 11:03+0800\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.4.0\n"
+
+#: ../../MessageSigning/index.rst:2
+msgid "消息签名"
+msgstr "Message Signing"
+
+#: ../../MessageSigning/index.rst:4
+msgid "消息签名就是不需要花钱就能证明你拥有一个地址的私钥。"
+msgstr ""
+"Message Signing do not use any money to certify you have an address's "
+"private key"
+
+#: ../../MessageSigning/index.rst:9
+msgid "签名消息"
+msgstr "Signing Message"
+
+#: ../../MessageSigning/index.rst:24
+msgid "1、 待签名的地址，点击可以复制"
+msgstr "1.The address will signing, click to copy"
+
+#: ../../MessageSigning/index.rst:26
+msgid "2、 待签名的地址二维码"
+msgstr "2.QR for address will signing"
+
+#: ../../MessageSigning/index.rst:28
+msgid "3、 待签名的消息，根据自己需求填写"
+msgstr "3.According to require to fill in the message"
+
+#: ../../MessageSigning/index.rst:30
+msgid "4、 签名过的签名消息，可进行复制或生成二维码"
+msgstr "4.Have been signing message"
+
+#: ../../MessageSigning/index.rst:35
+msgid "验证签名消息"
+msgstr "Verify signing message"
+
+#: ../../MessageSigning/index.rst:44
+msgid "1、 消息签名的地址"
+msgstr "1.The address of signing message"
+
+#: ../../MessageSigning/index.rst:46
+msgid "2、 待签名消息"
+msgstr "2.Signing message will be signing"
+
+#: ../../MessageSigning/index.rst:48
+msgid "3、 签名过的签名消息"
+msgstr "3.Have been signing message"
+
+#: ../../MessageSigning/index.rst:50
+msgid "4、 点击验证，签名验证通过，说明你掌握该地址的私钥"
+msgstr ""
+"4.Click the validation, signature verification by that the address you "
+"have the private key"
+
+#: ../../MessageSigning/index.rst:52
+msgid "5、 在验证消息签名界面可以使用相机扫描二维码，更加快捷方便"
+msgstr ""
+"5.Just for message signature can generate QR code, so where validation "
+"message signature scanning qr code you can use the camera, more "
+"convenient"
+
+#~ msgid "3、 刚才消息签名的签名消息"
+#~ msgstr "3. signing message just now"
+

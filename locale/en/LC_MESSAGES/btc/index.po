@@ -17,91 +17,91 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Generated-By: Babel 2.4.0\n"
 
-#: ../../source/btc/index.rst:2
+#: ../../btc/index.rst:2
 msgid "一键买卖"
-msgstr "Instant Trade"
+msgstr ""
 
-#: ../../source/btc/index.rst:4
+#: ../../btc/index.rst:4
 msgid "(点击右下角\"+\" 号，选择一键买卖)一键买卖的购物车："
-msgstr "(Click on the lower right corner '+', and choose Instant Trade) Shopping Cart of Instant Trade"
+msgstr ""
 
-#: ../../source/btc/index.rst:15
+#: ../../btc/index.rst:15
 msgid "一键买币"
-msgstr "Instant Trade for buying Bitcoin"
+msgstr ""
 
-#: ../../source/btc/index.rst:18 ../../source/btc/index.rst:41
+#: ../../btc/index.rst:18 ../../btc/index.rst:41
 msgid "下单"
-msgstr "Place an order"
+msgstr ""
 
-#: ../../source/btc/index.rst:20
+#: ../../btc/index.rst:20
 msgid "买币最小限额是0.1BTC，填写好购买的币数后，可以在最下方看到要付款的金额。"
-msgstr "The minimum amount for buying Bitcoin is 0.1BTC. After filling in the specific number of Bitcoin you want to buy, you can see the corresponding payment at the bottom. "
+msgstr ""
 
-#: ../../source/btc/index.rst:21
+#: ../../btc/index.rst:21
 msgid "默认支付方式是支付宝，如果需要大额买币的话，建议使用银行卡付款。"
-msgstr "The default payment method is Alipay. If you ask for a large amount of buying Bitcoin, it is recommended to pay by Bank Card."
+msgstr ""
 
-#: ../../source/btc/index.rst:24
+#: ../../btc/index.rst:24
 msgid "付款"
-msgstr "Make a payment"
+msgstr ""
 
-#: ../../source/btc/index.rst:26
+#: ../../btc/index.rst:26
 msgid "下单后，付款有效时间为十分钟。"
-msgstr "The valid time to pay is only ten-minutes after placing an order."
+msgstr ""
 
-#: ../../source/btc/index.rst:27
+#: ../../btc/index.rst:27
 msgid "付款账户必须是本人账户，支付宝需要实名认证，银行卡开户者必须是本人，否则无法完成交易。"
-msgstr "Payment account must be owner account.  Alipay requires Real-name authentication and the bank card account must be your own, otherwise the transaction won’t be completed."
+msgstr ""
 
-#: ../../source/btc/index.rst:28
+#: ../../btc/index.rst:28
 msgid "付款时请备注好订单号，点击下订单号后面的数组就复制了，直接粘贴过去就可以了。"
-msgstr "Please remark the order number well during the process of payment. You can click the array behind this order number to copy and paste it."
+msgstr ""
 
-#: ../../source/btc/index.rst:29
+#: ../../btc/index.rst:29
 msgid "备注时候，只要备注订单，其他的文字信息如比特币等不要填写。"
-msgstr "The order number is the only information to remark. Don’t fill in other text information such as Bitcoin, etc."
+msgstr ""
 
-#: ../../source/btc/index.rst:30
+#: ../../btc/index.rst:30
 msgid "付款完成后点击已付款按钮。"
-msgstr "Remember to click the button-Paid when the payment is complete."
+msgstr ""
 
-#: ../../source/btc/index.rst:33
+#: ../../btc/index.rst:33
 msgid "收币"
-msgstr "Receive Bitcoin"
+msgstr ""
 
-#: ../../source/btc/index.rst:35
+#: ../../btc/index.rst:35
 msgid "交易员确认收到款后，会立刻给您放币的，在首页可以看到收币的记录。"
-msgstr "After confirming the received money, dealers will immediately send you Bitcoin. You can see this record in the home page."
+msgstr ""
 
-#: ../../source/btc/index.rst:38
+#: ../../btc/index.rst:38
 msgid "一键卖币"
-msgstr "Instant Trade for selling Bitcoin"
+msgstr ""
 
-#: ../../source/btc/index.rst:43
+#: ../../btc/index.rst:43
 msgid "卖币最小限额是0.1BTC，填写好购买的币数后，可以在最下方看到收款金额。"
-msgstr "The minimum amount of selling Bitcoin is 0.1BTC. After filling in the specific number of Bitcoin you want to sell, you can see the received money at the bottom."
+msgstr ""
 
-#: ../../source/btc/index.rst:46
+#: ../../btc/index.rst:46
 msgid "填写收款信息"
-msgstr "Fill in the payment information"
+msgstr ""
 
-#: ../../source/btc/index.rst:48
+#: ../../btc/index.rst:48
 msgid "目前支持支付宝和银行卡收款。"
-msgstr "Currently it supports the payment methods-- Alipay and Bank Card ."
+msgstr ""
 
-#: ../../source/btc/index.rst:49
+#: ../../btc/index.rst:49
 msgid "收款账户只能是本人的账户，并且确认无误，便于交易员给你付款。"
-msgstr "Receivable account should also be owner account. After confirming it correct, dealers will pay you money instantly."
+msgstr ""
 
-#: ../../source/btc/index.rst:50
+#: ../../btc/index.rst:50
 msgid "由于需要币确认后才能给你付款，这个过程可能需要几分钟，耐心等下。"
-msgstr "Since dealers must firstly confirm to receive Bitcoin and then give you a payment, it maybe takes a few minutes to process, so please be patience."
+msgstr ""
 
-#: ../../source/btc/index.rst:53
+#: ../../btc/index.rst:53
 msgid "确认收款"
-msgstr "Confirm the received money"
+msgstr ""
 
-#: ../../source/btc/index.rst:55
+#: ../../btc/index.rst:55
 msgid "在确认收到款后，点击“我已收款”"
-msgstr "After confirming money, please click 'Received money'"
+msgstr ""
 

@@ -17,49 +17,47 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Generated-By: Babel 2.4.0\n"
 
-#: ../../source/address/index.rst:2
+#: ../../address/index.rst:2
 msgid "地址簿"
-msgstr "Address Book"
+msgstr ""
 
-#: ../../source/address/index.rst:6
+#: ../../address/index.rst:6
 msgid "概述"
-msgstr "Overview"
+msgstr ""
 
-#: ../../source/address/index.rst:8
+#: ../../address/index.rst:8
 msgid "管理比特币地址。"
-msgstr "Bitpie Address Management."
+msgstr ""
 
-#: ../../source/address/index.rst:19
+#: ../../address/index.rst:19
 msgid "地址簿使用方法"
-msgstr "The usage of Address Book"
+msgstr ""
 
-#: ../../source/address/index.rst:21
+#: ../../address/index.rst:21
 msgid "左边菜单-设置-地址簿。"
-msgstr "Left Menu — Setting — Address Book."
+msgstr ""
 
-#: ../../source/address/index.rst:27
+#: ../../address/index.rst:27
 msgid "地址管理"
-msgstr "Address Book Management"
+msgstr ""
 
-#: ../../source/address/index.rst:29
+#: ../../address/index.rst:29
 msgid "长按地址标签可对地址进行编辑或删除。长按地址可以对地址进行复制，生成二维码。"
-msgstr "Long time to press Address Label for editing and deleting. Long time to press Address for copying it and generating QR Code."
+msgstr ""
 
-#: ../../source/address/index.rst:30
+#: ../../address/index.rst:30
 msgid "在比特派首页上方区域有个二维码，点击后可以看到你的地址以及地址二维码。同样，点击右下角加号，接收，也可以弹出你的地址以及地址二维码。"
-msgstr "There is a QR code on the top of Home Interface. You can click it to see your address and QR code address. Similarly, after clicking the lower right '+' - Receive, you can also see your address and QR code address."
+msgstr ""
 
-#: ../../source/address/index.rst:41
+#: ../../address/index.rst:41
 msgid "注意事项"
-msgstr "Precautions"
+msgstr ""
 
-#: ../../source/address/index.rst:43
+#: ../../address/index.rst:43
 msgid "地址簿中的地址不一定都是您自己的地址。"
-msgstr "The address in Address Book is maybe not yourself address."
+msgstr ""
 
-#: ../../source/address/index.rst:44
+#: ../../address/index.rst:44
 msgid "这里我们需要知道，你的比特派每次有交易后，你的收款地址是会改变的，旧地址在你的历史地址里可以查到。左边菜单—我的地址—收款地址。可以查到你的旧地址，长按可以添加到地址簿，然后你可以备注下，用来区分。旧地址也是可以正常收币的。"
-msgstr "Reminder: Each time when you complete a transaction, your receivable address will change and the old address can be found in your historical address that is on Left Menu - My address - Recipient address. You can press old address for a long time to add it in Address Book. And then you can remark it to distinguish. The old address can also normally receive Bitcoin."
-
-
+msgstr ""
 
