@@ -23,7 +23,7 @@ msgstr "Send and Receive"
 
 #: ../../SendAndReceive/index.rst:5
 msgid "发送"
-msgstr "SendA"
+msgstr "Send"
 
 #: ../../SendAndReceive/index.rst:7
 msgid "​比特派支持多目的地址发币，像发送交易频繁的用户，使用起来更方便。目的地址你可以通过复制粘贴上去，从地址簿添加上去，或者使用相机扫描目的地址二维码多种方式填写。输入对金额和目的地址后，确认没问题，点击确认。"
