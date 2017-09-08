@@ -31,6 +31,10 @@
    BitpieBcc/index
    BtcBcc/index
    AnotherAssets/index
+   btcbcc/index
+   bitherbcc/index
+   bitpiebcc/index
+   anotherAssets/index
 
 
 
