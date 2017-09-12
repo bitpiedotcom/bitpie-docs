@@ -20,8 +20,8 @@
    VerificationOfIdentity/index
    InstantTrade/index
    SendAndReceive/index
-   VIP/index
-   OTC/index
+   vip/index
+   otc/index
    TxAcelerate/index
    AddressBook/index
    MessageSigning/index
