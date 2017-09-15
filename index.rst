@@ -18,10 +18,7 @@
    Function/index
    RegisterAndRecover/index
    VerificationOfIdentity/index
-   InstantTrade/index
    SendAndReceive/index
-   vip/index
-   otc/index
    TxAcelerate/index
    AddressBook/index
    MessageSigning/index
