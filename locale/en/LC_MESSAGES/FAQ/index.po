@@ -1000,19 +1000,19 @@ msgstr ""
 
 #: ../../FAQ/index.rst:397
 msgid "直接发送到你冷钱包的地址上就可以了，监控冷钱包的热钱包可以查看余额的哈。"
-msgstr ""
+msgstr "                  "
 
 #: ../../FAQ/index.rst:400
 msgid "85.HD账户的知识点?"
-msgstr ""
+msgstr "                      "
 
 #: ../../FAQ/index.rst:401
 msgid "1、知道主公匙就能知道所有的子公匙吗？能"
-msgstr ""
+msgstr "                      "
 
 #: ../../FAQ/index.rst:403
 msgid "2、知道某个子公匙能不能推算出其它子公匙或主公匙？不能"
-msgstr ""
+msgstr "                       "
 
 #: ../../FAQ/index.rst:405
 msgid "3、能不能判断任意两个子公匙是否都属于某个主公匙？（即判断有没有关联）不能"
@@ -1020,42 +1020,42 @@ msgstr ""
 
 #: ../../FAQ/index.rst:407
 msgid "4、知道任一子私匙+主公匙，就能算出主私匙，那样 整个HD钱包系统的财富都不保了吧？是的"
-msgstr ""
+msgstr "                           "
 
 #: ../../FAQ/index.rst:409
 msgid "5、子钱包的使用不需要提供主公匙吧？可以不用，但现在大家都用"
-msgstr ""
+msgstr "                      "
 
 #: ../../FAQ/index.rst:411
 msgid "6、主私匙冷藏， 主公匙从不透露， 这样HD钱包应该就没什么风险了吧？是的，这样就没风险了"
-msgstr ""
+msgstr "                     "
 
 #: ../../FAQ/index.rst:414
 msgid "86.隔离验证是什么？"
-msgstr ""
+msgstr "                   "
 
 #: ../../FAQ/index.rst:415
 msgid "隔离验证是一种新的比特币交易格式。从隔离验证地址上发出来的交易就会是隔离验证交易。隔离验证解决了比特币的交易延展性问题。隔离验证交易多了一个新的概念叫虚拟大小，虚拟大小小于普通交易的大小，矿工费和块容量都依虚拟大小计算，也就是说隔离验证交易可以使用更少的矿工费更快的得到确认。我们目前支持的3开头的隔离验证地址是一种兼容性的地址，既能享受部分隔离验证带来的好处，又与旧版钱包相兼容，这是在比特币社区全部迁移到隔离验证前的一个步骤。需要注意的是目前并没有一个公认的方法使用3开头的地址进行消息签名，所以比特派也就暂不支持这个功能了。"
-msgstr ""
+msgstr "                    "
 
 #: ../../FAQ/index.rst:418
 msgid "87.支持隔离验证后旧地址可以用吗？"
-msgstr ""
+msgstr "                  "
 
 #: ../../FAQ/index.rst:419
 msgid "以前地址也可以的，比特派支持非隔离验证和隔离验证的地址，完全遵守HD的相关规范，隔离验证也是按照相关路径生成出来的哈，这个大家不用担心哈。"
-msgstr ""
+msgstr "            "
 
 #: ../../FAQ/index.rst:422
 msgid "88.如何加入电报群?"
-msgstr ""
+msgstr "               "
 
 #: ../../FAQ/index.rst:423
 msgid ""
 "为了更好，更安全的为大家服务，请大家下载 Telegram 软件（打开官方https://telegram.org/，或者google play "
 "商店、itunes中搜索\"Telegram\",都需要使用翻墙服务才能打开，另外请大家不要去不可信的网站来源下载此软件，以免造成财产损失 "
 "，下载安装好后，速加派电报群 https://t.me/bitpie1"
-msgstr ""
+msgstr "           "
 
 #~ msgid "费率"
 #~ msgstr "rates"
