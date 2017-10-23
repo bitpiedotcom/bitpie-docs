@@ -100,12 +100,10 @@ msgid "2.选择收币,检测ETH资产(右上角三点)。"
 msgstr "2.Choose Receiver,Detect ETH assets(Three in the top right corner)"
 
 #: ../../anotherAssets/index.rst:116
-#, fuzzy
 msgid "提取转错的ETC"
 msgstr "Extract the transferred error ETC"
 
 #: ../../anotherAssets/index.rst:118
-#, fuzzy
 msgid "1.如果误将ETC发到ETH地址上，请切换ETH界面。"
 msgstr ""
 "1.If the ETC is sent to the ETH address, please switch to the ETH "
