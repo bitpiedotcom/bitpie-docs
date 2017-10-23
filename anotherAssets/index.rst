@@ -7,6 +7,10 @@
 提取转错的BCC
 --------------------
 
+
+注:如果误将BCC发到隔离验证的地址上，将造成BCC损失，无法找回。
+
+
 1.如果误将BCC发到了BTC地址上，请切换到BTC界面。
 
 2.选择我的-我的地址－收款地址-在我的历史收款BTC地址中'选择误发的地址'-检测BCC资产。
@@ -73,6 +77,67 @@
     :height: 520px
     :scale: 100%
     :align: center
+
+
+
+
+
+
+提取转错的ETH
+---------------------------------
+
+1.如果误将ETH发到ETC地址上，请切换ETC界面。
+
+2.选择收币,检测ETH资产(右上角三点)。
+
+
+.. image:: ../img/detecteth.jpg
+    :width: 320px
+    :height: 520px
+    :scale: 100%
+    :align: center
+
+
+
+
+.. image:: ../img/DetectETHAssets.jpg
+    :width: 320px
+    :height: 520px
+    :scale: 100%
+    :align: center
+
+
+
+
+
+
+
+提取转错的ETC
+-------------------------------
+
+1.如果误将ETC发到ETH地址上，请切换ETH界面。
+
+2.选择收币,检测ETC资产(右上角三点)。
+
+
+.. image:: ../img/detectetc.jpg
+    :width: 320px
+    :height: 520px
+    :scale: 100%
+    :align: center
+
+
+
+
+.. image:: ../img/DetectETCAssets.jpg
+    :width: 320px
+    :height: 520px
+    :scale: 100%
+    :align: center
+
+
+
+
 
 
 
