@@ -25,8 +25,6 @@
    BankCard/index
    MultiCurrency/index
    btcbcc/index
-   bitherbcc/index
-   bitpiebcc/index
    anotherAssets/index
 
 
