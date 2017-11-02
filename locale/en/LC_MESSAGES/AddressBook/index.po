@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Bitpie 0.1\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2017-08-17 20:44+0800\n"
+"POT-Creation-Date: 2017-11-02 20:41+0800\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -43,17 +43,45 @@ msgstr "Address Book Management"
 
 #: ../../AddressBook/index.rst:29
 msgid "点击地址标签可对地址进行编辑或删除。点击地址可以对地址进行复制，生成二维码。"
-msgstr "Click time to press Address Label for editing and deleting. Long time to press Address for copying it and generating QR Code."
+msgstr ""
+"Click time to press Address Label for editing and deleting. Long time to "
+"press Address for copying it and generating QR Code."
 
 #: ../../AddressBook/index.rst:30
 msgid "这里我们需要知道，你的比特派每次有交易后，你的收款地址是会改变的，旧地址在你的历史地址里可以查到。底部菜单—我的——我的地址—收款地址。可以查到你的旧地址，点击可以添加到地址簿，然后你可以备注下，用来区分。旧地址也是可以正常收币的。"
-msgstr "Reminder: Each time when you complete a transaction, your receivable address will change and the old address can be found in your historical address that is on Bottom Menu - My - My address - Recipient address. You can Click address for a long time to add it in Address Book. And then you can remark it to distinguish. The old address can also normally receive Bitcoin."
+msgstr ""
+"Reminder: Each time when you complete a transaction, your receivable "
+"address will change and the old address can be found in your historical "
+"address that is on Bottom Menu - My - My address - Recipient address. You"
+" can Click address for a long time to add it in Address Book. And then "
+"you can remark it to distinguish. The old address can also normally "
+"receive Bitcoin."
 
-#: ../../AddressBook/index.rst:49
+#: ../../AddressBook/index.rst:48
+msgid "普通地址切换到隔离验证地址"
+msgstr "Normal Address switch Segwit Address."
+
+#: ../../AddressBook/index.rst:50
+msgid "一定不要把BCH发到该地址上，发了将无法找回！"
+msgstr "Please never send BCH to this address,otherwise the BCH can't be found back!"
+
+#: ../../AddressBook/index.rst:52
+msgid "右上角三点，选择隔离验证地址"
+msgstr "Three in the top right corner,Choose Segwit Address."
+
+#: ../../AddressBook/index.rst:66
+msgid "隔离验证地址切换到普通地址"
+msgstr "Segwit Address Switch Normal Address"
+
+#: ../../AddressBook/index.rst:68
+msgid "右上角三点，选择普通地址"
+msgstr "Three in the top right corner,Choose Normal Address."
+
+#: ../../AddressBook/index.rst:80
 msgid "注意事项"
 msgstr "Precautions"
 
-#: ../../AddressBook/index.rst:51
+#: ../../AddressBook/index.rst:82
 msgid "地址簿中的地址不一定都是您自己的地址。"
 msgstr "The address in Address Book is maybe not yourself address."
 
