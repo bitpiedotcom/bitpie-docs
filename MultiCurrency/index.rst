@@ -1,7 +1,7 @@
 币种切换
 ================
 
-.. image:: ../img/multi_currency.png
+.. image:: ../img/multi_currencys.png
     :width: 320px
     :height: 520px
     :scale: 100%
