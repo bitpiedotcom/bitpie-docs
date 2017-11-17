@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Bitpie 0.2\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2017-11-16 15:01+0800\n"
+"POT-Creation-Date: 2017-11-17 17:52+0800\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -39,6 +39,32 @@ msgstr ""
 msgid "3.选择领取。"
 msgstr "3.Choose Receive."
 
+#: ../../btcbtg/index.rst:27
+msgid "比太钱包获取BTG"
+msgstr "Bitcoin Gold is in Bither"
+
+#: ../../btcbtg/index.rst:28
+msgid "1.更新比太钱包，通过比太热钱包进行操作。"
+msgstr "1.Update Bither to the latest version，it is operated by Bither hot wallet."
+
+#: ../../btcbtg/index.rst:30
+msgid "2.设置-高级选项-获取BTG。"
+msgstr "2.setting-Advanced options-obtain BTG"
+
+#: ../../btcbtg/index.rst:39
+msgid "3.选择相对应的账户地址，输入比特派BTG地址及密码。"
+msgstr "3.Choose the corresponding account address and enter into Bitpie Gold "
+"address and password."
+
+#: ../../btcbtg/index.rst:49
+msgid "如果是比太热钱包监控冷钱包，这时需要进行签名交易。"
+msgstr ""
+"If the Bitpie hot wallet  monitors a cold wallet, the signature is "
+"required for transaction."
+
 #~ msgid "4.领取成功之后会自动切换到BCH界面；可对BCH进行发币、收币等操作。"
+#~ msgstr ""
+
+#~ msgid "比太钱包获取BCH"
 #~ msgstr ""
 
