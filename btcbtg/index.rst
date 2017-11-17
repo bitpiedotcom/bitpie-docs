@@ -38,6 +38,13 @@
 
 3.选择相对应的账户地址，输入比特派BTG地址及密码。
 
+.. image:: ../img/choosebtg.png
+    :width: 320px
+    :height: 520px
+    :scale: 100%
+    :align: center
+
+
 .. image:: ../img/getbtg.png
     :width: 320px
     :height: 520px
