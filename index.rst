@@ -12,7 +12,7 @@
 
 
 
-   FAQ/index
+
    Introduction/index
    Download/index
    Function/index
@@ -27,6 +27,7 @@
    btcbcc/index
    btcbtg/index
    anotherAssets/index
+   FAQ/index
 
 
 
