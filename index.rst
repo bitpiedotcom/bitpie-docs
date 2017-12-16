@@ -26,6 +26,7 @@
    MultiCurrency/index
    btcbcc/index
    btcbtg/index
+   btcsbtc/index
    anotherAssets/index
    FAQ/index
 

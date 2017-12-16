@@ -1,0 +1,44 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2017, bitpie
+# This file is distributed under the same license as the Bitpie package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2017.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Bitpie 0.2\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2017-12-16 19:16+0800\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.4.0\n"
+
+#: ../../btcsbtc/index.rst:2
+msgid "获取SBTC"
+msgstr "Get Super Bitcoin"
+
+#: ../../btcsbtc/index.rst:5
+msgid "比特派钱包获取SBTC"
+msgstr "Super Bitcoin is in Bitpie"
+
+#: ../../btcsbtc/index.rst:7
+msgid "1.更新比特派最新版本。"
+msgstr "1.Update Bitpie to the latest version."
+
+#: ../../btcsbtc/index.rst:9
+msgid "2.打开比特派会自动提示'您可领取SuperBitcoin，领取？'。"
+msgstr ""
+"2.Aftering opening the Bitpie, there is an automatic information 'You "
+"have obtainable Super Bitcoin. Receive it immediately? '"
+
+#: ../../btcsbtc/index.rst:17
+msgid "3.选择领取。"
+msgstr "3.Choose Receive."
+
+#~ msgid "比特派钱包获取BTG"
+#~ msgstr ""
+
