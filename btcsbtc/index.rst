@@ -16,7 +16,7 @@
 
 3.选择领取。
 
-.. image:: ../img/sbtcmessage.png
+.. image:: ../img/sbtcmess.png
     :width: 320px
     :height: 520px
     :scale: 100%
