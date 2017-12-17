@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Bitpie 0.2\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2017-12-16 19:16+0800\n"
+"POT-Creation-Date: 2017-12-17 17:32+0800\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -26,19 +26,51 @@ msgid "比特派钱包获取SBTC"
 msgstr "Super Bitcoin is in Bitpie"
 
 #: ../../btcsbtc/index.rst:7
-msgid "1.更新比特派最新版本。"
-msgstr "1.Update Bitpie to the latest version."
+msgid "1、更新比特派版本2.4.0或更新的版本。"
+msgstr "1.Update Bitpie to the latest version(v2.4.0 or newer version)."
 
 #: ../../btcsbtc/index.rst:9
-msgid "2.打开比特派会自动提示'您可领取SuperBitcoin，领取？'。"
+msgid "2、打开比特派会自动提示'您可领取 SuperBitcoin，领取'。"
 msgstr ""
 "2.Aftering opening the Bitpie, there is an automatic information 'You "
 "have obtainable Super Bitcoin. Receive it immediately? '"
 
 #: ../../btcsbtc/index.rst:17
-msgid "3.选择领取。"
+msgid "3、选择领取。"
 msgstr "3.Choose Receive."
 
 #~ msgid "比特派钱包获取BTG"
+#~ msgstr ""
+
+#~ msgid "比太钱包获取SBTC"
+#~ msgstr ""
+
+#~ msgid "1、更新比太钱包，通过比太热钱包进行操作。"
+#~ msgstr ""
+
+#~ msgid "2、设置-高级选项-获取 SBTC。"
+#~ msgstr ""
+
+#~ msgid "3、选择相对应的账户地址，输入比特派 SBTC 地址及密码。"
+#~ msgstr ""
+
+#~ msgid "如果是比太热钱包监控冷钱包，这时需要进行签名交易。"
+#~ msgstr ""
+
+#~ msgid "其他钱包私钥或者密语导入比太钱包步骤"
+#~ msgstr ""
+
+#~ msgid ""
+#~ "1、下载比太钱包。因为比太只支持导入一个HD账户，如果比太钱包已经有HD账户，建议再找一台手机下载安装比太钱包。下载安装步骤：使用浏览器打开"
+#~ " 安卓：https://bither.net/ iOS：https://bither.net/ios/"
+#~ msgstr ""
+
+#~ msgid "2、将您的私钥导入比太钱包。路径：设置－高级选项－导入私钥。如果您是普通的私钥，使用—来自私钥明文即可。如果您是HD账户密语，使用—来自HD密语。"
+#~ msgstr ""
+
+#~ msgid "3、如果您的私钥是未压缩格式，导入成功后会提示您选择压缩还是未压缩格式，您一个一个试下即可。"
+#~ msgstr ""
+
+#~ msgid "4、导入成功后，检查地址是否正确，并且查看是否显示以往的交易记录，只有同步到最新块儿才会显示交易记录，余额等信息的哈。导入成功后即可按照步骤领取分叉币。"
 #~ msgstr ""
 
