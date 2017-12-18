@@ -18,13 +18,20 @@
 
 3、选择理财，这里以BTC理财为例。选择理财类型（月，天），选择月。
 
-..  image:: ../img/choose_monthly.png
+..  image:: ../img/choose_btc_mon.png
     :width: 320px
     :height: 520px
     :scale: 100%
     :align: center
 
 4、买入。
+
+..  image:: ../img/choose_btc_buy.png
+    :width: 320px
+    :height: 520px
+    :scale: 100%
+    :align: center
+
 
 ..  image:: ../img/buy_btc_bank.png
     :width: 320px
@@ -45,6 +52,12 @@
 --------------------------
 
 1、选择持有，选择理财类型（月，天）。
+
+..  image:: ../img/ongoingplan.png
+    :width: 320px
+    :height: 520px
+    :scale: 100%
+    :align: center
 
 2、选择支取。（可以支取买入的BTC,也可以自定义支取金额）。
 
