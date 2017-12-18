@@ -8,10 +8,13 @@
 
 2、派银行 - 理财（选择对应的币种理财）。
 
+
 ..  image:: ../img/pie_bank.png
-    :width: 920px
+    :width: 320px
+    :height: 520px
     :scale: 100%
     :align: center
+
 
 3、选择理财，这里以BTC理财为例。选择理财类型（月，天），选择月。
 
