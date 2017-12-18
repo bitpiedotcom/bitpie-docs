@@ -28,13 +28,15 @@
 比太钱包获取 SBTC
 ----------------------------------
   
-比太钱包支持相同BIP规范的私钥或者密语导入，您如果使用其他比特币钱包软件，可以将私钥导入比太钱包，获取SBTC。教程：http://docs.bitpie.com/zh_CN/latest/bitherImportPrivateKeyToken/index.html
+比太钱包支持相同BIP规范的私钥或者密语导入，您如果使用其他比特币钱包软件，可以将私钥导入比太钱包，获取SBTC。
+
+教程：http://docs.bitpie.com/zh_CN/latest/bitherImportPrivateKeyToken/index.html
 
 1、更新比太钱包 v1.7.8 ，通过比太热钱包进行操作。  
 
 2、设置-高级选项-获取 SBTC。
 
-..  image:: ../img/bithergetSbtc.png 
+.. image:: ../img/bithergetSbtc.png
     :width: 320px
     :height: 520px
     :scale: 100%
