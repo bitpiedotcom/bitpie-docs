@@ -24,6 +24,7 @@
    MessageSigning/index
    BankCard/index
    MultiCurrency/index
+   bitherImportPrivateKeyToken/index
    btcbcc/index
    btcbtg/index
    btcsbtc/index
