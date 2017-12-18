@@ -44,15 +44,61 @@
 
    3、选择相对应的账户地址，输入比特派 SBTC 地址及密码。  
 
+.. image:: ../img/getSbtcbitpieAddress.png
+    :width: 320px
+    :height: 520px
+    :scale: 100%
+    :align: center
+
+.. image:: ../img/alreadygetSbtc.png
+    :width: 320px
+    :height: 520px
+    :scale: 100%
+    :align: center
+
+
 如果是比太热钱包监控冷钱包，获得确认之后需要进行签名交易。
 
 1、选择相对应的账户地址。
 
+.. image:: ../img/coldAddress.png
+    :width: 320px
+    :height: 520px
+    :scale: 100%
+    :align: center
+
+
 2、输入比特派 SBTC 地址。
+
+.. image:: ../img/getSbtcbitpieAddress.png
+    :width: 320px
+    :height: 520px
+    :scale: 100%
+    :align: center
+
 
 3、用冷钱包扫描热钱包待签名交易。使用包含此地址私钥的冷钱包扫描。
 
+.. image:: ../img/sign.png
+    :width: 320px
+    :height: 520px
+    :scale: 100%
+    :align: center
+
+
 4、用热钱包扫描冷钱包已签名的交易。
+
+.. image:: ../img/hotsing.png
+    :width: 320px
+    :height: 520px
+    :scale: 100%
+    :align: center
+
+.. image:: ../img/hotscan.png
+    :width: 320px
+    :height: 520px
+    :scale: 100%
+    :align: center
 
 
 
