@@ -9,7 +9,8 @@
 2、派银行 - 理财（选择对应的币种理财）。
 
 ..  image:: ../img/pie_bank.png
-    :width: 920px
+    :width: 320px
+    :height: 520px 
     :scale: 100%
     :align: center
 
