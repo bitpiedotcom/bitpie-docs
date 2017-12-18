@@ -53,7 +53,7 @@ msgstr "2.setting-Advanced options-obtain BTG"
 
 #: ../../btcbtg/index.rst:39
 msgid "3.选择相对应的账户地址，输入比特派BTG地址及密码。"
-msgstr "3.Choose the corresponding account address and enter into Bitpie Gold "
+msgstr "3.Choose the corresponding account address and enter into Bitpie BTG "
 "address and password."
 
 #: ../../btcbtg/index.rst:49
