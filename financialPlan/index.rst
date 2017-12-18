@@ -34,7 +34,7 @@
 
 5、买入成功之后，可看流水。
 
-..  image:: ../img/buy_flow.png
+..  image:: ../img/btc_flow.png
     :width: 320px
     :height: 520px
     :scale: 100%
