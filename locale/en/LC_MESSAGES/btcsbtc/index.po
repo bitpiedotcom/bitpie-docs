@@ -45,7 +45,7 @@ msgstr "Bitcoin Gold is in Bither"
 
 #: ../../btcsbtc/index.rst:31
 msgid "比太钱包支持相同BIP规范的私钥或者密语导入，您如果使用其他比特币钱包软件，可以将私钥导入比太钱包，获取SBTC。"
-msgstr ""
+msgstr "If you are currently using other bitcoin wallets that follow same BIP protocol, you can import your private keys or seeds to Bither wallet to claim SBTC."
 
 #: ../../btcsbtc/index.rst:33
 msgid "教程：http://docs.bitpie.com/zh_CN/latest/bitherImportPrivateKeyToken/index.html"
