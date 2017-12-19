@@ -53,7 +53,7 @@ msgstr ""
 "If you are currently using other bitcoin wallets that follow same BIP "
 "protocol, you can import your private keys or seeds to Bither wallet to "
 "claim SBTC. "
-"Tutorials:http://docs.bitpie.com/en/latest/bitherImportPrivateKeyToken/index.html"
+"Tutorials: http://docs.bitpie.com/en/latest/bitherImportPrivateKeyToken/index.html"
 
 #: ../../btcsbtc/index.rst:35
 msgid "1、更新比太钱包 v1.7.8 ，通过比太热钱包进行操作。"
