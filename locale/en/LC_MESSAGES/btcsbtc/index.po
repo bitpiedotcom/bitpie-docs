@@ -41,7 +41,7 @@ msgstr "3.Choose Receive."
 
 #: ../../btcsbtc/index.rst:27
 msgid "比太钱包获取 SBTC"
-msgstr "Bitcoin Gold is in Bither"
+msgstr " Super Bitcoin is in Bither"
 
 #: ../../btcsbtc/index.rst:31
 msgid "比太钱包支持相同BIP规范的私钥或者密语导入，您如果使用其他比特币钱包软件，可以将私钥导入比太钱包，获取SBTC。"
