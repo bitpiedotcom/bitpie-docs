@@ -1,0 +1,46 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2017, bitpie
+# This file is distributed under the same license as the Bitpie package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2017.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Bitpie 0.2\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2017-12-24 15:34+0800\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.4.0\n"
+
+#: ../../btcbtw/index.rst:2
+msgid "获取 BTW"
+msgstr "Get Bitcoin World"
+
+#: ../../btcbtw/index.rst:5
+msgid "比特派钱包获取 BTW"
+msgstr "Bitcoin World is in Bitpie"
+
+#: ../../btcbtw/index.rst:7
+msgid "1、更新到最新版本，版本号 >= 2.4.3 ，设置底部查看版本号并且可以“检查新版本”。"
+msgstr "1.Update Bitpie to the latest version(v2.4.3 or newer version)"
+
+#: ../../btcbtw/index.rst:9
+msgid "2、打开比特派切换到 BTC 币种界面，会自动提示'您可领取 Bitcoin World ，领取'。如果没有提示，下拉刷新试下。"
+msgstr ""
+"2.Open Bitpie app, switch to BTC wallet, there will be a pop-up to remind you that 'You have obtainable Bitcoin World. Receive it immediately ', If the pop-up doesn’t show up, try pull-down to refresh the app."
+
+#: ../../btcbtw/index.rst:17
+msgid "3、选择领取。"
+msgstr "3.Choose Receive."
+
+#: ../../btcbtw/index.rst:25
+msgid "注意：需要在分叉时候您钱包地址里有币，才可领取分叉币。分叉币种的详细信息查看 pieifo.com"
+msgstr "Aware: You can claim fork token only if you have BTC in your address by the time of fork height. You can check more detail about those forks on: pieifo.com."
+
+
+
