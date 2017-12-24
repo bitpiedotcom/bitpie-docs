@@ -28,6 +28,7 @@
    btcbcc/index
    btcbtg/index
    btcsbtc/index
+   btcbtw/index
    anotherAssets/index
    financialPlan/index
    FAQ/index
