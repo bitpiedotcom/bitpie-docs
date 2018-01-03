@@ -19,7 +19,7 @@ msgstr ""
 
 #: ../../bitcoinFork/index.rst:2
 msgid "分叉币领取"
-msgstr "Get fork coin"
+msgstr "Get Fork Coin"
 
 #: ../../bitcoinFork/index.rst:4
 msgid "1、按照分叉币 SBTC 为例，其他分叉币的领取参考此文档。"
