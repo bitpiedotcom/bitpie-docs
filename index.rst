@@ -25,10 +25,6 @@
    BankCard/index
    MultiCurrency/index
    bitherImportPrivateKeyToken/index
-   btcbcc/index
-   btcbtg/index
-   btcsbtc/index
-   btcbtw/index
    bitcoinFork/index
    anotherAssets/index
    financialPlan/index

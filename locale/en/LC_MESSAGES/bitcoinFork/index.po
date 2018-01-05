@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Bitpie 0.2\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2018-01-03 19:04+0800\n"
+"POT-Creation-Date: 2018-01-05 11:48+0800\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -23,17 +23,23 @@ msgstr "Get Fork Coin"
 
 #: ../../bitcoinFork/index.rst:4
 msgid "1、按照分叉币 SBTC 为例，其他分叉币的领取参考此文档。"
-msgstr "1.This is a SBTC claiming sample, all fork token claiming process are same , you can refer to this document."
+msgstr ""
+"1.This is a SBTC claiming sample, all fork token claiming process are "
+"same , you can refer to this document."
 
 #: ../../bitcoinFork/index.rst:6
-msgid "2､ 目前可以领取的分叉币包括 BCH、BTG、SBTC、BTW、SBTC、BCD 。"
-msgstr "2.The following fork coin claiming is now supported: BCH, BTG, SBTC, BTW, SBTC ,BCD"
+msgid "2､ 目前可以领取的分叉币包括 BCH、BTG、SBTC、BTW 、BCD 。"
+msgstr ""
+"The following fork coin claiming is now supported: BCH, BTG, SBTC, BTW, BCD ."
 
 #: ../../bitcoinFork/index.rst:8
 msgid ""
 "3､ 需要在分叉块高度，您的比特派/比太钱包地址里有币，或者比特派的派银行里有币，符合领取条件才可以领取分叉币。分叉币的详细信息请参考： "
 "http://pieifo.com 。"
-msgstr "You can claim fork coin only if you have BTC in your Bitpie or Bither wallet at fork height or you have BTC in your piebank at fork height. For more detail about those hard-forks,please check http://pieifo.com "
+msgstr ""
+"You can claim fork coin only if you have BTC in your Bitpie or Bither "
+"wallet at fork height or you have BTC in your piebank at fork height. For"
+" more detail about those hard-forks,please check http://pieifo.com "
 
 #: ../../bitcoinFork/index.rst:12
 msgid "比特派钱包获取 SBTC"
@@ -49,7 +55,6 @@ msgstr ""
 "2.Aftering opening the Bitpie, there is an automatic information 'You "
 "have obtainable Super Bitcoin. Receive it immediately '"
 
-
 #: ../../bitcoinFork/index.rst:24
 msgid "3、选择领取。"
 msgstr "3.Choose Receive."
@@ -60,15 +65,18 @@ msgstr "Get Super Bitcoin in Bither"
 
 #: ../../bitcoinFork/index.rst:44
 msgid "比太钱包支持相同BIP规范的私钥或者密语导入，您如果使用其他比特币钱包软件，可以将私钥导入比太钱包，获取SBTC。"
-msgstr "If you are currently using other bitcoin wallets that follow same BIP protocol, you can import your private keys or seeds to Bither wallet to claim SBTC."
+msgstr ""
+"If you are currently using other bitcoin wallets that follow same BIP "
+"protocol, you can import your private keys or seeds to Bither wallet to "
+"claim SBTC."
 
 #: ../../bitcoinFork/index.rst:46
 msgid "教程：http://docs.bitpie.com/zh_CN/latest/bitherImportPrivateKeyToken/index.html"
 msgstr ""
 "If you are currently using other bitcoin wallets that follow same BIP "
 "protocol, you can import your private keys or seeds to Bither wallet to "
-"claim SBTC. "
-"Tutorials: http://docs.bitpie.com/en/latest/bitherImportPrivateKeyToken/index.html"
+"claim SBTC. Tutorials: "
+"http://docs.bitpie.com/en/latest/bitherImportPrivateKeyToken/index.html"
 
 #: ../../bitcoinFork/index.rst:48
 msgid "1、更新比太钱包 v1.7.9 ，通过比太热钱包进行操作。"
@@ -78,13 +86,11 @@ msgstr "1.Update Bither wallet to v1.7.9 , claim SBTC with Bither hot wallet."
 msgid "2、设置-高级选项-获取 SBTC。"
 msgstr "2.setting-Advanced options-obtain SBTC"
 
-
 #: ../../bitcoinFork/index.rst:63
 msgid "3、选择相对应的账户地址，输入比特派 SBTC 地址及密码。"
 msgstr ""
 "3.Choose the corresponding account address and enter into Bitpie SBTC "
 "address and password."
-
 
 #: ../../bitcoinFork/index.rst:80
 msgid "如果是比太热钱包监控冷钱包，获得确认之后需要进行签名交易。"
@@ -110,4 +116,9 @@ msgstr ""
 "4.Confirm to sign transaction, then use Bither hot wallet to scan bar "
 "code to sign transaction."
 
+#~ msgid "2､ 目前可以领取的分叉币包括 BCH、BTG、SBTC、BTW、BCD 。"
+#~ msgstr ""
+#~ "2.The following fork coin claiming is"
+#~ " now supported: BCH, BTG, SBTC, BTW"
+#~ " ,BCD"
 
