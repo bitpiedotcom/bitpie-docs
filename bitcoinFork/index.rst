@@ -43,7 +43,7 @@
 
 教程：http://docs.bitpie.com/zh_CN/latest/bitherImportPrivateKeyToken/index.html
 
-1、更新比太钱包 v1.7.8 ，通过比太热钱包进行操作。  
+1、更新比太钱包 v1.7.9 ，通过比太热钱包进行操作。  
 
 2、设置-高级选项-获取 SBTC。
 

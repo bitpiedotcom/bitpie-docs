@@ -71,8 +71,8 @@ msgstr ""
 "Tutorials: http://docs.bitpie.com/en/latest/bitherImportPrivateKeyToken/index.html"
 
 #: ../../bitcoinFork/index.rst:48
-msgid "1、更新比太钱包 v1.7.8 ，通过比太热钱包进行操作。"
-msgstr "1.Update Bither wallet to v1.7.8 , claim SBTC with Bither hot wallet."
+msgid "1、更新比太钱包 v1.7.9 ，通过比太热钱包进行操作。"
+msgstr "1.Update Bither wallet to v1.7.9 , claim SBTC with Bither hot wallet."
 
 #: ../../bitcoinFork/index.rst:52
 msgid "2、设置-高级选项-获取 SBTC。"
