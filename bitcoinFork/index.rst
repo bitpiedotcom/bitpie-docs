@@ -1,21 +1,21 @@
 分叉币领取
 =============
 
-1、按照分叉币 SBTC 为例，其他分叉币的领取参考此文档。
+1、按照分叉币 BTW 为例，其他分叉币的领取参考此文档。
 
 2､ 目前可以领取的分叉币包括 BCH、BTG、SBTC、BTW 、BCD 。
 
 3､ 需要在分叉块高度，您的比特派/比太钱包地址里有币，或者比特派的派银行里有币，符合领取条件才可以领取分叉币。分叉币的详细信息请参考： http://pieifo.com 。
 
 
-比特派钱包获取 SBTC
+比特派钱包获取分叉币
 ------------------------
 
-1、更新到最新版本，版本号 >= 2.4.0 ，设置底部查看版本号并且可以“检查新版本”。
+1、更新到最新版本，版本号 >= 2.4.3 ，设置底部查看版本号并且可以“检查新版本”。
 
-2、打开比特派会自动提示'您可领取 SuperBitcoin，领取'。如果没有提示，下拉刷新试下。
+2、打开比特派会自动提示'您可领取 Bitcoin World ，领取'。如果没有提示，下拉刷新试下。
 
-.. image:: ../img/Bitcoinsbtc.png
+.. image:: ../img/bitpieGetBtw.png
     :width: 320px
     :height: 520px
     :scale: 100%
@@ -23,7 +23,7 @@
 
 3、选择领取。
 
-.. image:: ../img/sbtcmess.png
+.. image:: ../img/getBtw.png
     :width: 320px
     :height: 520px
     :scale: 100%
@@ -36,32 +36,32 @@
 
 
 
-比太钱包获取 SBTC
+比太钱包获取分叉币
 ----------------------------------
   
-比太钱包支持相同BIP规范的私钥或者密语导入，您如果使用其他比特币钱包软件，可以将私钥导入比太钱包，获取SBTC。
+比太钱包支持相同BIP规范的私钥或者密语导入，您如果使用其他比特币钱包软件，可以将私钥导入比太钱包，获取 BTW。
 
 教程：http://docs.bitpie.com/zh_CN/latest/bitherImportPrivateKeyToken/index.html
 
 1、更新比太钱包 v1.7.9 ，通过比太热钱包进行操作。  
 
-2、设置-高级选项-获取 SBTC。
+2、设置-高级选项-获取 BTW。
 
-.. image:: ../img/bithergetSbtc.png
+.. image:: ../img/getbtw.jpg
     :width: 320px
     :height: 520px
     :scale: 100%
     :align: center
 
-   3、选择相对应的账户地址，输入比特派 SBTC 地址及密码。  
+   3、选择相对应的账户地址，输入比特派 BTW 地址及密码。  
 
-.. image:: ../img/getSbtcbitpieAddress.png
+.. image:: ../img/getBtwbitpieAddress.jpg
     :width: 320px
     :height: 520px
     :scale: 100%
     :align: center
 
-.. image:: ../img/alreadygetSbtc.png
+.. image:: ../img/alreadygetBtw.jpg
     :width: 320px
     :height: 520px
     :scale: 100%
@@ -72,16 +72,16 @@
 
 1、选择相对应的账户地址。
 
-.. image:: ../img/coldAddress.png
+.. image:: ../img/coldBtwAddress.jpg
     :width: 320px
     :height: 520px
     :scale: 100%
     :align: center
 
 
-2、输入比特派 SBTC 地址。
+2、输入比特派 BTW 地址。
 
-.. image:: ../img/getSbtcbitpieAddress.png
+.. image:: ../img/getBtwbitpieAddress.jpg
     :width: 320px
     :height: 520px
     :scale: 100%
