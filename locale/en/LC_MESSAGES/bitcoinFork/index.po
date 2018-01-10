@@ -102,9 +102,8 @@ msgid "1、选择相对应的账户地址。"
 msgstr "1.Choose the corresponding account address"
 
 #: ../../bitcoinFork/index.rst:91
-#, fuzzy
 msgid "2、输入比特派 BTW 地址。"
-msgstr "2.enter into Bitpie SBTC address."
+msgstr "2.enter into Bitpie BTW address."
 
 #: ../../bitcoinFork/index.rst:100
 msgid "3、用冷钱包扫描热钱包待签名交易。使用包含此地址私钥的冷钱包扫描。"
