@@ -47,7 +47,7 @@ msgstr "2.Chose order type (limit order, market order), default is limit order."
 
 #: ../../Expie/index.rst:34
 msgid "3、输入 价格（BTC）、数量（BCH），选择比例，以及成交金额（BTC），选择买入。"
-msgstr "3. Input price (to BTC), BCH amount you want to buy, click buy button to submit your order."
+msgstr "3.Input price (to BTC), BCH amount you want to buy, click buy button to submit your order."
 
 #: ../../Expie/index.rst:43
 msgid "4、买入之后，可在当前委托查看您买入的订单，等待订单成交。如果买入订单有误可以在当前委托界面中撤单。"
@@ -67,11 +67,11 @@ msgstr "1.Make a BTC deposit to PieBank ."
 
 #: ../../Expie/index.rst:69
 msgid "2、选择类型下单类型限价、市价，默认为限价。"
-msgstr "2. Chose order type (limit order, market order), default is limit order."
+msgstr "2.Chose order type (limit order, market order), default is limit order."
 
 #: ../../Expie/index.rst:71
 msgid "3、输入 价格（BTC）、数量（BCH），选择比例，以及成交金额（BTC），选择卖出。"
-msgstr "3. Input price (to BTC), BCH amount you want to sell, click sell button to submit your order."
+msgstr "3.Input price (to BTC), BCH amount you want to sell, click sell button to submit your order."
 
 #: ../../Expie/index.rst:80
 msgid "4、卖出之后，可在当前当前委托查看您卖出的订单，等待订单成交。如果卖出订单有误可以在当前委托界面中撤单。"
