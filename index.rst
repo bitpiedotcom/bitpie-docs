@@ -24,7 +24,6 @@
    MessageSigning/index
    BankCard/index
    MultiCurrency/index
-   Expie/index
    bitherImportPrivateKeyToken/index
    bitcoinFork/index
    anotherAssets/index
