@@ -3,7 +3,7 @@
 
 1、按照分叉币 BTW 为例，其他分叉币的领取参考此文档。
 
-2､ 目前可以领取的分叉币包括 BCH、BTG、SBTC、BTW 、BCD 、BTF 、BTP。
+2､ 目前可以领取的分叉币包括 BCH、BTG、SBTC、BTW 、BCD 、BTF 、BTP、BTN。
 
 3､ 需要在分叉块高度，您的比特派/比太钱包地址里有币，或者比特派的派银行里有币，符合领取条件才可以领取分叉币。分叉币的详细信息请参考： http://pieifo.com 。
 
@@ -43,11 +43,19 @@
 
 教程：http://docs.bitpie.com/zh_CN/latest/bitherImportPrivateKeyToken/index.html
 
-1、更新比太钱包 v1.7.9 ，通过比太热钱包进行操作。  
+1、更新到最新版本，版本号 >= 1.7.9 ，通过比太热钱包进行操作。  
 
-2、设置-高级选项-获取 BTW。
+2、设置-高级选项-获取分叉币-获得 BTW 。
 
-.. image:: ../img/getbtw.jpg
+
+.. image:: ../img/getforcoin.jpg
+    :width: 320px
+    :height: 520px
+    :scale: 100%
+    :align: center
+
+
+.. image:: ../img/getbtws.jpg
     :width: 320px
     :height: 520px
     :scale: 100%

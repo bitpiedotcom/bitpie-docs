@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Bitpie 0.2\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2018-01-17 12:16+0800\n"
+"POT-Creation-Date: 2018-01-22 17:17+0800\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -28,9 +28,10 @@ msgstr ""
 " , you can refer to this document."
 
 #: ../../bitcoinFork/index.rst:6
-msgid "2､ 目前可以领取的分叉币包括 BCH、BTG、SBTC、BTW 、BCD 、BTF 、BTP。"
+msgid "2､ 目前可以领取的分叉币包括 BCH、BTG、SBTC、BTW 、BCD 、BTF 、BTP、BTN。"
 msgstr ""
-"The following fork coin claiming is now supported: BCH, BTG, SBTC, BTW, BCD, BTF, BTP" 
+"The following fork coin claiming is now supported: BCH, BTG, SBTC, BTW, "
+"BCD, BTF, BTP, BTN."
 
 #: ../../bitcoinFork/index.rst:8
 msgid ""
@@ -77,38 +78,38 @@ msgstr ""
 "http://docs.bitpie.com/en/latest/bitherImportPrivateKeyToken/index.html"
 
 #: ../../bitcoinFork/index.rst:48
-msgid "1、更新比太钱包 v1.7.9 ，通过比太热钱包进行操作。"
-msgstr "1.Update Bither wallet to v1.7.9 , claim BTW with Bither hot wallet."
+msgid "1、更新到最新版本，版本号 >= 1.7.9 ，通过比太热钱包进行操作。"
+msgstr "1.Update Bitpie to the latest version(v1.7.9 or newer version) , claim BTW with Bither hot wallet."
 
 #: ../../bitcoinFork/index.rst:52
-msgid "2、设置-高级选项-获取 BTW。"
-msgstr "2.setting-Advanced options-obtain BTW"
+msgid "2、设置-高级选项-获取分叉币-获得 BTW 。"
+msgstr "2.setting-Advanced options-Get Fork Coins-Get BTW"
 
-#: ../../bitcoinFork/index.rst:63
+#: ../../bitcoinFork/index.rst:71
 msgid "3、选择相对应的账户地址，输入比特派 BTW 地址及密码。"
 msgstr ""
 "3.Choose the corresponding account address and enter into Bitpie BTW "
 "address and password."
 
-#: ../../bitcoinFork/index.rst:80
+#: ../../bitcoinFork/index.rst:88
 msgid "如果是比太热钱包监控冷钱包，获得确认之后需要进行签名交易。"
 msgstr ""
 "If the Bitpie hot wallet  monitors a cold wallet, the signature is "
 "required for transaction."
 
-#: ../../bitcoinFork/index.rst:82
+#: ../../bitcoinFork/index.rst:90
 msgid "1、选择相对应的账户地址。"
 msgstr "1.Choose the corresponding account address"
 
-#: ../../bitcoinFork/index.rst:91
+#: ../../bitcoinFork/index.rst:99
 msgid "2、输入比特派 BTW 地址。"
 msgstr "2.enter into Bitpie BTW address."
 
-#: ../../bitcoinFork/index.rst:100
+#: ../../bitcoinFork/index.rst:108
 msgid "3、用冷钱包扫描热钱包待签名交易。使用包含此地址私钥的冷钱包扫描。"
 msgstr "3.User Bither cold wallet to scan the bar code of unsigned transaction ."
 
-#: ../../bitcoinFork/index.rst:109
+#: ../../bitcoinFork/index.rst:117
 msgid "4、用热钱包扫描冷钱包已签名的交易。"
 msgstr ""
 "4.Confirm to sign transaction, then use Bither hot wallet to scan bar "
@@ -125,4 +126,10 @@ msgstr ""
 #~ "The following fork coin claiming is "
 #~ "now supported: BCH, BTG, SBTC, BTW, "
 #~ "BCD ."
+
+#~ msgid "2､ 目前可以领取的分叉币包括 BCH、BTG、SBTC、BTW 、BCD 、BTF 、BTP。"
+#~ msgstr ""
+#~ "The following fork coin claiming is "
+#~ "now supported: BCH, BTG, SBTC, BTW, "
+#~ "BCD, BTF, BTP"
 
