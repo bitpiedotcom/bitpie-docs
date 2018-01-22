@@ -1,7 +1,7 @@
 交易所
 ========================
 
-目前比特派交易所支持 BCH/BTC 、BTG/BTC 、LTC/BTC 、ETH/BTC、 ETC/BTC、 ZEC/BTC 交易。
+目前 ExPie 支持 BCH/BTC 、BTG/BTC 、LTC/BTC 、ETH/BTC、 ETC/BTC、 ZEC/BTC 交易。
 
 将您需要交易的币充值到派银行。
 
