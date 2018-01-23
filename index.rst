@@ -20,7 +20,6 @@
    VerificationOfIdentity/index
    SendAndReceive/index
    TxAcelerate/index
-   Expie/index
    AddressBook/index
    MessageSigning/index
    BankCard/index
