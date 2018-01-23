@@ -43,7 +43,7 @@ msgstr "1.Make a BTC deposit to PieBank . Menu-Exchange-Deposit-Pie Bank(Deposit
 
 #: ../../Expie/index.rst:32
 msgid "2､ 下单类型：默认限价。"
-msgstr "2. order type:limit order."
+msgstr "2.order type:limit order."
 
 #: ../../Expie/index.rst:34
 msgid "3、输入 价格（BTC）、数量（BCH），选择比例，以及成交金额（BTC），选择买入。"
