@@ -21,6 +21,7 @@
    SendAndReceive/index
    TxAcelerate/index
    AddressBook/index
+   Expie/index
    MessageSigning/index
    BankCard/index
    MultiCurrency/index
