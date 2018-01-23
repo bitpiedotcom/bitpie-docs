@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Bitpie 0.2\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2018-01-22 18:05+0800\n"
+"POT-Creation-Date: 2018-01-23 14:17+0800\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -22,8 +22,8 @@ msgid "交易所"
 msgstr "ExPie"
 
 #: ../../Expie/index.rst:4
-msgid "目前 ExPie 支持 BCH/BTC 、BTG/BTC 、LTC/BTC 、ETH/BTC、 ETC/BTC、 ZEC/BTC 交易。"
-msgstr "ExPie supports following trading pairs: BCH/BTC 、BTG/BTC 、LTC/BTC 、ETH/BTC、 ETC/BTC、 ZEC/BTC."
+msgid "目前 ExPie 支持 BCH/BTC 交易。"
+msgstr "ExPie supports following trading pairs: BCH/BTC"
 
 #: ../../Expie/index.rst:6
 msgid "将您需要交易的币充值到派银行。"
@@ -42,8 +42,8 @@ msgid "1、将 BTC 充值到派银行中，底部菜单－交易所－充值－�
 msgstr "1.Make a BTC deposit to PieBank . Menu-Exchange-Deposit-Pie Bank(Deposit)."
 
 #: ../../Expie/index.rst:32
-msgid "2､ 选择下单类型限价、市价，默认为限价。"
-msgstr "2.Chose order type (limit order, market order), default is limit order."
+msgid "2､ 下单类型：默认限价。"
+msgstr "2. order type:limit order."
 
 #: ../../Expie/index.rst:34
 msgid "3、输入 价格（BTC）、数量（BCH），选择比例，以及成交金额（BTC），选择买入。"
@@ -51,37 +51,47 @@ msgstr ""
 "3.Input price (to BTC), BCH amount you want to buy, click buy button to "
 "submit your order."
 
-#: ../../Expie/index.rst:43
+#: ../../Expie/index.rst:42
+msgid ""
+"图中说明：1、切换交易对。 2、EXPIE LIMITED。 3､查看历史成交及交易流水。 4､下单类型。5､价格（BTC）。 "
+"6、数量（BCH）。 7、成交金额（BTC）。 8、卖单区。 9、买单区。"
+msgstr ""
+"Note: 1. Switch trading pairs.  2.EXPIE LIMITED.   3. view the history "
+"and exchange.  4.order type.   5.Price(BTC).  6.Amount(BCH).  "
+"7.Total(BTC).  8.Sell area.  9.Buy area. "
+
+#: ../../Expie/index.rst:46
 msgid "4、买入之后，可在当前委托查看您买入的订单，等待订单成交。如果买入订单有误可以在当前委托界面中撤单。"
 msgstr ""
 "4.After submit order, before it is fulfilled, you can check or cancel "
 "your order at 'open orders'."
 
-#: ../../Expie/index.rst:53 ../../Expie/index.rst:82
-msgid "5、订单成交之后，右上角 历史成交 界面查看订单详情。"
+#: ../../Expie/index.rst:56 ../../Expie/index.rst:85
+msgid "5、订单成交之后，可在右上角三点查看历史成交及交易流水。"
 msgstr ""
 "5.After the order is fulfilled, you can check transaction detail at "
-"'history' which is located at upper right corner."
+"'history' which is located at Three o'clock in the upper right corner."
 
-#: ../../Expie/index.rst:65
+#: ../../Expie/index.rst:68
 msgid "BCH/BTC 卖出"
 msgstr "BCH Sell"
 
-#: ../../Expie/index.rst:67
+#: ../../Expie/index.rst:70
 msgid "1、将 BCH 充值到派银行中，底部菜单－交易所－充值－派银行（充值)。"
 msgstr "1.Make a BTC deposit to PieBank ."
 
-#: ../../Expie/index.rst:69
-msgid "2、选择类型下单类型限价、市价，默认为限价。"
-msgstr "2.Chose order type (limit order, market order), default is limit order."
+#: ../../Expie/index.rst:72
 
-#: ../../Expie/index.rst:71
+msgid "2、下单类型：默认为限价。"
+msgstr "2.order type : limit order."
+
+#: ../../Expie/index.rst:74
 msgid "3、输入 价格（BTC）、数量（BCH），选择比例，以及成交金额（BTC），选择卖出。"
 msgstr ""
 "3.Input price (to BTC), BCH amount you want to sell, click sell button to"
 " submit your order."
 
-#: ../../Expie/index.rst:80
+#: ../../Expie/index.rst:83
 msgid "4、卖出之后，可在当前当前委托查看您卖出的订单，等待订单成交。如果卖出订单有误可以在当前委托界面中撤单。"
 msgstr ""
 "4.After submit order, before it is fulfilled, you can check or cancel "
@@ -92,4 +102,17 @@ msgstr ""
 #~ "Bitpie Exchange(Expie) supports following "
 #~ "trading pairs: BCH/BTC 、BTG/BTC 、LTC/BTC "
 #~ "、ETH/BTC、 ETC/BTC、 ZEC/BTC."
+
+#~ msgid "目前 ExPie 支持 BCH/BTC 、BTG/BTC 、LTC/BTC 、ETH/BTC、 ETC/BTC、 ZEC/BTC 交易。"
+#~ msgstr ""
+#~ "ExPie supports following trading pairs: "
+#~ "BCH/BTC 、BTG/BTC 、LTC/BTC 、ETH/BTC、 ETC/BTC、"
+#~ " ZEC/BTC."
+
+#~ msgid "5、订单成交之后，右上角 历史成交 界面查看订单详情。"
+#~ msgstr ""
+#~ "5.After the order is fulfilled, you "
+#~ "can check transaction detail at "
+#~ "'history' which is located at upper "
+#~ "right corner."
 
