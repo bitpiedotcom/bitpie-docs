@@ -1,7 +1,7 @@
 ExPie
 ========================
 
-目前 ExPie 支持 BCH/BTC 交易。
+目前 ExPie 支持 BCH/BTC 、 BTG/BTC 、 SBTC/BTC 、BTW/BTC 、BCD/BTC 、BTF/BTC 、BTP/BTC 、 BTN/BTC 交易。
 
 将您需要交易的币充值到派银行。
 
