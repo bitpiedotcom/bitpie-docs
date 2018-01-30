@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Bitpie 0.2\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2018-01-25 18:58+0800\n"
+"POT-Creation-Date: 2018-01-29 17:05+0800\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -24,10 +24,10 @@ msgstr ""
 #: ../../Expie/index.rst:4
 msgid ""
 "目前 ExPie 支持 BCH/BTC 、 BTG/BTC 、 SBTC/BTC 、BTW/BTC 、BCD/BTC 、BTF/BTC "
-"、BTP/BTC 、 BTN/BTC 交易。"
+"、BTP/BTC 、 BTN/BTC、LTC/BTC、ETH/BTC、ETC/BTC 交易。"
 msgstr ""
-"ExPie supports following trading pairs: BCH/BTC 、BTG/BTC 、SBTC/BTC "
-"、BTW/BTC、 BCD/BTC、 BTF/BTC 、BTP/BTC 、BTN/BTC."
+"ExPie supports following trading pairs: BCH/BTC 、BTG/BTC 、SBTC/BTC 、BTW/BTC、 BCD/BTC、BTF/BTC 、BTP/BTC 、BTN/BTC、LTC/BTC 、ETH/BTC 、ETC/BTC ."
+
 
 #: ../../Expie/index.rst:6
 msgid "将您需要交易的币充值到派银行。"
@@ -130,4 +130,13 @@ msgstr ""
 
 #~ msgid "目前 ExPie 支持 BCH/BTC 交易。"
 #~ msgstr "ExPie supports following trading pairs: BCH/BTC"
+
+#~ msgid ""
+#~ "目前 ExPie 支持 BCH/BTC 、 BTG/BTC 、"
+#~ " SBTC/BTC 、BTW/BTC 、BCD/BTC 、BTF/BTC "
+#~ "、BTP/BTC 、 BTN/BTC 交易。"
+#~ msgstr ""
+#~ "ExPie supports following trading pairs: "
+#~ "BCH/BTC 、BTG/BTC 、SBTC/BTC 、BTW/BTC、 BCD/BTC、"
+#~ " BTF/BTC 、BTP/BTC 、BTN/BTC."
 
