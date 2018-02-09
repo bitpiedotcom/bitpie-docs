@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Bitpie 0.1\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2017-09-29 20:28+0800\n"
+"POT-Creation-Date: 2018-02-09 19:08+0800\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -92,9 +92,9 @@ msgstr ""
 "at least to start trading?"
 
 #: ../../FAQ/index.rst:27
-msgid "目前：“一键买卖”最低交易0.1BTC，“OTC托管交易”买卖双方自定义限额。后期也有可能动态调整。"
+msgid "目前：“一键买卖”最低交易0.01BTC，“OTC托管交易”买卖双方自定义限额。后期也有可能动态调整。"
 msgstr ""
-"The minimum limits of ‘Instant Trade’ are 0.1BTC. The buyer and seller on"
+"The minimum limits of ‘Instant Trade’ are 0.01 BTC. The buyer and seller on"
 " OTC Escrow transaction can define the limits."
 
 #: ../../FAQ/index.rst:30
@@ -208,16 +208,16 @@ msgid "矿工费承担方"
 msgstr "Payer for Miners’ Fee"
 
 #: ../../FAQ/index.rst:76
-msgid "一键买币 ( < 1BTC )"
-msgstr "Buying Bitcoin on Instant Trade(Less than 1BTC)"
+msgid "一键买币 ( < 5BTC )"
+msgstr "Buying Bitcoin on Instant Trade(Less than 5BTC)"
 
 #: ../../FAQ/index.rst:76
 msgid "买币方"
 msgstr "Buyer party"
 
 #: ../../FAQ/index.rst:77
-msgid "一键买币 ( > 1BTC )"
-msgstr "Buying Bitcoin on Instant Trade(Greater than 1BTC)"
+msgid "一键买币 ( > 5BTC )"
+msgstr "Buying Bitcoin on Instant Trade(Greater than 5BTC)"
 
 #: ../../FAQ/index.rst:77
 msgid "比特派"
@@ -290,8 +290,8 @@ msgid "下单方"
 msgstr "Buyer/Seller"
 
 #: ../../FAQ/index.rst:96
-msgid "0%"
-msgstr "0%"
+msgid "0.3%"
+msgstr "0.3%"
 
 #: ../../FAQ/index.rst:97
 msgid "OTC托管交易手续费"

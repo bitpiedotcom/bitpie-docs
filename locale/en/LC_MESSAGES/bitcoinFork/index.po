@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Bitpie 0.2\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2018-01-22 17:17+0800\n"
+"POT-Creation-Date: 2018-02-09 19:08+0800\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -28,10 +28,8 @@ msgstr ""
 " , you can refer to this document."
 
 #: ../../bitcoinFork/index.rst:6
-msgid "2､ 目前可以领取的分叉币包括 BCH、BTG、SBTC、BTW 、BCD 、BTF 、BTP、BTN。"
-msgstr ""
-"The following fork coin claiming is now supported: BCH, BTG, SBTC, BTW, "
-"BCD, BTF, BTP, BTN."
+msgid "2､ 目前可以领取的分叉币包括 BCH、BTG、SBTC、BTW 、BCD 、BTF 、BTP、BTN、CDY、SAFE、LCH。"
+msgstr "The following fork coin claiming is now supported: BCH, BTG, SBTC, BTW, BCD, BTF, BTP, BTN, CDY, SAFE, LCH."
 
 #: ../../bitcoinFork/index.rst:8
 msgid ""
@@ -79,7 +77,9 @@ msgstr ""
 
 #: ../../bitcoinFork/index.rst:48
 msgid "1、更新到最新版本，版本号 >= 1.7.9 ，通过比太热钱包进行操作。"
-msgstr "1.Update Bitpie to the latest version(v1.7.9 or newer version) , claim BTW with Bither hot wallet."
+msgstr ""
+"1.Update Bitpie to the latest version(v1.7.9 or newer version) , claim "
+"BTW with Bither hot wallet."
 
 #: ../../bitcoinFork/index.rst:52
 msgid "2、设置-高级选项-获取分叉币-获得 BTW 。"
@@ -132,4 +132,10 @@ msgstr ""
 #~ "The following fork coin claiming is "
 #~ "now supported: BCH, BTG, SBTC, BTW, "
 #~ "BCD, BTF, BTP"
+
+#~ msgid "2､ 目前可以领取的分叉币包括 BCH、BTG、SBTC、BTW 、BCD 、BTF 、BTP、BTN。"
+#~ msgstr ""
+#~ "The following fork coin claiming is "
+#~ "now supported: BCH, BTG, SBTC, BTW, "
+#~ "BCD, BTF, BTP, BTN."
 

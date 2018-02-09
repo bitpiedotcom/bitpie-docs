@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Bitpie 0.1\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2017-11-16 16:24+0800\n"
+"POT-Creation-Date: 2018-02-09 19:08+0800\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -22,96 +22,51 @@ msgid "帮您提取转错的币"
 msgstr "Help you extract the transferred error cryptocurrency"
 
 #: ../../anotherAssets/index.rst:4
-msgid "更新比特派最新版本。"
-msgstr "Update Bitpie to the latest version"
+msgid "1､更新比特派最新版本，版本号 >= 3.0.4 。"
+msgstr "1.Update Bitpie to the latest version(v3.0.4 or newer version)"
+
+#: ../../anotherAssets/index.rst:6
+msgid "2､比特派支持提取转错的 BTC、BCH、SBTC、ETH、ETC。"
+msgstr ""
+"2.Bitpie supports to claim  BTC、BCH、SBTC、ETH、ETC that was trasferred to "
+"error address type(e.g. send ETH to ETC address)."
 
 #: ../../anotherAssets/index.rst:8
-msgid "提取转错的BCH"
+msgid "3､按照以提取转错的 BCH 为例，其它转错的币参考此文档。"
+msgstr "3.Here are examples to claim BCH. You can refer to this tutorial documents to claim others cryptocurrency that was trasfered by mistake."
+
+#: ../../anotherAssets/index.rst:12
+msgid "提取转错的 BCH"
 msgstr "Extract the transferred error BCH"
 
-#: ../../anotherAssets/index.rst:11
-msgid "注:如果误将BCH发到隔离验证的地址上，将造成BCH损失，无法找回。"
+#: ../../anotherAssets/index.rst:15
+msgid "注:如果误将 BCH 发到隔离验证的地址上，将造成 BCH 损失，无法找回。"
 msgstr ""
 "Note: If the BCH is sent to Segwit address,Cause BCH lose, and unable "
 "retrieve."
 
-#: ../../anotherAssets/index.rst:14
-msgid "1.如果误将BCH发到了BTC地址上，请切换到BTC界面。"
+#: ../../anotherAssets/index.rst:18
+msgid "1、如果误将 BCH 发到了 BTC 地址上，请切换到 BTC 界面。"
 msgstr ""
 "1.If the BCH is sent to the BTC address, please switch to the BTC "
 "interface."
 
-#: ../../anotherAssets/index.rst:16
-msgid "2.选择我的-我的地址－收款地址-在我的历史收款BTC地址中'选择误发的地址'-检测BCH资产。"
+#: ../../anotherAssets/index.rst:20
+msgid "2、选择我的-我的地址－收款地址-在我的历史收款 BTC 地址中'选择误发的地址'-检测 BCH 资产。"
 msgstr ""
 "2.Choose My - My Address - RECEIVING ADDRESS - 'choose the wrong address'"
 " in My History Receiving BTC address - DETECT BCH ASSETS "
 
-#: ../../anotherAssets/index.rst:32
-msgid "如果没有找到BTC地址(误发的地址)，请切换到BTC界面。选择收币-我的BTC地址-检测BCH资产(右上角三点)。"
+#: ../../anotherAssets/index.rst:36
+msgid "如果没有找到 BTC 地址(误发的地址)，请切换到 BTC 界面。选择收币-我的 BTC 地址-检测 BCH 资产(右上角三点)。"
 msgstr ""
 "If Bitcoin address (address in error) is not found, please switch to BTC "
 "interface. Choose Receive - My BTC Addresses - Detect BCH assets(Three in"
 " the top right corner)"
 
-#: ../../anotherAssets/index.rst:41
-msgid "3.提取BCH，提取BCH地址就是你的收币地址。"
-msgstr "3.Extract BCH,The address to extract BCH is your Receiving BCH address."
-
-#: ../../anotherAssets/index.rst:51
-msgid "提取转错的BTC"
-msgstr "Extract the transferred error BTC"
-
-#: ../../anotherAssets/index.rst:53
-msgid "1.如果误将BTC发到BCH地址上，请切换到BCH界面。"
-msgstr ""
-"1.If the BTC is sent to the BCH address, please switch to the BCH "
-"interface."
-
-#: ../../anotherAssets/index.rst:55
-msgid "2.选择我的-我的地址－收款地址-在我的历史收款BCH地址中'选择误发的地址'-检测BTC资产。"
-msgstr ""
-"2.Choose My - My Address - RECEIVING ADDRESS - 'choose the wrong address'"
-" in My History Receiving BTC address - DETECT BCC ASSETS "
-
-#: ../../anotherAssets/index.rst:64
-msgid "如果没有找到BCH地址(误发的地址)，请切换到BCH界面。选择收币-我的BCH地址-检测BTC资产(右上角三点)。"
-msgstr ""
-"If Bitcoin address (address in error) is not found, please switch to BCH "
-"interface. Choose Receive - My BCH Addresses - Detect BTC assets(Three in"
-" the top right corner)"
-
-#: ../../anotherAssets/index.rst:73
-msgid "3.提取BTC，提取BTC地址就是你的收币地址。"
+#: ../../anotherAssets/index.rst:45
+msgid "3、提取 BCH，提取 BCH 地址就是你的收币地址。"
 msgstr "3.Extract BTC,The address to extract BTC is your Receiving btc address."
-
-#: ../../anotherAssets/index.rst:87
-msgid "提取转错的ETH"
-msgstr "Extract the transferred error ETH"
-
-#: ../../anotherAssets/index.rst:89
-msgid "1.如果误将ETH发到ETC地址上，请切换ETC界面。"
-msgstr ""
-"1.If the ETH is sent to the ETC address, please switch to the ETC "
-"interface."
-
-#: ../../anotherAssets/index.rst:91
-msgid "2.选择收币,检测ETH资产(右上角三点)。"
-msgstr "2.Choose Receiver,Detect ETH assets(Three in the top right corner)"
-
-#: ../../anotherAssets/index.rst:116
-msgid "提取转错的ETC"
-msgstr "Extract the transferred error ETC"
-
-#: ../../anotherAssets/index.rst:118
-msgid "1.如果误将ETC发到ETH地址上，请切换ETH界面。"
-msgstr ""
-"1.If the ETC is sent to the ETH address, please switch to the ETH "
-"interface."
-
-#: ../../anotherAssets/index.rst:120
-msgid "2.选择收币,检测ETC资产(右上角三点)。"
-msgstr "2.Choose Receiver,Detect ETC assets(Three in the top right corner)"
 
 #~ msgid "提取转错的BCC"
 #~ msgstr "Extract the transferred error BCC"
@@ -143,4 +98,130 @@ msgstr "2.Choose Receiver,Detect ETC assets(Three in the top right corner)"
 #~ "BTC interface. Choose Receive - My "
 #~ "BTC Addresses - Detect BCC assets(Three"
 #~ " in the top right corner)"
+
+#~ msgid "更新比特派最新版本。"
+#~ msgstr "Update Bitpie to the latest version"
+
+#~ msgid "提取转错的BCH"
+#~ msgstr "Extract the transferred error BCH"
+
+#~ msgid "1.如果误将BCH发到了BTC地址上，请切换到BTC界面。"
+#~ msgstr ""
+#~ "1.If the BCH is sent to the "
+#~ "BTC address, please switch to the "
+#~ "BTC interface."
+
+#~ msgid "3.提取BCH，提取BCH地址就是你的收币地址。"
+#~ msgstr "3.Extract BCH,The address to extract BCH is your Receiving BCH address."
+
+#~ msgid "提取转错的BTC"
+#~ msgstr "Extract the transferred error BTC"
+
+#~ msgid "1.如果误将BTC发到BCH地址上，请切换到BCH界面。"
+#~ msgstr ""
+#~ "1.If the BTC is sent to the "
+#~ "BCH address, please switch to the "
+#~ "BCH interface."
+
+#~ msgid "2.选择我的-我的地址－收款地址-在我的历史收款BCH地址中'选择误发的地址'-检测BTC资产。"
+#~ msgstr ""
+#~ "2.Choose My - My Address - "
+#~ "RECEIVING ADDRESS - 'choose the wrong"
+#~ " address' in My History Receiving BTC"
+#~ " address - DETECT BCC ASSETS "
+
+#~ msgid "如果没有找到BCH地址(误发的地址)，请切换到BCH界面。选择收币-我的BCH地址-检测BTC资产(右上角三点)。"
+#~ msgstr ""
+#~ "If Bitcoin address (address in error)"
+#~ " is not found, please switch to "
+#~ "BCH interface. Choose Receive - My "
+#~ "BCH Addresses - Detect BTC assets(Three"
+#~ " in the top right corner)"
+
+#~ msgid "提取转错的ETH"
+#~ msgstr "Extract the transferred error ETH"
+
+#~ msgid "1.如果误将ETH发到ETC地址上，请切换ETC界面。"
+#~ msgstr ""
+#~ "1.If the ETH is sent to the "
+#~ "ETC address, please switch to the "
+#~ "ETC interface."
+
+#~ msgid "提取转错的ETC"
+#~ msgstr "Extract the transferred error ETC"
+
+#~ msgid "1.如果误将ETC发到ETH地址上，请切换ETH界面。"
+#~ msgstr ""
+#~ "1.If the ETC is sent to the "
+#~ "ETH address, please switch to the "
+#~ "ETH interface."
+
+#~ msgid "2.选择收币,检测ETC资产(右上角三点)。"
+#~ msgstr "2.Choose Receiver,Detect ETC assets(Three in the top right corner)"
+
+#~ msgid "2､比特派目前支持转错的 BTC、BCH、SBTC、ETH、ETC。"
+#~ msgstr "2.Bitpie supports "
+
+#~ msgid "2､比特派支持转错的 BTC、BCH、SBTC、ETH、ETC。"
+#~ msgstr "2.the transferred error ETC"
+
+#~ msgid "3､下面以提取转错的 BTC、BCH、ETH、ETC为例，其它币参照此文档。"
+#~ msgstr ""
+
+#~ msgid "3､按照以提取转错的 BTC、BCH、ETH、ETC为例，其它转错的币参照此文档。"
+#~ msgstr ""
+
+#~ msgid "3､按照以提取转错的 BTC、BCH、ETH、ETC为例，其它转错的币参考此文档。"
+#~ msgstr ""
+
+#~ msgid "提取转错的 BTC"
+#~ msgstr "Extract the transferred error BTC"
+
+#~ msgid "1、如果误将 BTC 发到 BCH 地址上，请切换到 BCH 界面。"
+#~ msgstr ""
+#~ "1.If the BTC is sent to the "
+#~ "BCH address, please switch to the "
+#~ "BCH interface."
+
+#~ msgid "2、选择我的-我的地址－收款地址-在我的历史收款 BCH 地址中'选择误发的地址'-检测 BTC 资产。"
+#~ msgstr ""
+#~ "2.Choose My - My Address - "
+#~ "RECEIVING ADDRESS - 'choose the wrong"
+#~ " address' in My History Receiving BTC"
+#~ " address - DETECT BCH ASSETS "
+
+#~ msgid "如果没有找到 BCH 地址(误发的地址)，请切换到 BCH 界面。选择收币-我的 BCH 地址-检测 BTC 资产(右上角三点)。"
+#~ msgstr ""
+#~ "If Bitcoin address (address in error)"
+#~ " is not found, please switch to "
+#~ "BTC interface. Choose Receive - My "
+#~ "BTC Addresses - Detect BCH assets(Three"
+#~ " in the top right corner)"
+
+#~ msgid "3、提取 BTC，提取 BTC 地址就是你的收币地址。"
+#~ msgstr "3.Extract BTC,The address to extract BTC is your Receiving btc address."
+
+#~ msgid "提取转错的 ETH"
+#~ msgstr "Extract the transferred error ETH"
+
+#~ msgid "1、如果误将 ETH 发到 ETC 地址上，请切换 ETC 界面。"
+#~ msgstr ""
+#~ "1.If the ETH is sent to the "
+#~ "ETC address, please switch to the "
+#~ "ETC interface."
+
+#~ msgid "2、选择收币,检测 ETH 资产(右上角三点)。"
+#~ msgstr "2.Choose Receiver,Detect ETH assets(Three in the top right corner)"
+
+#~ msgid "提取转错的 ETC"
+#~ msgstr "Extract the transferred error ETC"
+
+#~ msgid "1、如果误将 ETC 发到 ETH 地址上，请切换 ETH 界面。"
+#~ msgstr ""
+#~ "1.If the ETC is sent to the "
+#~ "ETH address, please switch to the "
+#~ "ETH interface."
+
+#~ msgid "2、选择收币,检测 ETC 资产(右上角三点)。"
+#~ msgstr "2.Choose Receiver,Detect ETH assets(Three in the top right corner)"
 
