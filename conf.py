@@ -46,7 +46,7 @@ master_doc = 'index'
 
 # General information about the project.
 project = u'Bitpie'
-copyright = u'2017, bitpie'
+copyright = u'2018, bitpie'
 author = u'bitpie'
 
 # The version info for the project you're documenting, acts as replacement for
