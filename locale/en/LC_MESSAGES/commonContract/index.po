@@ -1,0 +1,82 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2018, bitpie
+# This file is distributed under the same license as the Bitpie package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2018.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Bitpie 0.2\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2018-03-16 14:58+0800\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.4.0\n"
+
+#: ../../commonContract/index.rst:2
+msgid "常用合约"
+msgstr "Common Contract"
+
+#: ../../commonContract/index.rst:6
+msgid "EOS主网映射(register)"
+msgstr "eos main chain register"
+
+#: ../../commonContract/index.rst:8
+msgid ""
+"目前 EOS 是 ERC20 代币，可以理解为 \"临时 EOS\"。如果不进行 EOS 主网映射，将无法在 EOS 主网上获得相对应的 \"真 "
+"EOS\"。因此映射一定要做（截至时间为北京时间2018年6月2日6:59:59），不止要做，而且建议大家尽量使用钱包自己来做。 "
+"比特派支持两种方法进行 EOS 映射。"
+msgstr ""
+"Since all the EOSs you are holding currently are ERC20 tokens based on "
+"Ethereum platform, which can be reckoned as “temporary EOS”, if do not "
+"map, you will not get your “real EOS” on the EOS mainnet. Therefore, "
+"mapping is requisite (the latest time of mapping is 6:59:59 a.m. of 2nd "
+"June 2018. Additionally, it is advised to carry out the mapping with your"
+" own wallet. Bitpie provides two options of EOS mapping."
+
+#: ../../commonContract/index.rst:11
+msgid "方法一："
+msgstr "Option 1:"
+
+#: ../../commonContract/index.rst:13
+msgid "1、Bitpie APP 版本大于 3.1.2 。"
+msgstr "1.Bitpie APP version over 3.1.2"
+
+#: ../../commonContract/index.rst:16
+msgid "2、钱包首页-全部-常用合约-选择合约-选择\"EOS主网映射(register)\"。"
+msgstr ""
+"2.Wallet-All-Common Contract-Select Contract-Select 'EOS main chain "
+"register' ."
+
+#: ../../commonContract/index.rst:32
+msgid "3、选择调用合约，输入PIN 码。"
+msgstr "3.Click “Execute Contract” and input 'PIN' code."
+
+#: ../../commonContract/index.rst:41
+msgid "4、执行合约需要消耗矿工费的，当执行合约的交易确认之后，就说明已经 EOS 主网映射成功了。"
+msgstr ""
+"4.Executing the contract will consume some miner fees. After the "
+"confirmation of the execution of the contract, your EOS mapping is "
+"successfully completed."
+
+#: ../../commonContract/index.rst:47
+msgid "方法二："
+msgstr "Option 2:"
+
+#: ../../commonContract/index.rst:49
+msgid "将 EOS 充值到比特派钱包，然后再充值到派银行。比特派会在 EOS 主网上线前，统一帮大家完成映射。"
+msgstr ""
+"First deposit your EOS tokens into Bitpie Wallet, second, deposit EOS "
+"tokens into “Pie Bank”. Bitpie will carry out the mapping for All EOS "
+"tokens in your Pie Bank before the launching of the mainnet."
+
+#~ msgid "2、钱包首页-全部-常用合约-选择合约-EOS主网映射(register)。"
+#~ msgstr ""
+
+#~ msgid "方法一： 1、Bitpie APP 版本大于 3.1.2 。"
+#~ msgstr ""
+
