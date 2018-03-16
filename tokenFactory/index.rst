@@ -35,7 +35,7 @@ Token 工厂
 创建测试 Token 免服务费，但是符合会添加 TEST-前缀。测试需要一点矿工费。测试 Token 工厂是为了让用户更好的了解 Token 工厂。
 
 
-1、Bitpie APP 版本大于 3.1.2 。
+1、Bitpie APP 版本大于 3.1.1 。
 
 2､ 钱包首页－全部－选择 Token 工厂－测试。
 
