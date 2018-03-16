@@ -29,6 +29,8 @@
    bitcoinFork/index
    anotherAssets/index
    financialPlan/index
+   commonContract/index
+   tokenFactory/index
    FAQ/index
 
 
