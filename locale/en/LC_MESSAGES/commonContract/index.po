@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Bitpie 0.2\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2018-03-16 15:14+0800\n"
+"POT-Creation-Date: 2018-03-16 20:16+0800\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -27,47 +27,46 @@ msgstr "EOS main chain register"
 
 #: ../../commonContract/index.rst:8
 msgid ""
-"目前 EOS 是 ERC20 代币，可以理解为 \"临时 EOS\"。如果不进行 EOS 主网映射，将无法在 EOS 主网上获得相对应的 \"真 "
-"EOS\"。因此映射一定要做（截至时间为北京时间2018年6月2日6:59:59），不止要做，而且建议大家尽量使用钱包自己来做。 "
-"比特派支持两种方法进行 EOS 映射。"
-msgstr ""
-"Since all the EOSs you are holding currently are ERC20 tokens based on "
-"Ethereum platform, which can be reckoned as “temporary EOS”, if do not "
-"map, you will not get your “real EOS” on the EOS mainnet. Therefore, "
-"mapping is requisite (the latest time of mapping is 6:59:59 a.m. of 2nd "
-"June 2018. Additionally, it is advised to carry out the mapping with your"
-" own wallet. Bitpie provides two options of EOS mapping."
+"由于目前您所持有的EOS都是以太坊上的ERC20代币，可以理解为“ 临时EOS ”，如果不进行映射，将无法在EOS主网上获得相应“ 真EOS "
+"”。因此，映射一定要做（截至时间为北京时间2018年6月2日6:59:59），不止要做，而且建议大家尽量使用钱包自己来做。 "
+"因为，一些基于eos主链的项目，很可能会在主网上线时空投免费的糖果（代币）， 如果你不做映射， "
+"可能就拿不到这些币。以后还会有更多的项目会有免费代币分发，这一点，错过比特币分叉糖果的朋友一定深有体会。"
+msgstr "Since all the EOSs you are holding currently are ERC20 tokens based on Ethereum platform, which can be reckoned as “temporary EOS”, if do not map, you will not get your “real EOS” on the EOS mainnet. Therefore, mapping is requisite (the latest time of mapping is 6:59:59 a.m. of 2nd June 2018. Additionally, it is advised to carry out the mapping with your own wallet, because some projects based on EOS main chain are very likely to airdrop giveaways when the mainnet is launched, if you don’t map, you will not get these giveaways. In the future, you will probably miss the chances of the receiving these giveaways. For this point, those friends who missed the airdrops of bitcoin fork coins must have very sympathies."
 
 #: ../../commonContract/index.rst:11
+msgid "比特派支持两种方法进行 EOS 映射"
+msgstr "Bitpie provides two options of EOS mapping."
+
+#: ../../commonContract/index.rst:13
 msgid "方法一："
 msgstr "Option 1:"
 
-#: ../../commonContract/index.rst:13
+#: ../../commonContract/index.rst:15
 msgid "1、Bitpie APP 版本大于 3.1.1 。"
 msgstr "1.Bitpie APP version over 3.1.1"
 
-#: ../../commonContract/index.rst:16
+#: ../../commonContract/index.rst:18
 msgid "2、钱包首页-全部-常用合约-选择合约-选择\"EOS主网映射(register)\"。"
 msgstr ""
 "2.Wallet-All-Common Contract-Select Contract-Select 'EOS main chain "
 "register' ."
 
-#: ../../commonContract/index.rst:32
+#: ../../commonContract/index.rst:34
 msgid "3、选择调用合约，输入PIN 码。"
 msgstr "3.Click “Execute Contract” and input 'PIN' code."
 
-#: ../../commonContract/index.rst:41
+#: ../../commonContract/index.rst:43
 msgid "4、执行合约需要消耗矿工费的，当执行合约的交易确认之后，就说明已经 EOS 主网映射成功了。"
 msgstr ""
 "4.Executing the contract will consume some miner fees. After the "
 "confirmation of the execution of the contract, your EOS mapping is "
 "successfully completed."
 
-#: ../../commonContract/index.rst:47
+#: ../../commonContract/index.rst:49
 msgid "方法二："
 msgstr "Option 2:"
 
-#: ../../commonContract/index.rst:49
+#: ../../commonContract/index.rst:51
 msgid "将 EOS 充值到比特派钱包，然后再充值到派银行。比特派会在 EOS 主网上线前，统一帮大家完成映射。"
 msgstr ""
 "First deposit your EOS tokens into Bitpie Wallet, second, deposit EOS "
@@ -78,5 +77,8 @@ msgstr ""
 #~ msgstr ""
 
 #~ msgid "方法一： 1、Bitpie APP 版本大于 3.1.2 。"
+#~ msgstr ""
+
+#~ msgid "比特派支持两种方法进行 EOS 映射。"
 #~ msgstr ""
 
