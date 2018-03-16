@@ -10,7 +10,7 @@ EOS主网映射(register)
 
 方法一：
 
-1、Bitpie APP 版本大于 3.1.2 。
+1、Bitpie APP 版本大于 3.1.1 。
 
 
 2、钱包首页-全部-常用合约-选择合约-选择"EOS主网映射(register)"。
