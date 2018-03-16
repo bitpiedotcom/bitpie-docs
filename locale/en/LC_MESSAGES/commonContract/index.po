@@ -23,7 +23,7 @@ msgstr "Common Contract"
 
 #: ../../commonContract/index.rst:6
 msgid "EOS主网映射(register)"
-msgstr "eos main chain register"
+msgstr "EOS main chain register"
 
 #: ../../commonContract/index.rst:8
 msgid ""
