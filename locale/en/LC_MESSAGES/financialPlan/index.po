@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Bitpie 0.2\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2018-04-26 12:25+0800\n"
+"POT-Creation-Date: 2018-04-26 15:05+0800\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -26,8 +26,8 @@ msgid "买入"
 msgstr "Invest"
 
 #: ../../financialPlan/index.rst:7
-msgid "1、更新比特派钱包最新版 (版本大于v3.2.2) 。"
-msgstr "1.Upgrade your bitpie wallet to v3.2.2 or newer version."
+msgid "1、更新比特派钱包最新版 (版本大于v3.1.7) 。"
+msgstr "1.Upgrade your bitpie wallet to v3.1.7 or newer version."
 
 #: ../../financialPlan/index.rst:9
 msgid "2、派银行 - 理财（选择对应的币种理财）。"
