@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Bitpie 0.1\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2018-04-26 10:22+0800\n"
+"POT-Creation-Date: 2018-04-26 14:22+0800\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -23,7 +23,10 @@ msgstr "Software Function Description"
 
 #: ../../Function/index.rst:6
 msgid "比特派是一款综合化的区块链资产服务产品，主要功能包括：收发、买卖、加速交易、交易所等。"
-msgstr "Bitpie is a comprehensive blockchain assets service product, which includes such functions as receiving& sending, buying& selling, transaction accelerators and exchanges."
+msgstr ""
+"Bitpie is a comprehensive blockchain assets service product, which "
+"includes such functions as receiving& sending, buying& selling, "
+"transaction accelerators and exchanges."
 
 #: ../../Function/index.rst:10
 msgid "首页"
@@ -42,8 +45,8 @@ msgid "一键买卖：快捷方便"
 msgstr "Buy/Sell: convenient and fast"
 
 #: ../../Function/index.rst:18
-msgid "扫一扫：登录 pieifo.com 场外交易使用。"
-msgstr "Scan QR: for lgoin pieotc.com"
+msgid "扫一扫：登录 https://pieotc.com/ 场外交易使用。"
+msgstr "Scan QR: for lgoin https://pieotc.com/"
 
 #: ../../Function/index.rst:20
 msgid "交易记录：显示各个币种的收发币记录。"
@@ -59,11 +62,15 @@ msgstr "OTC trade: customer to customer trade with safety and convenience"
 
 #: ../../Function/index.rst:26
 msgid "查看最近交易记录：最近您的所有收发币记录和买卖记录均可进入查看。"
-msgstr "Check the latest record: tap it to check all your sending& receiving and trading records."
+msgstr ""
+"Check the latest record: tap it to check all your sending& receiving and "
+"trading records."
 
 #: ../../Function/index.rst:28
 msgid "首页下方会显示多个币种，您可快速查看余额和切换。"
-msgstr "At the lower part of the home page, various coins and tokens are shown, which you can switch and customize the display."
+msgstr ""
+"At the lower part of the home page, various coins and tokens are shown, "
+"which you can switch and customize the display."
 
 #: ../../Function/index.rst:30
 msgid "左上角：切换比特派和比特护盾两个账户。"
@@ -94,7 +101,10 @@ msgstr "Passcode Reset: reset your passcode "
 
 #: ../../Function/index.rst:63
 msgid "验证种子：用户一定要在验证种子里验证您当前账户的密语备份是否正确。只有备份密语正确才可继续使用账户。"
-msgstr "Seed Verification: it is requisite for user to verify the correctness of his seed. Only after confirming the correctness of the seed can the user continue to use the account."
+msgstr ""
+"Seed Verification: it is requisite for user to verify the correctness of "
+"his seed. Only after confirming the correctness of the seed can the user "
+"continue to use the account."
 
 #: ../../Function/index.rst:65
 msgid "消息签名、地址簿 ：有专门版块介绍。"
@@ -102,7 +112,9 @@ msgstr "Message Signing and Address Book: we will introduced specifically."
 
 #: ../../Function/index.rst:67
 msgid "BITHD防伪码：比特护盾用户使用此项功能扫描护盾包装盒上刮开的二维码，鉴定护盾真伪。"
-msgstr "BITHD Security Code: BITHD users can verify the authenticity of the QR code on the packing box."
+msgstr ""
+"BITHD Security Code: BITHD users can verify the authenticity of the QR "
+"code on the packing box."
 
 #: ../../Function/index.rst:69
 msgid "用户反馈：如果您有问题，随时可以使用用户反馈提交工单提问。"
