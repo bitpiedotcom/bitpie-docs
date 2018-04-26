@@ -1,11 +1,12 @@
 帮您提取转错的币
 ===========================
 
-1､更新比特派最新版本，版本号 >= 3.0.4 。
+1､更新比特派最新版本，版本号 >= 3.2.2 。
 
-2､比特派支持提取转错的 BTC、BCH、SBTC、ETH、ETC。
+2､比特派支持提取转错的地址列表：在 BTC 地址上提取：BCH、SBTC、BCD、BTV；在 BCH 地址上提取：BTC、SBTC、BCD、BTV；在 SBTC 地址上提取：BTC、BCH、BCD、BTV；在 BCD 地址上提取：BTC、BCH、SBTC、BTV；在 BTV 地址上提取：BTC、BCH、SBTC、BCD；在 ETH 地址上提取：ETC；在 ETC 地址上提取：ETH、ERC20-Token；
 
 3､按照以提取转错的 BCH 为例，其它转错的币参考此文档。
+
 
 
 提取转错的 BCH

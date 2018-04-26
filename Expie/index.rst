@@ -1,7 +1,9 @@
-ExPie
+交易所
 ========================
 
-目前 ExPie 支持 BCH/BTC 、 BTG/BTC 、 SBTC/BTC 、BTW/BTC 、BCD/BTC 、BTF/BTC 、BTP/BTC 、 BTN/BTC、LTC/BTC、ETH/BTC、ETC/BTC 交易。
+目前交易所支持基于 SCNY、BTC、ETH 交易对。
+
+目前交易所支持 BTC/SCNY、ETH/SCNY、BCH/SCNY、LTC/SCNY、EOS/SCNY、POK/SCNY、ETH/BTC、BCH/BTC、BTG/BTC、SBTC/BTC、BTW/BTC、BCD/BTC、BTF/BTC、BTP/BTC、BTN/BTC、BTV/BTC、CDY/BTC、LCH/BTC、SAFE/BTC、BBC/BTC、LTC/BTC、ETC/BTC、EOS/ETH 等交易对。
 
 将您需要交易的币充值到派银行。
 
@@ -12,6 +14,9 @@ ExPie
 
 BCH/BTC 买入
 ----------------------------
+
+
+
 
 1、将 BTC 充值到派银行中，底部菜单－交易所－充值－派银行（充值）。
 
