@@ -19,7 +19,7 @@ msgstr ""
 
 #: ../../Function/index.rst:2
 msgid "软件功能简述"
-msgstr "Introduction"
+msgstr "Software Function Description"
 
 #: ../../Function/index.rst:6
 msgid "比特派是一款综合化的区块链资产服务产品，主要功能包括：收发、买卖、加速交易、交易所等。"

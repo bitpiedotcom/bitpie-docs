@@ -55,7 +55,7 @@
     :align: center
 
 
-.. image:: ../img/getbtws.jpg
+.. image:: ../img/bithergetbtws.jpg
     :width: 320px
     :height: 520px
     :scale: 100%
