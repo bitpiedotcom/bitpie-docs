@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Bitpie 0.1\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2017-09-08 16:25+0800\n"
+"POT-Creation-Date: 2018-04-25 16:24+0800\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -18,12 +18,32 @@ msgstr ""
 "Generated-By: Babel 2.4.0\n"
 
 #: ../../MultiCurrency/index.rst:2
-msgid "币种切换"
-msgstr "Cryptocurrency switch"
+msgid "币种管理"
+msgstr "Assets Management"
 
-#: ../../MultiCurrency/index.rst:11
-msgid "在首页左上角可以点击切换当前钱包的币种。"
-msgstr "In the left top corner of home page, you can click to switch the type of currency"
+#: ../../MultiCurrency/index.rst:6
+msgid "添加币种"
+msgstr "Add Assets"
+
+#: ../../MultiCurrency/index.rst:8
+msgid "默认情况下，第一次进入比特派包，进入页面就是添加币种页面。添加币种页面有 BTC/分叉、ETH/Token、稳定 Token、其他币种。"
+msgstr "By default, when you enter into Bitpie Wallet for first time, you will see the page of adding assets. "
+
+#: ../../MultiCurrency/index.rst:16
+msgid "1、在这里以 BTP 为例 ，在 BTC/分叉列表中打到 BTP。"
+msgstr "1.Take BTP as an example, select BTP under BTC tree."
+
+#: ../../MultiCurrency/index.rst:18
+msgid "2、点击 BTP 右侧的灰色开关，当开关变成绿色，说明 BTP 已打开。钱包首页的币种列表中就会显示 BTP。"
+msgstr "2.Turn on BTP button; the button is on when you see it is green. You will see BTP when you return to the home page."
+
+#: ../../MultiCurrency/index.rst:31
+msgid "币种切换"
+msgstr "Assets Switch"
+
+#: ../../MultiCurrency/index.rst:33
+msgid "钱包首页，选择要切换的币种，点击即可。"
+msgstr "Tap the asset on the home page, it will immediately be switched."
 
 #~ msgid "版本升级"
 #~ msgstr "Version Upgrade"
@@ -57,5 +77,14 @@ msgstr "In the left top corner of home page, you can click to switch the type of
 #~ msgstr ""
 
 #~ msgid "比特派目前支持比特币（BTC）、莱特币(LTC）、比特现金（BCC）、以太坊（ETH）、狗狗币(DOGE)；在首页左上角可以点击切换当前钱包的币种。"
+#~ msgstr ""
+
+#~ msgid "在首页左上角可以点击切换当前钱包的币种。"
+#~ msgstr ""
+#~ "In the left top corner of home "
+#~ "page, you can click to switch the"
+#~ " type of currency"
+
+#~ msgid "默认情况下，第一次进入比特派包，进入界面就是添加币种页面。添加币种页面有 BTC/分叉、ETH/Token、稳定 Token、其他币种。"
 #~ msgstr ""
 

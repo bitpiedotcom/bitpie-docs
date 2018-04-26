@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Bitpie 0.1\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2017-09-08 15:57+0800\n"
+"POT-Creation-Date: 2018-04-26 10:22+0800\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -22,61 +22,201 @@ msgid "软件功能简述"
 msgstr "Introduction"
 
 #: ../../Function/index.rst:6
+msgid "比特派是一款综合化的区块链资产服务产品，主要功能包括：收发、买卖、加速交易、交易所等。"
+msgstr "Bitpie is a comprehensive blockchain assets service product, which includes such functions as receiving& sending, buying& selling, transaction accelerators and exchanges."
+
+#: ../../Function/index.rst:10
 msgid "首页"
 msgstr "Home Page"
 
-#: ../../Function/index.rst:9
-msgid ""
-"​比特派是一款综合化的区块链资产服务产品，主要功能包括：收发、买卖、加速交易……等。在主界面（首页）中有发币、收币、一键买卖和OTC交易。在订单中有一键买卖订单和OTC交易订单。在设置里有修改密码、验证种子、消息签名、地址簿、收款信息等模块儿，在我的里有我的广告、我的地址、消息通知、身份认证、我的押金、交易加速器、设置默认货币等。"
-" 比特派基于HD钱包，用户掌控私钥，交易完成后的币，直接归用户自己保管； 比特派上交易的都是“真币”，对“假币”说不！对“部分准备制”说不！ "
-"比特派提供更多更安全的选择，为您减少资金划转困难的痛苦； 比特派提供基于多重签名的托管（OTC）交易服务和个性化的VIP大客户服务； "
-"比特派提供快速下单的一键买卖交易服务和全面周到的客户反馈服务。"
-msgstr ""
-"Bitpie(bitpie.com) is developed by Bither(bither.net),Bitpie.com becomes "
-"a comprehensive service platform for new generation Blockchain Asset on "
-"the basis of HD wallet technology, Multiple signatures and Chain "
-"transactions. Upon it, you use digital currency easier and safer. The "
-"good reputation of Bither wallet will motivate us to provide more "
-"professional and perfect services of Bitpie. In terms of our team’s "
-"unique insights and solid strength on  blockchain and Cryptography "
-"technology, Bither wallet , as a bitcoin wallet in china, is the only one"
-" that has recommended by the official Bitcoin.org( Related Links: "
-"https://bitcoin.org/en/choose-your-wallet). Our team fully know how to "
-"develop the safe wallet and how to protect the asset on Blockchain, so we"
-" believe Bitpie will offer more pleasant experience to win your absolute "
-"trust in the future."
+#: ../../Function/index.rst:12
+msgid "在主界面（首页）中有如下功能"
+msgstr "At the home page, you can see the following functions:"
+
+#: ../../Function/index.rst:14
+msgid "发币、收币"
+msgstr "Send, receive"
+
+#: ../../Function/index.rst:16
+msgid "一键买卖：快捷方便"
+msgstr "Buy/Sell: convenient and fast"
+
+#: ../../Function/index.rst:18
+msgid "扫一扫：登录 pieifo.com 场外交易使用。"
+msgstr "Scan QR: for lgoin pieotc.com"
+
+#: ../../Function/index.rst:20
+msgid "交易记录：显示各个币种的收发币记录。"
+msgstr "Transactions: all records of receiving and sending "
+
+#: ../../Function/index.rst:22
+msgid "派银行：配合点对点交易和交易所使用，还支持派理财。"
+msgstr "Pie Bank: supporting OTC trade, exchange and financial plans subscribing"
 
 #: ../../Function/index.rst:24
-msgid "1、切换法币"
-msgstr "1.Currency switchover"
+msgid "点对点交易：个人对个人的交易，安全，快捷"
+msgstr "OTC trade: customer to customer trade with safety and convenience"
 
 #: ../../Function/index.rst:26
-msgid "2、币种兑换"
-msgstr "2.Coin Exchange"
+msgid "查看最近交易记录：最近您的所有收发币记录和买卖记录均可进入查看。"
+msgstr "Check the latest record: tap it to check all your sending& receiving and trading records."
 
 #: ../../Function/index.rst:28
-msgid "3、6 < 确认数 < 100"
-msgstr "3.6 < Confirmations < 100"
+msgid "首页下方会显示多个币种，您可快速查看余额和切换。"
+msgstr "At the lower part of the home page, various coins and tokens are shown, which you can switch and customize the display."
 
 #: ../../Function/index.rst:30
-msgid "4、100 < 确认数"
-msgstr "4.100 < Confirmations"
+msgid "左上角：切换比特派和比特护盾两个账户。"
+msgstr "Top left corner: switch between Bitpie account and BITHD account"
 
-#: ../../Function/index.rst:36
-msgid "订单"
-msgstr "Order"
+#: ../../Function/index.rst:32
+msgid "右上角：添加币种。"
+msgstr "Top Right corner: Add Assets"
 
-#: ../../Function/index.rst:53
+#: ../../Function/index.rst:45
+msgid "交易所"
+msgstr "Exchange"
+
+#: ../../Function/index.rst:47
+msgid "目前支持基于 SCNY、BTC、ETH 的多种交易对。 可以查看行情，选择交易对进入后可进行交易。"
+msgstr ""
+"Currently, various trading pairs based on SCNY, BTC and ETH are "
+"supported; meanwhile, it’s a market ticker, choose the trading pair you "
+"can enter to trade."
+
+#: ../../Function/index.rst:59
 msgid "设置"
 msgstr "Setting"
 
-#: ../../Function/index.rst:64
+#: ../../Function/index.rst:61
+msgid "修改密码：修改您设置的数字密码"
+msgstr "Passcode Reset: reset your passcode "
+
+#: ../../Function/index.rst:63
+msgid "验证种子：用户一定要在验证种子里验证您当前账户的密语备份是否正确。只有备份密语正确才可继续使用账户。"
+msgstr "Seed Verification: it is requisite for user to verify the correctness of his seed. Only after confirming the correctness of the seed can the user continue to use the account."
+
+#: ../../Function/index.rst:65
+msgid "消息签名、地址簿 ：有专门版块介绍。"
+msgstr "Message Signing and Address Book: we will introduced specifically."
+
+#: ../../Function/index.rst:67
+msgid "BITHD防伪码：比特护盾用户使用此项功能扫描护盾包装盒上刮开的二维码，鉴定护盾真伪。"
+msgstr "BITHD Security Code: BITHD users can verify the authenticity of the QR code on the packing box."
+
+#: ../../Function/index.rst:69
+msgid "用户反馈：如果您有问题，随时可以使用用户反馈提交工单提问。"
+msgstr "Feedback: users can submit ticket for any question."
+
+#: ../../Function/index.rst:80
 msgid "我的"
 msgstr "My"
+
+#: ../../Function/index.rst:82
+msgid "个人头像、用户名、当前币种价格，广告状态"
+msgstr "Avatar, User Name, Current Coin Price, My Ad."
+
+#: ../../Function/index.rst:84
+msgid "账号管理：切换比特派和比特护盾两个账户。"
+msgstr "Account Management: Switch bitpie account and BITHD account"
+
+#: ../../Function/index.rst:86
+msgid "我的订单：历史交易订单。"
+msgstr "My Orders: Historical transaction orders"
+
+#: ../../Function/index.rst:88
+msgid "我的地址：历史收款地址和找零地址。"
+msgstr "My Address: Receiving Addresses and Change Addresses"
 
 #~ msgid "1、切换法币 2、目前支持BTC 和 BCC 兑换 3、6 < 确认数 < 100 4、100 < 确认数"
 #~ msgstr ""
 
 #~ msgid "1、切换法币 2、币种兑换 3、6 < 确认数 < 100 4、100 < 确认数"
 #~ msgstr ""
+
+#~ msgid ""
+#~ "​比特派是一款综合化的区块链资产服务产品，主要功能包括：收发、买卖、加速交易……等。在主界面（首页）中有发币、收币、一键买卖和OTC交易。在订单中有一键买卖订单和OTC交易订单。在设置里有修改密码、验证种子、消息签名、地址簿、收款信息等模块儿，在我的里有我的广告、我的地址、消息通知、身份认证、我的押金、交易加速器、设置默认货币等。"
+#~ " 比特派基于HD钱包，用户掌控私钥，交易完成后的币，直接归用户自己保管； "
+#~ "比特派上交易的都是“真币”，对“假币”说不！对“部分准备制”说不！ 比特派提供更多更安全的选择，为您减少资金划转困难的痛苦；"
+#~ " 比特派提供基于多重签名的托管（OTC）交易服务和个性化的VIP大客户服务； "
+#~ "比特派提供快速下单的一键买卖交易服务和全面周到的客户反馈服务。"
+#~ msgstr ""
+#~ "Bitpie(bitpie.com) is developed by "
+#~ "Bither(bither.net),Bitpie.com becomes a "
+#~ "comprehensive service platform for new "
+#~ "generation Blockchain Asset on the basis"
+#~ " of HD wallet technology, Multiple "
+#~ "signatures and Chain transactions. Upon "
+#~ "it, you use digital currency easier "
+#~ "and safer. The good reputation of "
+#~ "Bither wallet will motivate us to "
+#~ "provide more professional and perfect "
+#~ "services of Bitpie. In terms of "
+#~ "our team’s unique insights and solid "
+#~ "strength on  blockchain and Cryptography "
+#~ "technology, Bither wallet , as a "
+#~ "bitcoin wallet in china, is the "
+#~ "only one that has recommended by "
+#~ "the official Bitcoin.org( Related Links: "
+#~ "https://bitcoin.org/en/choose-your-wallet). Our "
+#~ "team fully know how to develop the"
+#~ " safe wallet and how to protect "
+#~ "the asset on Blockchain, so we "
+#~ "believe Bitpie will offer more pleasant"
+#~ " experience to win your absolute "
+#~ "trust in the future."
+
+#~ msgid "1、切换法币"
+#~ msgstr "1.Currency switchover"
+
+#~ msgid "2、币种兑换"
+#~ msgstr "2.Coin Exchange"
+
+#~ msgid "3、6 < 确认数 < 100"
+#~ msgstr "3.6 < Confirmations < 100"
+
+#~ msgid "4、100 < 确认数"
+#~ msgstr "4.100 < Confirmations"
+
+#~ msgid "订单"
+#~ msgstr "Order"
+
+#~ msgid "比特派是一款综合化的区块链资产服务产品，主要功能包括：收发、买卖、加速交易等。"
+#~ msgstr ""
+
+#~ msgid ""
+#~ "在主界面（首页）中有如下功能 发币、收币 一键买卖：快捷方便 扫一扫：登录 "
+#~ "pieifo.com 场外交易使用。 交易记录：显示各个币种的收发币记录。 "
+#~ "派银行：配合点对点交易和交易所使用，还支持派理财。 点对点交易：个人对个人的交易，安全，快捷 "
+#~ "查看最近交易记录：最近您的所有收发币记录和买卖记录均可进入查看。 首页下方会显示多个币种，您可快速查看余额和切换。 "
+#~ "左上角：切换比特派和比特护盾两个账户。 右上角：添加币种。"
+#~ msgstr ""
+
+#~ msgid ""
+#~ "修改密码：修改您设置的数字密码 "
+#~ "验证种子：用户一定要在验证种子里验证您当前账户的密语备份是否正确。只有备份密语正确才可继续使用账户。 消息签名、地址簿 "
+#~ "：有专门版块介绍。 BITHD防伪码：比特护盾用户使用此项功能扫描护盾包装盒上刮开的二维码，鉴定护盾真伪。 "
+#~ "用户反馈：如果您有问题，随时可以使用用户反馈提交工单提问。"
+#~ msgstr ""
+#~ "Passcode Reset: reset your passcode Seed"
+#~ " Verification: it is requisite for "
+#~ "user to verify the correctness of "
+#~ "his seed. Only after confirming the "
+#~ "correctness of the seed can the "
+#~ "user continue to use the account.Message"
+#~ " Signing and Address Book: we will"
+#~ " introduced specifically.BITHD Security Code: "
+#~ "BITHD users can verify the authenticity"
+#~ " of the QR code on the packing"
+#~ " box.Feedback: users can submit ticket "
+#~ "for any question."
+
+#~ msgid ""
+#~ "个人头像、用户名、当前币种价格，广告状态 账号管理：切换比特派和比特护盾两个账户。 我的订单：历史交易订单。 "
+#~ "我的地址：历史收款地址和找零地址。"
+#~ msgstr ""
+#~ "Avatar, User Name, Current Coin Price,"
+#~ " My Ad. My Orders: Historical "
+#~ "transaction orders. My Address: Receiving "
+#~ "Addresses and Change Addresses"
 

@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Bitpie 0.2\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2018-03-16 20:16+0800\n"
+"POT-Creation-Date: 2018-04-25 10:57+0800\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -22,16 +22,27 @@ msgid "常用合约"
 msgstr "Common Contract"
 
 #: ../../commonContract/index.rst:6
-msgid "EOS主网映射(register)"
+msgid "EOS 主网映射(register)"
 msgstr "EOS main chain register"
 
 #: ../../commonContract/index.rst:8
 msgid ""
-"由于目前您所持有的EOS都是以太坊上的ERC20代币，可以理解为“ 临时EOS ”，如果不进行映射，将无法在EOS主网上获得相应“ 真EOS "
-"”。因此，映射一定要做（截至时间为北京时间2018年6月2日6:59:59），不止要做，而且建议大家尽量使用钱包自己来做。 "
-"因为，一些基于eos主链的项目，很可能会在主网上线时空投免费的糖果（代币）， 如果你不做映射， "
+"由于目前您所持有的 EOS 都是以太坊上的 ERC20 代币，可以理解为“ 临时 EOS ”，如果不进行映射，将无法在 EOS 主网上获得相应“ "
+"真 EOS ”。因此，映射一定要做（截至时间为北京时间2018年6月2日6:59:59），不止要做，而且建议大家尽量使用钱包自己来做。 "
+"因为，一些基于 EOS 主链的项目，很可能会在主网上线时空投免费的糖果（代币）， 如果你不做映射， "
 "可能就拿不到这些币。以后还会有更多的项目会有免费代币分发，这一点，错过比特币分叉糖果的朋友一定深有体会。"
-msgstr "Since all the EOSs you are holding currently are ERC20 tokens based on Ethereum platform, which can be reckoned as “temporary EOS”, if do not map, you will not get your “real EOS” on the EOS mainnet. Therefore, mapping is requisite (the latest time of mapping is 6:59:59 a.m. of 2nd June 2018. Additionally, it is advised to carry out the mapping with your own wallet, because some projects based on EOS main chain are very likely to airdrop giveaways when the mainnet is launched, if you don’t map, you will not get these giveaways. In the future, you will probably miss the chances of the receiving these giveaways. For this point, those friends who missed the airdrops of bitcoin fork coins must have very sympathies."
+msgstr ""
+"Since all the EOSs you are holding currently are ERC20 tokens based on "
+"Ethereum platform, which can be reckoned as “temporary EOS”, if do not "
+"map, you will not get your “real EOS” on the EOS mainnet. Therefore, "
+"mapping is requisite (the latest time of mapping is 6:59:59 a.m. of 2nd "
+"June 2018. Additionally, it is advised to carry out the mapping with your"
+" own wallet, because some projects based on EOS main chain are very "
+"likely to airdrop giveaways when the mainnet is launched, if you don’t "
+"map, you will not get these giveaways. In the future, you will probably "
+"miss the chances of the receiving these giveaways. For this point, those "
+"friends who missed the airdrops of bitcoin fork coins must have very "
+"sympathies."
 
 #: ../../commonContract/index.rst:11
 msgid "比特派支持两种方法进行 EOS 映射"
@@ -72,6 +83,18 @@ msgstr ""
 "First deposit your EOS tokens into Bitpie Wallet, second, deposit EOS "
 "tokens into “Pie Bank”. Bitpie will carry out the mapping for All EOS "
 "tokens in your Pie Bank before the launching of the mainnet."
+
+#: ../../commonContract/index.rst:55
+msgid "验证 EOS 主网映射"
+msgstr "Success Check of EOS mainnet mapping"
+
+#: ../../commonContract/index.rst:57
+msgid "为了保障 EOS 主网映射是否成功，可以通过以下步骤来验证。"
+msgstr "To check the success of the EOS mainnet mapping, please follow the steps as below."
+
+#: ../../commonContract/index.rst:59
+msgid "钱包首页 - 全部 - 常用合约 - 选择 \"验证EOS主网映射(key)\" - 选择调用合约。"
+msgstr "Wallet - All - Common Contract - Select Contract 'Success Check of EOS mainnet mapping' - Click 'Execute Contract'"
 
 #~ msgid "2、钱包首页-全部-常用合约-选择合约-EOS主网映射(register)。"
 #~ msgstr ""
