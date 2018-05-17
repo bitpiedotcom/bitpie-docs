@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Bitpie 0.1\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2018-04-26 14:22+0800\n"
+"POT-Creation-Date: 2018-05-17 15:20+0800\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -22,11 +22,9 @@ msgid "软件功能简述"
 msgstr "Software Function Description"
 
 #: ../../Function/index.rst:6
-msgid "比特派是一款综合化的区块链资产服务产品，主要功能包括：收发、买卖、加速交易、交易所等。"
+msgid "比特派是一款综合化的区块链资产服务产品，主要功能包括：收发、买卖、加速交易、交易所、发现项目、资产估值等。"
 msgstr ""
-"Bitpie is a comprehensive blockchain assets service product, which "
-"includes such functions as receiving& sending, buying& selling, "
-"transaction accelerators and exchanges."
+"Bitpie is a comprehensive blockchain assets service product with Bitpie, users are able to receive, send, buy and sell cryptocurrencies; meanwhile, we provide functions such as ExPie(Exchange platform),  transaction accelerators, discovery and assets evaluation, etc. "
 
 #: ../../Function/index.rst:10
 msgid "首页"
@@ -92,53 +90,69 @@ msgstr ""
 "can enter to trade."
 
 #: ../../Function/index.rst:59
-msgid "设置"
-msgstr "Setting"
+msgid "发现"
+msgstr "Discover"
 
 #: ../../Function/index.rst:61
+msgid "带您发现更多优质项目，可随时查看有关项目的动态。"
+msgstr "Find more good projects and their latest news."
+
+#: ../../Function/index.rst:74
+msgid "资产"
+msgstr "Assets"
+
+#: ../../Function/index.rst:76
+msgid "对您在比特派上所有的资产进行估值，还可以查看历史记录(充值、提现、一键买卖)。"
+msgstr "evaluate all your assets on Bitpie; check history(deposit, withdrawal and instant trade)"
+
+#: ../../Function/index.rst:89
+msgid "我的"
+msgstr "My"
+
+#: ../../Function/index.rst:91
+msgid "个人头像、用户名、当前币种价格，广告状态"
+msgstr "Avatar, User Name, Current Coin Price, My Ad."
+
+#: ../../Function/index.rst:93
+msgid "账号管理：切换比特派和比特护盾两个账户。"
+msgstr "Account Management: Switch bitpie account and BITHD account"
+
+#: ../../Function/index.rst:95
+msgid "我的订单：历史交易订单。"
+msgstr "My Orders: Historical transaction orders"
+
+#: ../../Function/index.rst:97
+msgid "我的地址：历史收款地址和找零地址。"
+msgstr "My Address: Receiving Addresses and Change Addresses"
+
+#: ../../Function/index.rst:107
+msgid "右上角设置按钮包含以下功能："
+msgstr "button on top right corner includes functions:"
+
+#: ../../Function/index.rst:109
 msgid "修改密码：修改您设置的数字密码"
 msgstr "Passcode Reset: reset your passcode "
 
-#: ../../Function/index.rst:63
+#: ../../Function/index.rst:111
 msgid "验证种子：用户一定要在验证种子里验证您当前账户的密语备份是否正确。只有备份密语正确才可继续使用账户。"
 msgstr ""
 "Seed Verification: it is requisite for user to verify the correctness of "
 "his seed. Only after confirming the correctness of the seed can the user "
 "continue to use the account."
 
-#: ../../Function/index.rst:65
+#: ../../Function/index.rst:113
 msgid "消息签名、地址簿 ：有专门版块介绍。"
 msgstr "Message Signing and Address Book: we will introduced specifically."
 
-#: ../../Function/index.rst:67
+#: ../../Function/index.rst:115
 msgid "BITHD防伪码：比特护盾用户使用此项功能扫描护盾包装盒上刮开的二维码，鉴定护盾真伪。"
 msgstr ""
 "BITHD Security Code: BITHD users can verify the authenticity of the QR "
 "code on the packing box."
 
-#: ../../Function/index.rst:69
+#: ../../Function/index.rst:117
 msgid "用户反馈：如果您有问题，随时可以使用用户反馈提交工单提问。"
 msgstr "Feedback: users can submit ticket for any question."
-
-#: ../../Function/index.rst:80
-msgid "我的"
-msgstr "My"
-
-#: ../../Function/index.rst:82
-msgid "个人头像、用户名、当前币种价格，广告状态"
-msgstr "Avatar, User Name, Current Coin Price, My Ad."
-
-#: ../../Function/index.rst:84
-msgid "账号管理：切换比特派和比特护盾两个账户。"
-msgstr "Account Management: Switch bitpie account and BITHD account"
-
-#: ../../Function/index.rst:86
-msgid "我的订单：历史交易订单。"
-msgstr "My Orders: Historical transaction orders"
-
-#: ../../Function/index.rst:88
-msgid "我的地址：历史收款地址和找零地址。"
-msgstr "My Address: Receiving Addresses and Change Addresses"
 
 #~ msgid "1、切换法币 2、目前支持BTC 和 BCC 兑换 3、6 < 确认数 < 100 4、100 < 确认数"
 #~ msgstr ""
@@ -231,4 +245,7 @@ msgstr "My Address: Receiving Addresses and Change Addresses"
 #~ " My Ad. My Orders: Historical "
 #~ "transaction orders. My Address: Receiving "
 #~ "Addresses and Change Addresses"
+
+#~ msgid "设置"
+#~ msgstr "Setting"
 
