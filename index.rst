@@ -32,7 +32,6 @@
    financialPlan/index
    commonContract/index
    tokenFactory/index
-   claim/index
    FAQ/index
 
 
