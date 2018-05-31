@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Bitpie 0.2\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2018-05-31 13:44+0800\n"
+"POT-Creation-Date: 2018-05-31 14:04+0800\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -115,7 +115,8 @@ msgstr ""
 #: ../../commonContract/index.rst:76
 msgid ""
 "根据 EON 项目方空投要求在香港时间2018年6月1日12:00:00之前做好 Claim 操作，确保你的钱包中存有100个以上 EOS。比特派"
-" Claim 领取空投币 EON 方法如下(比特派APP版本大于 3.2.5）"
+" EON 索取(claim) 调用合约功能将在香港时间2018年6月1日12:00:00之后下线。如果您调用过 EON 索取(claim) "
+"合约，耐心等待 EON 项目方发币即可。比特派 Claim 领取空投币 EON 方法如下(比特派APP版本大于 3.2.5）"
 msgstr ""
 
 #: ../../commonContract/index.rst:81
@@ -140,5 +141,11 @@ msgstr ""
 #~ msgstr ""
 
 #~ msgid "比特派支持两种方法进行 EOS 映射。"
+#~ msgstr ""
+
+#~ msgid ""
+#~ "根据 EON 项目方空投要求在香港时间2018年6月1日12:00:00之前做好 Claim "
+#~ "操作，确保你的钱包中存有100个以上 EOS。比特派 Claim 领取空投币 EON "
+#~ "方法如下(比特派APP版本大于 3.2.5）"
 #~ msgstr ""
 
