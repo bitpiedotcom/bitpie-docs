@@ -32,7 +32,7 @@ msgid ""
 "因为，一些基于 EOS 主链的项目，很可能会在主网上线时空投免费的糖果（代币）， 如果你不做映射， "
 "可能就拿不到这些币。以后还会有更多的项目会有免费代币分发，这一点，错过比特币分叉糖果的朋友一定深有体会。"
 msgstr ""
-"Since all the EOSs you are holding currently are ERC20 tokens based on "
+"Since all the EOS you are holding currently are ERC20 tokens based on "
 "Ethereum platform, which can be reckoned as “temporary EOS”, if do not "
 "map, you will not get your “real EOS” on the EOS mainnet. Therefore, "
 "mapping is requisite (the latest time of mapping is 6:59:59 a.m. of 2nd "
@@ -132,7 +132,7 @@ msgstr ""
 
 #: ../../commonContract/index.rst:105
 msgid "将您的 EOS 充值到派银行，待派银行收到空投后，将会统一安排发放。"
-msgstr "Make your EOS deposit to Pie Bank, Pie Bank will arrange payment when receiving the airdrop."
+msgstr "Deposit your EOS to Pie Bank, Pie Bank will arrange payment when receiving the airdrop."
 
 #~ msgid "2、钱包首页-全部-常用合约-选择合约-EOS主网映射(register)。"
 #~ msgstr ""
