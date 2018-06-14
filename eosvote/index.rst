@@ -30,6 +30,25 @@ EOS 投票
     :align: center
 
 
+4、在投票页面中 输入质押 EOS 数量，选择提交。
+
+.. image:: ../img/eosvoteinput.jpg
+    :width: 336px
+    :height: 671px
+    :scale: 100%
+    :align: center
+
+5、选择提交后，会提示 监测到您之前已投过票，确认投票将会把之前的票数重新分配到所选节点（这里是由于我之前投票过，才会提示的） ，点确定。
+
+
+6､ 输入PIN码之后就会提示投票成功。
+
+.. image:: ../img/eosvoteresult.jpg
+    :width: 336px
+    :height: 671px
+    :scale: 100%
+    :align: center
+
 
 
 

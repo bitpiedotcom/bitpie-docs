@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Bitpie 3.2.5\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2018-06-14 11:06+0800\n"
+"POT-Creation-Date: 2018-06-14 12:23+0800\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -33,47 +33,59 @@ msgstr ""
 msgid "3、在节点列表中，选择要投票的节点（最多可选30个）。EOS节点信息选择好之后，选择投票。"
 msgstr ""
 
-#: ../../eosvote/index.rst:37
+#: ../../eosvote/index.rst:33
+msgid "4、在投票页面中 输入质押 EOS 数量，选择提交。"
+msgstr ""
+
+#: ../../eosvote/index.rst:41
+msgid "5、选择提交后，会提示 监测到您之前已投过票，确认投票将会把之前的票数重新分配到所选节点（这里是由于我之前投票过，才会提示的） ，点确定。"
+msgstr ""
+
+#: ../../eosvote/index.rst:44
+msgid "6､ 输入PIN码之后就会提示投票成功。"
+msgstr ""
+
+#: ../../eosvote/index.rst:56
 msgid "备注："
 msgstr ""
 
-#: ../../eosvote/index.rst:40
+#: ../../eosvote/index.rst:59
 msgid "快照规则："
 msgstr ""
 
-#: ../../eosvote/index.rst:42
+#: ../../eosvote/index.rst:61
 msgid ""
 "EOS.IO 规定：在快照时期, 所有持有 EOS 数量( ERC-20代币 ) 少于 1 的账户, 即使用户做了映射, "
 "也没有进行快照。所以无法导入 EOS 钱包, 之前持有的 EOS 代币无法正常迁移至主网。"
 msgstr ""
 
-#: ../../eosvote/index.rst:45
+#: ../../eosvote/index.rst:64
 msgid "质押换票规则："
 msgstr ""
 
-#: ../../eosvote/index.rst:48
+#: ../../eosvote/index.rst:67
 msgid ""
 "EOS 主网上线之后, 根据你之前钱包持有的 EOS ( ERC-20代币 ) 数量不同, 钱包里剩余的 EOS ( EOS主网代币 ) "
 "数量也是不一样的, 具体规则为:"
 msgstr ""
 
-#: ../../eosvote/index.rst:51
+#: ../../eosvote/index.rst:70
 msgid "原持有 EOS （ ERC-20 代币) ≥ 1 且≤ 3 个, 钱包剩余 0.1 个 EOS 主网币, 其余全部自动置为质押金额"
 msgstr ""
 
-#: ../../eosvote/index.rst:54
+#: ../../eosvote/index.rst:73
 msgid "原持有 EOS （ ERC-20 代币）＞3个且≤ 11 个, 钱包剩余 2 个 EOS 主网币, 其余全部自动置为质押金额"
 msgstr ""
 
-#: ../../eosvote/index.rst:57
+#: ../../eosvote/index.rst:76
 msgid "原持有 EOS （ ERC-20 代币）＞ 11 个, 钱包剩余 10 个 EOS 主网币, 其余全部自动置为质押金额"
 msgstr ""
 
-#: ../../eosvote/index.rst:62
+#: ../../eosvote/index.rst:81
 msgid "赎回规则："
 msgstr ""
 
-#: ../../eosvote/index.rst:64
+#: ../../eosvote/index.rst:83
 msgid ""
 "EOS 代币发行总量是 10 亿枚, 但是主网上线之后, 所有持有 EOS 的用户, 需要投出 1.5 亿 票, 主网才能正式启动。 "
 "在主网正式启动投满 1.5 亿票前, 质押金额是无法赎回的。比如你的钱包里本来应该有 10000 个 EOS, 但是实际上只有 10 个 EOS "
@@ -81,15 +93,15 @@ msgid ""
 "用户便可做赎回操作, 并在 72 小时之后到账。"
 msgstr ""
 
-#: ../../eosvote/index.rst:68
+#: ../../eosvote/index.rst:87
 msgid "比特派投票需知："
 msgstr ""
 
-#: ../../eosvote/index.rst:70
+#: ../../eosvote/index.rst:89
 msgid "目前只有您的 EOS (ERC20 代币) 在比特派钱包才可以进行投票。"
 msgstr ""
 
-#: ../../eosvote/index.rst:72
+#: ../../eosvote/index.rst:91
 msgid "您持有的EOS 主网代币数量 = 钱包 EOS 余额 + 已质押金额。"
 msgstr ""
 
