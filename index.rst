@@ -30,6 +30,7 @@
    bitcoinFork/index
    anotherAssets/index
    financialPlan/index
+   eosvote/index
    commonContract/index
    tokenFactory/index
    FAQ/index
