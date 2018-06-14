@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Bitpie 3.2.5\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2018-06-14 12:23+0800\n"
+"POT-Creation-Date: 2018-06-14 13:35+0800\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -34,7 +34,10 @@ msgid "3、在节点列表中，选择要投票的节点（最多可选30个）�
 msgstr ""
 
 #: ../../eosvote/index.rst:33
-msgid "4、在投票页面中 输入质押 EOS 数量，选择提交。"
+msgid ""
+"4、在投票页面中您可以追加投票 \"输入质押 EOS "
+"数量\"，选择提交。可投金额：可以投票的金额(也是质押金额)；追加投票：如果钱包还有可用余额还可以追加质押去投票，质押钱包的 EOS "
+"可用余额增加可投金额。"
 msgstr ""
 
 #: ../../eosvote/index.rst:41
@@ -104,4 +107,11 @@ msgstr ""
 #: ../../eosvote/index.rst:91
 msgid "您持有的EOS 主网代币数量 = 钱包 EOS 余额 + 已质押金额。"
 msgstr ""
+
+#: ../../eosvote/index.rst:93
+msgid "目前只有安卓版支持。"
+msgstr ""
+
+#~ msgid "4、在投票页面中 输入质押 EOS 数量，选择提交。"
+#~ msgstr ""
 
