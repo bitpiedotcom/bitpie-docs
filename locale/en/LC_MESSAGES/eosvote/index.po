@@ -27,12 +27,12 @@ msgstr "1.Upgrade your Bitpie to the latest version which greater than 3.2.9."
 
 #: ../../eosvote/index.rst:6
 msgid "2、打开钱包首页 - 首页 - 全部 - EOS投票。"
-msgstr "2. Enter the home page of the Bitpie wallet - Wallet - All- EOS Vote"
+msgstr "2.Enter the home page of the Bitpie wallet - Wallet - All- EOS Vote"
 
 #: ../../eosvote/index.rst:24
 msgid "3、在节点列表中，选择要投票的节点（最多可选30个）。EOS节点信息选择好之后，选择投票。"
 msgstr ""
-"3. Choose the nodes that you want to vote for in the nodes page (you can "
+"3.Choose the nodes that you want to vote for in the nodes page (you can "
 "vote no more than 30 nodes). When you finish choosing the EOS nodes, "
 "click Vote."
 
