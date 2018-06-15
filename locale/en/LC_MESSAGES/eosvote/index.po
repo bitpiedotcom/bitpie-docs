@@ -51,7 +51,7 @@ msgstr ""
 #: ../../eosvote/index.rst:41
 msgid "5、选择提交后，会提示 监测到您之前已投过票，确认投票将会把之前的票数重新分配到所选节点（这里是由于我之前投票过，才会提示的） ，点确定。"
 msgstr ""
-"5. When you click the Submit button, you will find a notice said “We find"
+"5.When you click the Submit button, you will find a notice said “We find"
 " you have voted for other nodes before, your previous votes will be "
 "redistributed to the current node if you confirm this vote” (This notice "
 "only appears when you have already voted for other nodes before), then "
