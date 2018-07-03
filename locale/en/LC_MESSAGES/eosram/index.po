@@ -51,11 +51,11 @@ msgstr "Import manual: http://docs.bitpie.com/en/latest/privateKeyImport/index.h
 
 #: ../../eosram/index.rst:18
 msgid "1、比特派版本大于等于 V3.3.6。"
-msgstr "1. Make sure your Bitpie version is greater than V3.3.6."
+msgstr "1.Make sure your Bitpie version is greater than V3.3.6."
 
 #: ../../eosram/index.rst:20
 msgid "2、切换到 EOS 币种下 - 资源管理 - RAM 资源。"
-msgstr "2. Switch to EOS token- resource management- RAM resource."
+msgstr "2.Switch to EOS token- resource management- RAM resource."
 
 #: ../../eosram/index.rst:37
 msgid ""
