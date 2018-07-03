@@ -43,7 +43,7 @@ msgstr "RAM trade"
 msgid ""
 "备注：保证自己有 EOS 账户，账户中有可用 EOS 资产方可购买。若您的比特派钱包中没有 EOS 账户，可通过导入私钥的方式导入 EOS "
 "账户，进行 RAM 买卖！导入币种选择 EOS 即可。"
-msgstr "Ps: First, if you want to buy RAM, please make sure you have an EOS account, and there are EOS assets in your account. If you do not have an EOS account in your Bitpie wallet, you can import you EOS account by importing private key and then start RAM trade. Choose EOS as the import token type."
+msgstr "Tips: First, if you want to buy RAM, please make sure you have an EOS account, and there are EOS assets in your account. If you do not have an EOS account in your Bitpie wallet, you can import you EOS account by importing private key and then start RAM trade. Choose EOS as the import token type."
 
 #: ../../eosram/index.rst:16
 msgid "导入教程：http://docs.bitpie.com/zh_CN/latest/privateKeyImport/index.html"
@@ -61,11 +61,11 @@ msgstr "2.Switch to EOS token- resource management- RAM resource."
 msgid ""
 "3、(买 RAM )在购买 RAM 一栏的输入框中输入 EOS 数量，选择购买。选择购买之后会弹出信息 \"您确定要出售多少 EOS 换取约等于 "
 "多少 Bytes RAM\"，选择确认，输入钱包 PIN 码。"
-msgstr "3.(Buy RAM) Input the EOS amount in the input box of buying RAM, choose “buy.” A notice that said “Are you sure to sell xxx EOS for xxx Bytes RAM?” when you click “buy,” then click confirm and input the PIN code of the wallet."
+msgstr "3.(Buy RAM) Input the EOS amount in the input box of buying RAM, choose ＼“Buy.＼” A notice that said ＼“Are you sure you want to sell xxx EOS to get xxx RAM?＼” when you click ＼“Buy,＼” then click confirm and input the PIN code of the wallet."
 
 #: ../../eosram/index.rst:47
 msgid ""
 "4、(卖 RAM )在出售 RAM 一栏的输入框中输入 RAM bytes 数量，选择出售。选择出售之后会弹出信息 \"您确定要购买多少 "
 "bytes RAM 换取约等于 多少的 EOS\"，选择确认，输入钱包 PIN 码。"
-msgstr "4.(Sell RAM) Input the RAM bytes amount in the input box of selling RAM, choose “sell.” A notice that said “Are you sure to buy xxx bytes RAM with xxx EOS?” when you click sell, then click confirm and input the PIN code of the wallet."
+msgstr "4.(Sell RAM) Input the RAM bytes amount in the input box of selling RAM, choose ＼“Sell.＼” A notice that said ＼“Are you sure you want to sell xxx RAM to get xxx EOS?＼” when you click sell, then click confirm and input the PIN code of the wallet."
 
