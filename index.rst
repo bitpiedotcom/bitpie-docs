@@ -31,6 +31,7 @@
    anotherAssets/index
    financialPlan/index
    eosmainchain/index
+   eosram/index
    eosvote/index
    privateKeyImport/index
    commonContract/index
