@@ -1,0 +1,62 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2018, bitpie
+# This file is distributed under the same license as the Bitpie package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2018.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Bitpie 3.3.4\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2018-07-13 17:08+0800\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.4.0\n"
+
+#: ../../eosaccount/index.rst:2
+msgid "EOS 账户创建"
+msgstr "How to create an EOS account"
+
+#: ../../eosaccount/index.rst:4
+msgid "1、更新比特派最新版本，版本号大于 3.4.1。"
+msgstr "1.Upgrade Bitpie app to the latest version, greater than 3.4.1."
+
+#: ../../eosaccount/index.rst:6
+msgid ""
+"2、您的派银行必须有 EOS 余额，如果您的派银行没有余额也没有关系，可以通过派钱包的交易所进行兑换（基于 EOS/ETH 、EOS/SCNY "
+"交易对）。"
+msgstr "2.You need to have EOS balance in your Pie bank. If you don’t have balance in your Pie bank, you can exchange for EOS in the exchange of Pie wallet (based on EOS/ETH, EOS/SCNY trading pairs)."
+
+#: ../../eosaccount/index.rst:8
+msgid "交易所交易教程：http://docs.bitpie.com/zh_CN/latest/Expie/index.html"
+msgstr "The manual of trading in the exchange:http://docs.bitpie.com/en/latest/Expie/index.html"
+
+#: ../../eosaccount/index.rst:10
+msgid ""
+"3､ 如果您还没有添加 EOS 币种，先添加 EOS 币种（钱包首页－右上角'＋'号－添加币种页面选择其它币种－选择 EOS "
+"币种右侧的灰色按钮即可）。"
+msgstr "3.If you have not yet added EOS token type, please add EOS token type first (front page-top right\” +\”-Others-Search EOS and click the grey button)."
+
+#: ../../eosaccount/index.rst:12
+msgid "添加币种教程：http://docs.bitpie.com/zh_CN/latest/MultiCurrency/index.html"
+msgstr "manual of adding token/assets type：http://docs.bitpie.com/en/latest/MultiCurrency/index.html"
+
+#: ../../eosaccount/index.rst:14
+msgid "4、选择 EOS 币种，提示 '您当前尚未开通 EOS 账户，确定开通'，选择确认。"
+msgstr "4.Click EOS in the front page of Bitpie, you will receive a notice said ” You don’t have an EOS account, go to create one?”, then click ok. "
+
+#: ../../eosaccount/index.rst:31
+msgid "5、进入 EOS 创建账户页面。支付方式为派银行；账户名：只支持数字1-5，小写字母a-z，长度12位。输入12位账户名。"
+msgstr "5.Enter the EOS account creating page. Terms of payment: Pie bank; Account name only supports number 1 to 5, lowercase letters a to z, no longer than 12 characters. Input your account name (no long than 12 characters)."
+
+#: ../../eosaccount/index.rst:41
+msgid ""
+"6、选择确认，会检测您的账户是否重名，如果没有重合，会弹出提示框 '创建账户我们将为您质押0.1 EOS CPU，0.1 EOS Net 和购买 "
+"4KB (约 1.4687 EOS) RAM 资源，将从您的派银行可用余额扣除约 1.6687 EOS (由于 RAM "
+"价格波动较大最终和扣除金额可能会有偏差)'，选择确认。"
+msgstr "6.Click ok, we will detect if your account name is occupied, if not, there will be a notice said \"You need to pledge 0.1 EOS CPU,0.1 EOS Net and buy 4KB(≈ 1.4667 EOS) RAM esources when creating an account,we will deduct ≈ 1.6667 EOS in your Pie bank balance(it might be some difference in the final amount because of the turbulence of RAM price)\",then click ok"
+
