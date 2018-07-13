@@ -33,7 +33,7 @@ msgstr "2.You need to have EOS balance in your Pie bank. If you don’t have bal
 
 #: ../../eosaccount/index.rst:8
 msgid "交易所交易教程：http://docs.bitpie.com/zh_CN/latest/Expie/index.html"
-msgstr "The manual of trading in the exchange:http://docs.bitpie.com/en/latest/Expie/index.html"
+msgstr "The manual of trading in the exchange:  http://docs.bitpie.com/en/latest/Expie/index.html"
 
 #: ../../eosaccount/index.rst:10
 msgid ""
@@ -43,7 +43,7 @@ msgstr "3.If you have not yet added EOS token type, please add EOS token type fi
 
 #: ../../eosaccount/index.rst:12
 msgid "添加币种教程：http://docs.bitpie.com/zh_CN/latest/MultiCurrency/index.html"
-msgstr "manual of adding token/assets type：http://docs.bitpie.com/en/latest/MultiCurrency/index.html"
+msgstr "manual of adding token/assets type:  http://docs.bitpie.com/en/latest/MultiCurrency/index.html"
 
 #: ../../eosaccount/index.rst:14
 msgid "4、选择 EOS 币种，提示 '您当前尚未开通 EOS 账户，确定开通'，选择确认。"
