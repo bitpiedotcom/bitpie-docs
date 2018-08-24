@@ -33,7 +33,6 @@
    eosram/index
    eosvote/index
    privateKeyImport/index
-   commonContract/index
    tokenFactory/index
    FAQ/index
 
