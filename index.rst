@@ -27,9 +27,7 @@
    BankCard/index
    MultiCurrency/index
    bitherImportPrivateKeyToken/index
-   bitcoinFork/index
    anotherAssets/index
-   financialPlan/index
    eosaccount/index
    eosmainchain/index
    eosram/index
