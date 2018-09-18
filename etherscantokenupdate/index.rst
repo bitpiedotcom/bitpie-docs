@@ -1,7 +1,7 @@
 Etherscan Token 信息更新教程
 ===============================
 
-说明：比特派版本大于 3.5.6
+备注：比特派版本大于 3.5.6
 
 1、打开 Etherscan 官网 https://etherscan.io/ ，输入 token ，点击按钮 GO，点击 update。
 
