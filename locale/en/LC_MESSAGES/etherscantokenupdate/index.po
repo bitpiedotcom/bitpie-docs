@@ -1,0 +1,57 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2018, bitpie
+# This file is distributed under the same license as the Bitpie package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2018.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Bitpie 3.3.4\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2018-09-18 17:03+0800\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.4.0\n"
+
+#: ../../etherscantokenupdate/index.rst:2
+msgid "Etherscan Token 信息更新教程"
+msgstr ""
+
+#: ../../etherscantokenupdate/index.rst:4
+msgid "1、打开 Etherscan 官网 https://etherscan.io/ ，输入 token ，点击按钮 GO，点击 update。"
+msgstr ""
+
+#: ../../etherscantokenupdate/index.rst:13
+msgid "2、确认 token 的合约地址，选择 Submit 。"
+msgstr ""
+
+#: ../../etherscantokenupdate/index.rst:22
+msgid "3、复制网页中的签名信息，复制，选择 Next 。（选择 Next 之后，不要刷新此页面，耐心等待加载，否则会出现签名信息更改）"
+msgstr ""
+
+#: ../../etherscantokenupdate/index.rst:33
+msgid "4、打开比特派，切换到 ETH 币种界面，选择收币，右上角三点，消息签名。将刚刚复制的签名信息复制到输入框中，选择签名。"
+msgstr ""
+
+#: ../../etherscantokenupdate/index.rst:42
+msgid "5、输入比特派 PIN 码，点击最终的签名字符串复制"
+msgstr ""
+
+#: ../../etherscantokenupdate/index.rst:51
+msgid "6、将复制的签名粘贴到 Message signature hash * 下方的输入框中，然后选择 Verify 。"
+msgstr ""
+
+#: ../../etherscantokenupdate/index.rst:60
+msgid ""
+"7、只有签名信息验证通过之后，才会到 Etherscan 官网 token 更新的 STEP 3 - Fill in the Token "
+"Update Request Form。"
+msgstr ""
+
+#: ../../etherscantokenupdate/index.rst:69
+msgid "8、输入完信息之后，点击 Send Message 。"
+msgstr ""
+

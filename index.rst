@@ -34,6 +34,7 @@
    eosvote/index
    privateKeyImport/index
    tokenFactory/index
+   etherscantokenupdate/index
    FAQ/index
 
 
