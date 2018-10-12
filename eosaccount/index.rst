@@ -1,49 +1,82 @@
 EOS 账户创建
 ===================
 
-1、更新比特派最新版本，版本号大于 3.4.1。
+1、更新比特派最新版本，版本号大于 3.6.2 ，比特派支持 EOS 账户创建方法：支付宝/银行卡创建、请朋友使用 Bitpie 扫一扫创建、派银行创建、派钱包创建。
 
-2、您的派银行必须有 EOS 余额，如果您的派银行没有余额也没有关系，可以通过派钱包的交易所进行兑换（基于 EOS/ETH 、EOS/SCNY 交易对）。
+2､ 切换到 EOS 币种界面，选择账户管理，选择创建 EOS 账户。
+
+.. image:: ../img/account_eos_pay.jpg
+    :width: 430px
+    :height: 884px
+    :scale: 100%
+    :align: center
+
+
+3､ 选择支付宝/银行卡创建。
+
+.. image:: ../img/account_eos_select.jpg
+    :width: 430px
+    :height: 884px
+    :scale: 100%
+    :align: center
+
+
+4、进入 EOS 账户页面。输入 EOS 账户，选择下一步。
+
+
+.. image:: ../img/account_eos_input.jpg
+    :width: 430px
+    :height: 884px
+    :scale: 100%
+    :align: center
+
+
+
+    备注：账户名只支持数字1-5，小写字母a-z，长度12位。并且账户名不能被占用。
+
+5、进入确认账户信息页面。选择支付方式。在这里选择支付宝。选择立即创建。
+
+.. image:: ../img/account_eos_alipay.jpg
+    :width: 430px
+    :height: 884px
+    :scale: 100%
+    :align: center
+
+
+6､ 输入 PIN 码，在详细页面，选择去支付按钮，会自动跳入支付宝付款页面，在付款时请备注订单号。请您在规定的时间内完成支付，如果您已付款，请耐心等待交易员确认收款。
+
+.. image:: ../img/account_alipay_go.jpg
+    :width: 430px
+    :height: 884px
+    :scale: 100%
+    :align: center
+
+
+7、待交易员确认之后，就会进入账户创建中页面，创建账户大约需要5分钟。您也可以切换到 EOS 币种页面，点击查看最新记录（可以查看 创建 EOS 账户、购买 RAM、质押）。
+
+.. image:: ../img/eos_createing.jpg
+    :width: 430px
+    :height: 884px
+    :scale: 100%
+    :align: center
+
+
+.. image:: ../img/account_eos_detail.jpg
+    :width: 430px
+    :height: 884px
+    :scale: 100%
+    :align: center
+
+
+
+
+
+说明：
+
+1､ 如果您选择的是 派银行创建的方式 ，您的派银行必须有 EOS 余额，如果您的派银行没有余额也没有关系，可以通过派钱包的交易所进行兑换（基于 EOS/ETH 、EOS/SCNY 交易对）。
 
 交易所交易教程：http://docs.bitpie.com/zh_CN/latest/Expie/index.html
 
-3､ 如果您还没有添加 EOS 币种，先添加 EOS 币种（钱包首页－右上角'＋'号－添加币种页面选择其它币种－选择 EOS 币种右侧的灰色按钮即可）。
+2､ 如果您的朋友有 EOS ，可以选择 请朋友使用 Bitpie 扫一扫创建，将生成的二维以图片的形式转发给您的朋友。然后通过扫一扫即可进行发送 EOS 进行创建 。
 
-添加币种教程：http://docs.bitpie.com/zh_CN/latest/MultiCurrency/index.html
-
-4、选择 EOS 币种，提示 '您当前尚未开通 EOS 账户，确定开通'，选择确认。
-
-.. image:: ../img/eoshomepage.jpg
-    :width: 336px
-    :height: 597px
-    :scale: 100%
-    :align: center
-
-
-.. image:: ../img/eosconfrim.jpg
-    :width: 336px
-    :height: 597px
-    :scale: 100%
-    :align: center
-
-
-
-5、进入 EOS 创建账户页面。支付方式为派银行；账户名：只支持数字1-5，小写字母a-z，长度12位。输入12位账户名。
-
-
-.. image:: ../img/eosaccountname.jpg
-    :width: 336px
-    :height: 597px
-    :scale: 100%
-    :align: center
-
-
-6、选择确认，会检测您的账户是否重名，如果没有重合，会弹出提示框 '创建账户我们将为您质押0.1 EOS CPU，0.1 EOS Net 和购买 4KB (约 1.4687 EOS) RAM 资源，将从您的派银行可用余额扣除约 1.6687 EOS (由于 RAM 价格波动较大最终和扣除金额可能会有偏差)'，选择确认。
-
-.. image:: ../img/eoscreate.jpg
-    :width: 336px
-    :height: 597px
-    :scale: 100%
-    :align: center
-
-
+3、如果您想通过派钱包创建 ，您的派钱包必须有 EOS 账户，并且 EOS 账户余额必须大于2。
