@@ -29,6 +29,9 @@
    bitherImportPrivateKeyToken/index
    anotherAssets/index
    eosaccount/index
+   eosresourcessos/index
+   eosleased/index
+   eosscan/index
    eosmainchain/index
    eosram/index
    eosvote/index
@@ -36,7 +39,6 @@
    tokenFactory/index
    etherscantokenupdate/index
    FAQ/index
-
 
 
 
