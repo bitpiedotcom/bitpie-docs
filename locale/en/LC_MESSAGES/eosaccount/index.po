@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Bitpie 3.3.4\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2018-10-17 19:31+0800\n"
+"POT-Creation-Date: 2018-11-16 17:28+0800\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -21,65 +21,96 @@ msgstr ""
 msgid "EOS 账户创建"
 msgstr "How to create an EOS account"
 
-#: ../../eosaccount/index.rst:4
+#: ../../eosaccount/index.rst:5
 msgid ""
-"1、更新比特派最新版本，版本号大于 3.6.2 ，比特派支持 EOS 账户创建方法：支付宝/银行卡创建、请朋友使用 Bitpie "
-"扫一扫创建、派银行创建、派钱包创建。"
-msgstr "1.Update to the latest version of Bitpie (3.6.2 version or above). Bitpie supports the following ways to create your account: by Alipay or Bank card, by scanning your Bitpie QR Code by your Friend, through PieBank or PieWallet."
+"更新比特派最新版本，版本号大于 3.7.5 ，比特派支持 EOS 账户创建方法：支付宝/银行卡创建、使用其它币种创建（目前支持 BTC、ETH "
+"开户）、请朋友使用 Bitpie 扫一扫创建、使用派银行余额创建、使用派钱包余额创建。"
+msgstr ""
+"Update to the latest version of Bitpie (3.7.5 version or above). Bitpie"
+" supports the following ways to create your account: by Alipay or Bank "
+"card, Other Coin(Currently supports BTC and ETH account opening),by scanning your Bitpie QR Code by your Friend, through PieBank or "
+"PieWallet."
 
-#: ../../eosaccount/index.rst:6
-msgid "2､ 切换到 EOS 币种界面，选择账户管理，选择创建 EOS 账户。"
-msgstr "2.Switch to the EOS interface, Select Account Management and click “Create an EOS account”."
+#: ../../eosaccount/index.rst:7
+msgid "这里使用支付宝创建 EOS 账号为例："
+msgstr "Take the Alipay as an example"
 
-#: ../../eosaccount/index.rst:15
-msgid "3､ 选择支付宝/银行卡创建。"
-msgstr "3.Select creation by Alipay or Bank card."
+#: ../../eosaccount/index.rst:9
+msgid "1､ 切换到 EOS 币种界面，选择账户管理，选择创建 EOS 账户。"
+msgstr ""
+"1.Switch to the EOS interface, Select Account Management and click "
+"“Create an EOS account”."
 
-#: ../../eosaccount/index.rst:24
-msgid "4、进入 EOS 账户页面。输入 EOS 账户，选择下一步。"
-msgstr "4.Go to the EOS Account,Enter into your EOS account name and click “Next”."
+#: ../../eosaccount/index.rst:18
+msgid "2､ 选择支付宝/银行卡创建。"
+msgstr "2.Select creation by Alipay or Bank card."
 
-#: ../../eosaccount/index.rst:37
-msgid "5、进入确认账户信息页面。选择支付方式。在这里选择支付宝。选择立即创建。"
-msgstr "5.Go to confirm your account information,Select payment method,Now select Alipay,Click “Create now”"
+#: ../../eosaccount/index.rst:27
+msgid "3、进入 EOS 账户页面。输入 EOS 账户，选择下一步。"
+msgstr "3.Go to the EOS Account,Enter into your EOS account name and click “Next”."
 
-#: ../../eosaccount/index.rst:46
+#: ../../eosaccount/index.rst:40
+msgid "4、进入确认账户信息页面。选择支付方式。在这里选择支付宝。选择立即创建。"
+msgstr ""
+"4.Go to confirm your account information,Select payment method,Now select"
+" Alipay,Click “Create now”"
+
+#: ../../eosaccount/index.rst:49
 msgid ""
-"6､ 输入 PIN "
+"5､ 输入 PIN "
 "码，在详细页面，选择去支付按钮，会自动跳入支付宝付款页面，在付款时请备注订单号。请您在规定的时间内完成支付，如果您已付款，请耐心等待交易员确认收款。"
-msgstr "6.Enter the PIN code ,Click “Pay” button and it will automatically redirect you to the Alipay payment (Attention: note the order number when making the payment),Complete the payment within the specified time ,If you have already paid, please be patient and wait for the dealer to confirm the payment."
+msgstr ""
+"5.Enter the PIN code ,Click “Pay” button and it will automatically "
+"redirect you to the Alipay payment (Attention: note the order number when"
+" making the payment),Complete the payment within the specified time ,If "
+"you have already paid, please be patient and wait for the dealer to "
+"confirm the payment."
 
-#: ../../eosaccount/index.rst:55
+#: ../../eosaccount/index.rst:58
 msgid ""
-"7、待交易员确认之后，就会进入账户创建中页面，创建账户大约需要5分钟。您也可以切换到 EOS 币种页面，点击查看最新记录（可以查看 创建 EOS "
+"6、待交易员确认之后，就会进入账户创建中页面，创建账户大约需要5分钟。您也可以切换到 EOS 币种页面，点击查看最新记录（可以查看 创建 EOS "
 "账户、购买 RAM、质押）。"
-msgstr "7.After the dealer´s confirmation, you will be redirected to the account creation page, and it takes about 5 minutes to finish the process. You can also switch to the EOS page and click“View the latest records”(there you can see the creation of an EOS account, RAM purchase, and the stake)."
+msgstr ""
+"6.After the dealer´s confirmation, you will be redirected to the account "
+"creation page, and it takes about 5 minutes to finish the process. You "
+"can also switch to the EOS page and click“View the latest records”(there "
+"you can see the creation of an EOS account, RAM purchase, and the stake)."
 
-#: ../../eosaccount/index.rst:74
+#: ../../eosaccount/index.rst:77
 msgid "说明："
 msgstr "Instractions:"
 
-#: ../../eosaccount/index.rst:76
+#: ../../eosaccount/index.rst:79
 msgid ""
 "1､ 如果您选择的是 派银行创建的方式 ，您的派银行必须有 EOS 余额，如果您的派银行没有余额也没有关系，可以通过派钱包的交易所进行兑换（基于 "
 "EOS/ETH 、EOS/SCNY 交易对）。"
-msgstr "1.If you choose to create the account through Pie Bank, your Pie Bank must have EOS balance. It´s fine if you don´t have balance in your Pie Bank. You can purchase through ExPie exchange (based on EOS/ETH, EOS/SCNY trading pairs)."
+msgstr ""
+"1.If you choose to create the account through Pie Bank, your Pie Bank "
+"must have EOS balance. It´s fine if you don´t have balance in your Pie "
+"Bank. You can purchase through ExPie exchange (based on EOS/ETH, EOS/SCNY"
+" trading pairs)."
 
-#: ../../eosaccount/index.rst:78
+#: ../../eosaccount/index.rst:81
 msgid "交易所交易教程：http://docs.bitpie.com/zh_CN/latest/Expie/index.html"
 msgstr ""
 "The manual of trading in the exchange:  "
 "http://docs.bitpie.com/en/latest/Expie/index.html"
 
-#: ../../eosaccount/index.rst:80
+#: ../../eosaccount/index.rst:83
 msgid ""
 "2､ 如果您的朋友有 EOS ，可以选择 请朋友使用 Bitpie 扫一扫创建，将生成的二维以图片的形式转发给您的朋友。然后通过扫一扫即可进行发送"
 " EOS 进行创建 。"
-msgstr "2.If any of your friends has EOS assets, you can select “scan QR code by friend”. Afterwards, a QR code will be generated and you could share it with your friend, who would send EOS assets through scanning to complete the process. "
+msgstr ""
+"2.If any of your friends has EOS assets, you can select “scan QR code by "
+"friend”. Afterwards, a QR code will be generated and you could share it "
+"with your friend, who would send EOS assets through scanning to complete "
+"the process. "
 
-#: ../../eosaccount/index.rst:82
+#: ../../eosaccount/index.rst:85
 msgid "3、如果您想通过派钱包创建 ，您的派钱包必须有 EOS 账户，并且 EOS 账户余额必须大于2。"
-msgstr "3.If you want to create the account through Pie Wallet, your Pie Wallet must have an EOS account and the EOS balance must be more than 2 EOS."
+msgstr ""
+"3.If you want to create the account through Pie Wallet, your Pie Wallet "
+"must have an EOS account and the EOS balance must be more than 2 EOS."
 
 #~ msgid "1、更新比特派最新版本，版本号大于 3.4.1。"
 #~ msgstr "1.Upgrade Bitpie app to the latest version, greater than 3.4.1."
