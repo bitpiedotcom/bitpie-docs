@@ -35,6 +35,7 @@
    eosmainchain/index
    eosram/index
    eosvote/index
+   invitedFriends/index
    privateKeyImport/index
    tokenFactory/index
    etherscantokenupdate/index
