@@ -1,0 +1,59 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2018, bitpie
+# This file is distributed under the same license as the Bitpie package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2018.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Bitpie 3.7.7\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2018-11-28 10:34+0800\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.4.0\n"
+
+#: ../../cpulcecream/index.rst:2
+msgid "CPU 冰淇淋"
+msgstr "CPU lce Cream"
+
+#: ../../cpulcecream/index.rst:4
+msgid "免费领取 CPU 资源，更新版本至 3.7.7"
+msgstr "Get free CPU Resource, upgrade Bitpie version to 3.7.7"
+
+#: ../../cpulcecream/index.rst:6
+msgid "领取规则："
+msgstr "Claiming rules:"
+
+#: ../../cpulcecream/index.rst:8
+msgid "1、每位比特派用户每天可领取一份 CPU 冰淇淋"
+msgstr "1.Every Bitpie user can receive a CPU ice cream per day"
+
+#: ../../cpulcecream/index.rst:10
+msgid "2、每份冰淇淋包含价值 5 EOS 的 CPU 资源 24 小时使用权"
+msgstr "2.Each lce Cream contains (5 EOS) CPU for (24) hors"
+
+#: ../../cpulcecream/index.rst:12
+msgid "3、每天早上 9:00 开放(香港时间)，领完为止。"
+msgstr "3.Open time: 9:00 am(Hong Kong time),subject to availability"
+
+#: ../../cpulcecream/index.rst:15
+msgid "领取方法："
+msgstr "How to claim:"
+
+#: ../../cpulcecream/index.rst:17
+msgid "1、切换到 EOS 币种，选择全部，资源管理，点击 CPU 资源右侧 \"CPU 冰淇淋\"。"
+msgstr "1.Switch to EOS currency, select 'All', click on 'Resource Management', and then click on 'CPU Ice Cream' on the right side of the CPU resource."
+
+#: ../../cpulcecream/index.rst:19
+msgid "2、切换到 EOS 对应的账号，点击 EOS 资源管理右侧 \"CPU 冰淇淋\"。"
+msgstr "2.Switch to the corresponding EOS account and click on 'CPU Ice Cream' on the right side of EOS Resource Management."
+
+#: ../../cpulcecream/index.rst:21
+msgid "3、切换到 EOS 对应的账号，点击 CPU,点击 质押资产右侧 \"CPU 冰淇淋\"。"
+msgstr "3.Switch to the corresponding EOS account, click on CPU, and afterwards click on 'CPU Ice Cream' on the right side of stake asset."
+
