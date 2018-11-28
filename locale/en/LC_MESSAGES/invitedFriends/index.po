@@ -51,7 +51,7 @@ msgstr "1.Update to Bitpie version 3.7.7."
 
 #: ../../invitedFriends/index.rst:20
 msgid "2、点击我的菜单，选择邀请好友。"
-msgstr "2.Click on “My Menu” and select “Invite Friends”."
+msgstr "2.Click on “Me Menu” and select “Invite Friends”."
 
 #: ../../invitedFriends/index.rst:29
 msgid "3、有两种方式进行分享：一是复制链接，二是分享图片。两种分享方式都可以分享给朋友圈、微博等知名社交网络平台，也可以通过邮件群发、微信群发、QQ群发等方法进行传播。"
