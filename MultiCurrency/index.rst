@@ -5,7 +5,7 @@
 添加币种
 ------------------
 
-默认情况下，第一次进入比特派包，进入页面就是添加币种页面。添加币种页面有 BTC/分叉、ETH/Token、稳定 Token、其他币种。
+钱包首页 － 右上角 "＋" 。
 
 .. image:: ../img/bitpiecoinlist.jpg
     :width: 320px
@@ -13,9 +13,9 @@
     :scale: 100%
     :align: center
 
-1、在这里以 BTP 为例 ，在 BTC/分叉列表中打到 BTP。
+1、在这里以 USDT-OMNI 为例 ，在 主流币下的 USDT-OMNI。
 
-2、点击 BTP 右侧的灰色开关，当开关变成绿色，说明 BTP 已打开。钱包首页的币种列表中就会显示 BTP。
+2、点击 USDT-OMNI 右侧的灰色开关，当开关变成绿色，说明 USDT-OMNI 已打开。钱包首页的币种列表中就会显示 USDT-OMNI。
 
 .. image:: ../img/bitpiecoinopen.jpg
     :width: 320px

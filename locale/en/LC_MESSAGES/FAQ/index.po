@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Bitpie 0.1\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2018-04-25 15:05+0800\n"
+"POT-Creation-Date: 2018-12-04 13:54+0800\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -106,11 +106,13 @@ msgid "比特派提供了iOS 和 Android 版本的客户端。"
 msgstr "Bitpie provides IOS and Android versions."
 
 #: ../../FAQ/index.rst:34
-msgid "下载地址：苹果 iOS：请通过非大陆ID登陆 App Store 搜索 bitpie 下载安装。"
-msgstr ""
+#, fuzzy
+msgid "下载地址：苹果 iOS： https://bitpie.com/ios/"
+msgstr "Android: http://bitpie.com/android/"
 
 #: ../../FAQ/index.rst:36
-msgid "安卓android： http://bitpie.com/android/"
+#, fuzzy
+msgid "安卓android： https://bitpie.com/android/"
 msgstr "Android: http://bitpie.com/android/"
 
 #: ../../FAQ/index.rst:40
@@ -425,7 +427,10 @@ msgstr "23.How to use Seed Phrase to restore the wallet?"
 
 #: ../../FAQ/index.rst:144
 msgid "重新安装打开后，选择\"我有种子,直接恢复\"，选择\"比特派种子密语恢复\"，录入\"12个助记词\" 进行恢复。"
-msgstr "after reinstallation, open the Bitpie App, select\"Recover an Existing Account\", select \"Bitpie Seed Phrase Recovery\", input the 12-word Seed Phrase, then you can recover your account."
+msgstr ""
+"after reinstallation, open the Bitpie App, select\"Recover an Existing "
+"Account\", select \"Bitpie Seed Phrase Recovery\", input the 12-word Seed"
+" Phrase, then you can recover your account."
 
 #: ../../FAQ/index.rst:147
 msgid "24.钱包恢复后，我的币、原来的地址和交易记录还在吗？"
@@ -1031,4 +1036,7 @@ msgstr ""
 
 #~ msgid "一个。"
 #~ msgstr "Only one."
+
+#~ msgid "下载地址：苹果 iOS：请通过非大陆ID登陆 App Store 搜索 bitpie 下载安装。"
+#~ msgstr ""
 

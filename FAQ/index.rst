@@ -31,9 +31,9 @@
 
 比特派提供了iOS 和 Android 版本的客户端。
 
-下载地址：苹果 iOS：请通过非大陆ID登陆 App Store 搜索 bitpie 下载安装。
+下载地址：苹果 iOS： https://bitpie.com/ios/
 
-安卓android： http://bitpie.com/android/
+安卓android： https://bitpie.com/android/
 
 
 7.“比特派（bitpie）”和“比太钱包（bither）”是什么关系？

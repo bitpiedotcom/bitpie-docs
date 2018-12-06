@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Bitpie 0.1\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2018-04-25 14:24+0800\n"
+"POT-Creation-Date: 2018-12-04 13:54+0800\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -22,54 +22,61 @@ msgid "帮您提取转错的币"
 msgstr "Help you extract the transferred error cryptocurrency"
 
 #: ../../anotherAssets/index.rst:4
-msgid "1､更新比特派最新版本，版本号 >= 3.2.2 。"
+#, fuzzy
+msgid "1､更新比特派最新版本，版本号 >= 3.7.7 。"
 msgstr "1.Update Bitpie to the latest version(v3.2.2 or newer version)"
 
 #: ../../anotherAssets/index.rst:6
 msgid ""
-"2､比特派支持提取转错的地址列表：在 BTC 地址上提取：BCH、SBTC、BCD、BTV；在 BCH "
-"地址上提取：BTC、SBTC、BCD、BTV；在 SBTC 地址上提取：BTC、BCH、BCD、BTV；在 BCD "
-"地址上提取：BTC、BCH、SBTC、BTV；在 BTV 地址上提取：BTC、BCH、SBTC、BCD；在 ETH 地址上提取：ETC；在 ETC"
-" 地址上提取：ETH、ERC20-Token；"
-msgstr "Bitpie supports the extract of missending coin and tokens as below:on BTC address: extract BCH, SBTC, BCD, BTV;on BCH address: extract BTC, SBTC, BCD, BTV;on SBTC address: extract BTC, BCH, BCD, BTV;on BTV address: extract BTC, BCH, SBTC, BCD;on ETH address: extract ETC;on ETC address: extract ETH, all ERC20 tokens"
+"2､比特派支持提取转错的地址列表：在 BTC 地址上提取：BCHABC、SBTC、BCD、BTV；在 BCHABC "
+"地址上提取：BTC、SBTC、BCD、BTV；在 SBTC 地址上提取：BTC、BCHABC、BCD、BTV；在 BCD "
+"地址上提取：BTC、BCHABC、SBTC、BTV；在 BTV 地址上提取：BTC、BCHABC、SBTC、BCD；在 ETH "
+"地址上提取：ETC；在 ETC 地址上提取：ETH、ERC20-Token；"
+msgstr ""
 
 #: ../../anotherAssets/index.rst:8
-msgid "3､按照以提取转错的 BCH 为例，其它转错的币参考此文档。"
+#, fuzzy
+msgid "3､按照以提取转错的 BCHABC 为例，其它转错的币参考此文档。"
 msgstr ""
 "3.Here are examples to claim BCH. You can refer to this tutorial "
 "documents to claim others cryptocurrency that was trasfered by mistake."
 
 #: ../../anotherAssets/index.rst:13
-msgid "提取转错的 BCH"
-msgstr "Extract the transferred error BCH"
+msgid "提取转错的 BCHABC"
+msgstr ""
 
 #: ../../anotherAssets/index.rst:16
-msgid "注:如果误将 BCH 发到隔离验证的地址上，将造成 BCH 损失，无法找回。"
+#, fuzzy
+msgid "注:如果误将 BCHABC 发到隔离验证的地址上，将造成 BCHABC 损失，无法找回。"
 msgstr ""
 "Note: If the BCH is sent to Segwit address,Cause BCH lose, and unable "
 "retrieve."
 
 #: ../../anotherAssets/index.rst:19
-msgid "1、如果误将 BCH 发到了 BTC 地址上，请切换到 BTC 界面。"
+#, fuzzy
+msgid "1、如果误将 BCHABC 发到了 BTC 地址上，请切换到 BTC 界面。"
 msgstr ""
 "1.If the BCH is sent to the BTC address, please switch to the BTC "
 "interface."
 
 #: ../../anotherAssets/index.rst:21
-msgid "2、选择我的-我的地址－收款地址-在我的历史收款 BTC 地址中'选择误发的地址'-检测 BCH 资产。"
+#, fuzzy
+msgid "2、选择我的-我的地址－收款地址-在我的历史收款 BTC 地址中'选择误发的地址'-检测 BCHABC 资产。"
 msgstr ""
 "2.Choose My - My Address - RECEIVING ADDRESS - 'choose the wrong address'"
 " in My History Receiving BTC address - DETECT BCH ASSETS "
 
 #: ../../anotherAssets/index.rst:37
-msgid "如果没有找到 BTC 地址(误发的地址)，请切换到 BTC 界面。选择收币-我的 BTC 地址-检测 BCH 资产(右上角三点)。"
+#, fuzzy
+msgid "如果没有找到 BTC 地址(误发的地址)，请切换到 BTC 界面。选择收币-我的 BTC 地址-检测 BCHABC 资产(右上角三点)。"
 msgstr ""
 "If Bitcoin address (address in error) is not found, please switch to BTC "
 "interface. Choose Receive - My BTC Addresses - Detect BCH assets(Three in"
 " the top right corner)"
 
 #: ../../anotherAssets/index.rst:46
-msgid "3、提取 BCH，提取 BCH 地址就是你的收币地址。"
+#, fuzzy
+msgid "3、提取 BCHABC，提取 BCHABC 地址就是你的收币地址。"
 msgstr "3.Extract BTC,The address to extract BTC is your Receiving btc address."
 
 #~ msgid "提取转错的BCC"
@@ -241,4 +248,24 @@ msgstr "3.Extract BTC,The address to extract BTC is your Receiving btc address."
 
 #~ msgid "备注：在转错的地址上操作"
 #~ msgstr ""
+
+#~ msgid ""
+#~ "2､比特派支持提取转错的地址列表：在 BTC 地址上提取：BCH、SBTC、BCD、BTV；在 BCH"
+#~ " 地址上提取：BTC、SBTC、BCD、BTV；在 SBTC 地址上提取：BTC、BCH、BCD、BTV；在"
+#~ " BCD 地址上提取：BTC、BCH、SBTC、BTV；在 BTV "
+#~ "地址上提取：BTC、BCH、SBTC、BCD；在 ETH 地址上提取：ETC；在 ETC "
+#~ "地址上提取：ETH、ERC20-Token；"
+#~ msgstr ""
+#~ "Bitpie supports the extract of "
+#~ "missending coin and tokens as below:on"
+#~ " BTC address: extract BCH, SBTC, BCD,"
+#~ " BTV;on BCH address: extract BTC, "
+#~ "SBTC, BCD, BTV;on SBTC address: extract"
+#~ " BTC, BCH, BCD, BTV;on BTV address:"
+#~ " extract BTC, BCH, SBTC, BCD;on ETH"
+#~ " address: extract ETC;on ETC address: "
+#~ "extract ETH, all ERC20 tokens"
+
+#~ msgid "提取转错的 BCH"
+#~ msgstr "Extract the transferred error BCH"
 

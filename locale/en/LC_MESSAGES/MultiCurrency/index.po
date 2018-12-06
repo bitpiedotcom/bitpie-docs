@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Bitpie 0.1\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2018-04-25 16:24+0800\n"
+"POT-Creation-Date: 2018-12-04 13:54+0800\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -26,16 +26,18 @@ msgid "添加币种"
 msgstr "Add Assets"
 
 #: ../../MultiCurrency/index.rst:8
-msgid "默认情况下，第一次进入比特派包，进入页面就是添加币种页面。添加币种页面有 BTC/分叉、ETH/Token、稳定 Token、其他币种。"
-msgstr "By default, when you enter into Bitpie Wallet for first time, you will see the page of adding assets. "
+msgid "钱包首页 － 右上角 \"＋\" 。"
+msgstr ""
 
 #: ../../MultiCurrency/index.rst:16
-msgid "1、在这里以 BTP 为例 ，在 BTC/分叉列表中打到 BTP。"
-msgstr "1.Take BTP as an example, select BTP under BTC tree."
+msgid "1、在这里以 USDT-OMNI 为例 ，在 主流币下的 USDT-OMNI。"
+msgstr "1.Take BTP as an example,"
 
 #: ../../MultiCurrency/index.rst:18
-msgid "2、点击 BTP 右侧的灰色开关，当开关变成绿色，说明 BTP 已打开。钱包首页的币种列表中就会显示 BTP。"
-msgstr "2.Turn on BTP button; the button is on when you see it is green. You will see BTP when you return to the home page."
+msgid "2、点击 USDT-OMNI 右侧的灰色开关，当开关变成绿色，说明 USDT-OMNI 已打开。钱包首页的币种列表中就会显示 USDT-OMNI。"
+msgstr ""
+"2.Turn on USDT-OMNI button; the button is on when you see it is green. You will"
+" see USDT-OMNI when you return to the home page."
 
 #: ../../MultiCurrency/index.rst:31
 msgid "币种切换"
@@ -87,4 +89,14 @@ msgstr "Tap the asset on the home page, it will immediately be switched."
 
 #~ msgid "默认情况下，第一次进入比特派包，进入界面就是添加币种页面。添加币种页面有 BTC/分叉、ETH/Token、稳定 Token、其他币种。"
 #~ msgstr ""
+
+#~ msgid "默认情况下，第一次进入比特派包，进入页面就是添加币种页面。添加币种页面有 BTC/分叉、ETH/Token、稳定 Token、其他币种。"
+#~ msgstr ""
+#~ "By default, when you enter into "
+#~ "Bitpie Wallet for first time, you "
+#~ "will see the page of adding "
+#~ "assets. "
+
+#~ msgid "1、在这里以 BTP 为例 ，在 BTC/分叉列表中打到 BTP。"
+#~ msgstr "1.Take BTP as an example, select BTP under BTC tree."
 

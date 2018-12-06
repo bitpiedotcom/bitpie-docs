@@ -27,6 +27,7 @@
    BankCard/index
    MultiCurrency/index
    bitherImportPrivateKeyToken/index
+   coinprivatekey/index
    anotherAssets/index
    eosaccount/index
    eosresourcessos/index
@@ -37,10 +38,8 @@
    eosvote/index
    invitedFriends/index
    cpulcecream/index
+   dappbrowse/index
    privateKeyImport/index
    tokenFactory/index
    etherscantokenupdate/index
    FAQ/index
-
-
-
