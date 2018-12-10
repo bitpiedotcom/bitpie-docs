@@ -9,8 +9,8 @@ EOS 账户创建
 1､ 切换到 EOS 币种界面，选择账户管理，选择创建 EOS 账户。
 
 .. image:: ../img/account_eos_pay.jpg
-    :width: 430px
-    :height: 884px
+    :width: 320px
+    :height: 658px
     :scale: 100%
     :align: center
 
@@ -18,8 +18,8 @@ EOS 账户创建
 2､ 选择支付宝/银行卡创建。
 
 .. image:: ../img/account_eos_select.jpg
-    :width: 430px
-    :height: 884px
+    :width: 320px
+    :height: 658px
     :scale: 100%
     :align: center
 
@@ -28,8 +28,8 @@ EOS 账户创建
 
 
 .. image:: ../img/account_eos_input.jpg
-    :width: 430px
-    :height: 884px
+    :width: 320px
+    :height: 658px
     :scale: 100%
     :align: center
 
@@ -40,8 +40,8 @@ EOS 账户创建
 4、进入确认账户信息页面。选择支付方式。在这里选择支付宝。选择立即创建。
 
 .. image:: ../img/account_eos_alipay.jpg
-    :width: 430px
-    :height: 884px
+    :width: 320px
+    :height: 658px
     :scale: 100%
     :align: center
 
@@ -49,8 +49,8 @@ EOS 账户创建
 5､ 输入 PIN 码，在详细页面，选择去支付按钮，会自动跳入支付宝付款页面，在付款时请备注订单号。请您在规定的时间内完成支付，如果您已付款，请耐心等待交易员确认收款。
 
 .. image:: ../img/account_alipay_go.jpg
-    :width: 430px
-    :height: 884px
+    :width: 320px
+    :height: 658px
     :scale: 100%
     :align: center
 
@@ -58,15 +58,15 @@ EOS 账户创建
 6、待交易员确认之后，就会进入账户创建中页面，创建账户大约需要5分钟。您也可以切换到 EOS 币种页面，点击查看最新记录（可以查看 创建 EOS 账户、购买 RAM、质押）。
 
 .. image:: ../img/eos_createing.jpg
-    :width: 430px
-    :height: 884px
+    :width: 320px
+    :height: 658px
     :scale: 100%
     :align: center
 
 
 .. image:: ../img/account_eos_detail.jpg
-    :width: 430px
-    :height: 884px
+    :width: 320px
+    :height: 658px
     :scale: 100%
     :align: center
 

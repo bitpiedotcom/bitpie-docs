@@ -38,7 +38,7 @@
    eosvote/index
    invitedFriends/index
    cpulcecream/index
-   dappbrowse/index
+   dappbrowser/index
    privateKeyImport/index
    tokenFactory/index
    etherscantokenupdate/index

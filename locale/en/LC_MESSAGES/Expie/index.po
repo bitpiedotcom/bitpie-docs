@@ -23,7 +23,7 @@ msgstr "Exchange"
 
 #: ../../Expie/index.rst:4
 msgid "目前交易所支持基于 USDT、SCNY、BTC、ETH、EOS 交易对。"
-msgstr ""
+msgstr "Currently, the exchange supports trading pairs based on USDT, SCNY, BTC, ETH, and EOS."
 
 #: ../../Expie/index.rst:6
 msgid ""
@@ -31,6 +31,10 @@ msgid ""
 "/UDST-"
 "OMNI、BTC/SCNY、ETH/SCNY、BCHABC/SCNY、LTC/SCNY、EOS/SCNY、BET/SCNY、POK/SCNY、ETH/BTC、BCHABC/BTC、LTC/BTC、BCD/BTC、ETC/BTC、SAFE/BTC、EOS/ETH、TRX/ETH、ELF/ETH、EOSDAC/ETH、ADD/EOS、CHL/EOS交易对。"
 msgstr ""
+"Bitpie Exchange(Expie) supports the following trading pairs: "
+"BTC/USDT-OMNI,ETH/USDT-OMNI,EOS/USDT-OMNI,BCHABC/USDT-OMNI,LTC/UDST-OMNI,BTC/SCNY,"
+"ETH/SCNY,BCHABC/SCNY,LTC/SCNY,EOS/SCNY,BET/SCNY,POK/SCNY,ETH/BTC,BCHABC/BTC,LTC/BTC,"
+"BCD/BTC,ETC/BTC,SAFE/BTC,EOS/ETH,TRX/ETH,ELF/ETH,EOSDAC/ETH,ADD/EOS,CHL/EOS"
 
 #: ../../Expie/index.rst:8
 msgid "将您需要交易的币充值到派银行。"
@@ -46,7 +50,7 @@ msgstr "CHL/EOS buy"
 
 #: ../../Expie/index.rst:21
 msgid "1、将 EOS 充值到派银行中，底部菜单－交易所－选择 CHL/EOS 交易对-充值－派银行页面（充值）。"
-msgstr "1.Make a EOS deposit to PieBank . Menu-Exchange-Deposit-Pie Bank(Deposit)."
+msgstr "1.Make a EOS deposit to PieBank . Menu-Exchange-Select CHL/EOS transaction pair-Deposit-Pie Bank(Deposit)."
 
 #: ../../Expie/index.rst:40
 msgid "2､ 下单类型：限价单。"
@@ -64,12 +68,11 @@ msgid ""
 "图中说明：1、切换交易对。 2、盘口和最新成交。 3､查看历史成交及交易流水。 4､下单类型。5､价格（ EOS）。 6、数量（CHL）。 "
 "7、成交金额（EOS）。 8、卖单区。 9、买单区。 10、盘口。11､最新成交。"
 msgstr ""
-"Note: 1. Switch trading pairs.  2.EXPIE LIMITED.   3. view the history "
-"and exchange.  4.order type.   5.Price(BTC).  6.Amount(BCH).  "
-"7.Total(BTC).  8.Sell area.  9.Buy area. "
+"Note: 1. Switch trading pairs.  2.Handicap and Trade History.   3. view the history "
+"and exchange.  4.order type.   5.Price(EOS).  6.Amount(CHL).  "
+"7.Total(BTC).  8.Sell area.  9.Buy area. 10.Handicap. 11.Trade History. "
 
 #: ../../Expie/index.rst:55
-#, fuzzy
 msgid "4、买入之后，可在当前委托查看您买入的订单，等待订单成交。如果买入订单有误（在订单没有成交的情况下）可以在当前委托界面中撤单。"
 msgstr ""
 "4.After submit order, before it is fulfilled, you can check or cancel "
@@ -83,7 +86,7 @@ msgstr ""
 
 #: ../../Expie/index.rst:71
 msgid "CHL/EOS 卖出"
-msgstr ""
+msgstr "CHL/EOS sell"
 
 #: ../../Expie/index.rst:73
 #, fuzzy

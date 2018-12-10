@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Bitpie 0.1\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2018-12-04 13:54+0800\n"
+"POT-Creation-Date: 2018-12-06 16:10+0800\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -69,6 +69,70 @@ msgstr "The corresponding amount of KYC level (Instant Trade)"
 #: ../../VerificationOfIdentity/index.rst:23
 msgid "单位/人民币"
 msgstr "Unit/RMB"
+
+#: ../../VerificationOfIdentity/index.rst:26
+msgid "KYC级别"
+msgstr ""
+
+#: ../../VerificationOfIdentity/index.rst:26
+msgid "单笔"
+msgstr ""
+
+#: ../../VerificationOfIdentity/index.rst:26
+msgid "单日"
+msgstr ""
+
+#: ../../VerificationOfIdentity/index.rst:26
+msgid "总量"
+msgstr ""
+
+#: ../../VerificationOfIdentity/index.rst:28
+msgid "KYC A"
+msgstr ""
+
+#: ../../VerificationOfIdentity/index.rst:28
+msgid "5000"
+msgstr ""
+
+#: ../../VerificationOfIdentity/index.rst:28
+msgid "20000"
+msgstr ""
+
+#: ../../VerificationOfIdentity/index.rst:28
+msgid "50000"
+msgstr ""
+
+#: ../../VerificationOfIdentity/index.rst:29
+msgid "KYC B"
+msgstr ""
+
+#: ../../VerificationOfIdentity/index.rst:29
+msgid "10000"
+msgstr ""
+
+#: ../../VerificationOfIdentity/index.rst:29
+msgid "40000"
+msgstr ""
+
+#: ../../VerificationOfIdentity/index.rst:29
+msgid "100000"
+msgstr ""
+
+#: ../../VerificationOfIdentity/index.rst:30
+msgid "KYC C"
+msgstr ""
+
+#: ../../VerificationOfIdentity/index.rst:30
+msgid "5000000"
+msgstr ""
+
+#: ../../VerificationOfIdentity/index.rst:30
+msgid "20000000"
+msgstr ""
+
+#: ../../VerificationOfIdentity/index.rst:30
+msgid "1000000000"
+msgstr ""
 
 #~ msgid "左边菜单—身份认证"
 #~ msgstr "Left menu - authentication"
