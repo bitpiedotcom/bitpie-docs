@@ -1,0 +1,65 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2018, bitpie
+# This file is distributed under the same license as the Bitpie package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2018.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Bitpie 3.7.9\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2018-12-12 13:54+0800\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.4.0\n"
+
+#: ../../coinswap/index.rst:2
+msgid "兑换 EOS 稳定币 EBTC,EUSD,EETH"
+msgstr ""
+
+#: ../../coinswap/index.rst:4
+msgid "比特派目前支持 BTC 兑换 EBTC, ETH 兑换 EETH, USDT 兑换 USDT。都是 1:1 兑换，矿工费自付。"
+msgstr ""
+
+#: ../../coinswap/index.rst:6
+msgid "1、检查比特派的版本是否大于 3.7.9。"
+msgstr ""
+
+#: ../../coinswap/index.rst:8
+msgid "2､ 准备一个 EOS 账户。"
+msgstr ""
+
+#: ../../coinswap/index.rst:10
+msgid "3､ 将需要兑换的 BTC 或者 ETH 或者 USDT 发送到比特派的钱包上面，对应的币种在区块链上确认了才可以兑换。"
+msgstr ""
+
+#: ../../coinswap/index.rst:12
+msgid "4､ 在这里以 ETH 兑换为例。"
+msgstr ""
+
+#: ../../coinswap/index.rst:15
+msgid "5､ 切换到钱包首页，选择币币兑换。"
+msgstr ""
+
+#: ../../coinswap/index.rst:23
+msgid "6､ 选择准备好的 EOS 账户，并选择使用 ETH 兑换成 EETH。确认好兑换数量之后，选择兑换。"
+msgstr ""
+
+#: ../../coinswap/index.rst:31
+msgid "7､ 会弹出确认框，是否兑换相对应数量的稳定币种，确认无误，选择确认，输入您的钱包 PIN 码。"
+msgstr ""
+
+#: ../../coinswap/index.rst:34
+msgid ""
+"8､ 输入 PIN 码之后，会进入兑换详情页面。注意查看系统给您发送的信息 "
+"\"请耐心等待交易确认，10个确认后会为您进行发币\"。耐心等待链上确认即可。"
+msgstr ""
+
+#: ../../coinswap/index.rst:37
+msgid "9､ 在钱包首页中，查看兑换记录。"
+msgstr ""
+

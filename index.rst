@@ -35,6 +35,8 @@
    eosscan/index
    eosmainchain/index
    eosram/index
+   coinswap/index
+   cpulease/index
    eosvote/index
    invitedFriends/index
    cpulcecream/index
