@@ -1,14 +1,14 @@
 # SOME DESCRIPTIVE TITLE.
-# Copyright (C) 2017, bitpie
+# Copyright (C) 2018, bitpie
 # This file is distributed under the same license as the Bitpie package.
 # FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
 #
 #, fuzzy
 msgid ""
 msgstr ""
-"Project-Id-Version: Bitpie 0.2\n"
+"Project-Id-Version: Bitpie 3.8.3\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2017-09-08 17:04+0800\n"
+"POT-Creation-Date: 2018-12-29 15:45+0800\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -49,10 +49,30 @@ msgid "这里我们需要知道，你的比特派每次有交易后，你的收�
 msgstr ""
 
 #: ../../AddressBook/index.rst:48
-msgid "注意事项"
+msgid "普通地址切换到隔离验证地址"
 msgstr ""
 
 #: ../../AddressBook/index.rst:50
+msgid "一定不要把BCH发到该地址上，发了将无法找回！"
+msgstr ""
+
+#: ../../AddressBook/index.rst:52
+msgid "右上角三点，选择隔离验证地址"
+msgstr ""
+
+#: ../../AddressBook/index.rst:66
+msgid "隔离验证地址切换到普通地址"
+msgstr ""
+
+#: ../../AddressBook/index.rst:68
+msgid "右上角三点，选择普通地址"
+msgstr ""
+
+#: ../../AddressBook/index.rst:80
+msgid "注意事项"
+msgstr ""
+
+#: ../../AddressBook/index.rst:82
 msgid "地址簿中的地址不一定都是您自己的地址。"
 msgstr ""
 

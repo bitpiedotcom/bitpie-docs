@@ -19,27 +19,26 @@ msgstr ""
 
 #: ../../dappbrowser/index.rst:2
 msgid "DApp 浏览器"
-msgstr ""
+msgstr "DApp Browser"
 
 #: ../../dappbrowser/index.rst:4
 msgid "更新比特派版本大于 3.7.8 。"
-msgstr ""
+msgstr "Upgrade Bitpie to version 3.7.8 or above"
 
 #: ../../dappbrowser/index.rst:6
 msgid "在 DApp 浏览器中输入 DApp 名称或网址，点击搜索。即可进入对应的 DApp 应用。"
-msgstr ""
+msgstr "Enter the DApp name or URL in the DApp browser and click “Search”. Then you can enter the corresponding DApp."
 
 #: ../../dappbrowser/index.rst:9
 msgid "操作方法"
-msgstr ""
+msgstr "How does it work?"
 
 #: ../../dappbrowser/index.rst:11
 msgid "1､点击比特派底部菜单中的 DApp，点击比特派 DApp 页面中部的搜索框。"
-msgstr ""
+msgstr "1.Go to “DApp” in the Bitpie and click on the search bar."
 
 #: ../../dappbrowser/index.rst:21
 msgid ""
 "2､在 DApp 浏览器页面的输入框中输入\"DApp 名称或网址\"，选择搜索。在这里输入\"newdex\"，点击搜索，点击 newdex "
 "即可进入此 DApp。"
-msgstr ""
-
+msgstr "2.Enter DApp Name or URL in the Search bar and click on “Search”. E.g. Enter \"newdex\", click on Search and enter newdex DApp by clicking on it."

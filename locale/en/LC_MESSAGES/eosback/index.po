@@ -1,0 +1,54 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2018, bitpie
+# This file is distributed under the same license as the Bitpie package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2018.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Bitpie 3.8.3\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2018-12-29 16:00+0800\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.4.0\n"
+
+#: ../../eosback/index.rst:2
+msgid "EOS 找回"
+msgstr ""
+
+#: ../../eosback/index.rst:4
+msgid "注：此功能由 EOS Authority 节点提供。"
+msgstr ""
+
+#: ../../eosback/index.rst:6
+msgid "只要符合以下两个条件的用户可找回 EOS。"
+msgstr ""
+
+#: ../../eosback/index.rst:8
+msgid "1、ETH ERC20-EOS 的余额大于 1EOS。"
+msgstr ""
+
+#: ../../eosback/index.rst:10
+msgid "2、ETH ERC20-EOS 未映射并未进行过发币的用户。"
+msgstr ""
+
+#: ../../eosback/index.rst:12
+msgid "操作方法："
+msgstr ""
+
+#: ../../eosback/index.rst:14
+msgid "1、钱包首页 - 我的菜单 - 右上角设置 - EOS找回"
+msgstr ""
+
+#: ../../eosback/index.rst:16
+msgid "2、在 ETH 地址(0x开头) 输入要找回的 ETH 地址，点击一键检测。如果检测可以找回，需要进行用私钥进行签名消息。"
+msgstr ""
+
+#~ msgid "在 ETH 地址(0x开头) 输入要找回的 ETH 地址，点击一键检测。如果检测可以找回，需要进行用私钥进行签名消息。"
+#~ msgstr ""
+

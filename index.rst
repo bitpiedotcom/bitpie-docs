@@ -30,6 +30,7 @@
    coinprivatekey/index
    anotherAssets/index
    eosaccount/index
+   eosback/index
    eosresourcessos/index
    eosleased/index
    eosscan/index

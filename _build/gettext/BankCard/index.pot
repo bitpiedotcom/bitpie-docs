@@ -1,14 +1,14 @@
 # SOME DESCRIPTIVE TITLE.
-# Copyright (C) 2017, bitpie
+# Copyright (C) 2018, bitpie
 # This file is distributed under the same license as the Bitpie package.
 # FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
 #
 #, fuzzy
 msgid ""
 msgstr ""
-"Project-Id-Version: Bitpie 0.2\n"
+"Project-Id-Version: Bitpie 3.8.3\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2017-09-08 17:04+0800\n"
+"POT-Creation-Date: 2018-12-29 15:45+0800\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -21,7 +21,7 @@ msgid "收款信息管理"
 msgstr ""
 
 #: ../../BankCard/index.rst:4
-msgid "在底部菜单——设置—个人设置-收款信息-创建收款信息"
+msgid "我的菜单 - 右上角设置图标 - 收款信息 - 右上角\"+\" 或者 创建收款信息"
 msgstr ""
 
 #: ../../BankCard/index.rst:13
