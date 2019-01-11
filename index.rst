@@ -46,4 +46,3 @@
    tokenFactory/index
    etherscantokenupdate/index
    FAQ/index
-   FAQ2/index
