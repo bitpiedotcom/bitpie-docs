@@ -49,7 +49,7 @@ msgid "2.我在比特派的账户及账户里的资金是受保护的吗？"
 msgstr "2.Is it safe for the money in my Bitpie account and in bank account?"
 
 #: ../../FAQ/index.rst:12
-msgid "是的。比特派基于HD钱包技术，因此平台自身无法动用用户数字资产，不存在其他交易平台的“暂停提现”或“卷币跑路”的可能"
+msgid "是的。比特派基于HD钱包技术，因此平台自身无法动用用户数字资产，不存在其他交易平台的“暂停提现”或“卷币跑路”的可能。"
 msgstr ""
 "Yes, it is. Based on the HD wallet technology, Bitpie can not access to "
 "the user’s digital assets, so it is impossible to occur the phenomenon "
