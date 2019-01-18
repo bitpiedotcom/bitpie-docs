@@ -54,7 +54,7 @@ msgstr ""
 "Yes, it is. Based on the HD wallet technology, Bitpie can not access to "
 "the user’s digital assets, so it is impossible to occur the phenomenon "
 "--'Pause to withdraw' or 'Run away with money' on others’ trading "
-"platforms"
+"platforms."
 
 #: ../../FAQ/index.rst:15
 msgid "3.我在比特派上进行交易，比特派怎么保护我的隐私数据？"
