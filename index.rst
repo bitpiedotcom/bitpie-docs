@@ -45,4 +45,5 @@
    privateKeyImport/index
    tokenFactory/index
    etherscantokenupdate/index
+   sendToAddresses/index
    FAQ/index
