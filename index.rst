@@ -21,7 +21,6 @@
    SendAndReceive/index
    TxAcelerate/index
    AddressBook/index
-   Expie/index
    piestore/index
    MessageSigning/index
    BankCard/index
