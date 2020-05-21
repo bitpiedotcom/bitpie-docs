@@ -22,7 +22,7 @@ msgid "常见问题FAQ"
 msgstr "Frequently Asked Questions (FAQ)"
 
 #: ../../FAQ/index.rst:6
-msgid "1.比特派相比于传统交易平台、或其他OTC平台，有什么区别和优势？"
+msgid "1. 比特派相比于传统交易平台、或其他场外交易平台，有什么区别和优势？"
 msgstr ""
 "1.Compared to traditional trading platforms or other OTC platforms, what "
 "are the difference and the advantage of Bitpie?"
@@ -45,7 +45,7 @@ msgstr ""
 "platforms."
 
 #: ../../FAQ/index.rst:10
-msgid "2.我在比特派的账户及账户里的资金是受保护的吗？"
+msgid "2. 我在比特派的账户及账户里的资金是受保护的吗？"
 msgstr "2.Is it safe for the money in my Bitpie account and in bank account?"
 
 #: ../../FAQ/index.rst:12
@@ -57,7 +57,7 @@ msgstr ""
 "platforms."
 
 #: ../../FAQ/index.rst:15
-msgid "3.我在比特派上进行交易，比特派怎么保护我的隐私数据？"
+msgid "3. 我在比特派上进行交易，比特派怎么保护我的隐私数据？"
 msgstr "3.When I trade on Bitpie, how does Bitpie protect my privacy data?"
 
 #: ../../FAQ/index.rst:17
@@ -70,7 +70,7 @@ msgstr ""
 "privacy information for protecting transactions."
 
 #: ../../FAQ/index.rst:20
-msgid "4.如果比特派公司在经营上出现了问题，我的资产是安全的吗？"
+msgid "4. 如果比特派公司在经营上出现了问题，我的资产是安全的吗？"
 msgstr ""
 "4.Whether my assets are safe or not if Bitpie company has a operational "
 "problem?"
@@ -86,7 +86,7 @@ msgstr ""
 "money."
 
 #: ../../FAQ/index.rst:25
-msgid "5.交易有最低的限额吗？我需要至少多少钱才可以开始交易？"
+msgid "5. 交易有最低的限额吗？我需要至少多少钱才可以开始交易？"
 msgstr ""
 "5.Does the transaction have the minimum limits? How much money do I have "
 "at least to start trading?"
@@ -98,7 +98,7 @@ msgstr ""
 "on OTC Escrow transaction can define the limits."
 
 #: ../../FAQ/index.rst:30
-msgid "6.我可以通过哪些方式参与数字货币的交易？"
+msgid "6. 我可以通过哪些方式参与数字货币的交易？"
 msgstr "6.How could I participate in digital currency transaction?"
 
 #: ../../FAQ/index.rst:32
@@ -116,7 +116,7 @@ msgid "安卓android： https://bitpie.com/android/"
 msgstr "Android: http://bitpie.com/android/"
 
 #: ../../FAQ/index.rst:40
-msgid "7.“比特派（bitpie）”和“比太钱包（bither）”是什么关系？"
+msgid "7. “比特派（bitpie）”和“比太钱包（bither）”是什么关系？"
 msgstr "7.What is the relationship between 'bitpie' and 'bither'?"
 
 #: ../../FAQ/index.rst:42
@@ -131,7 +131,7 @@ msgstr ""
 "function."
 
 #: ../../FAQ/index.rst:45
-msgid "8.什么是“助记词”？"
+msgid "8. 什么是“助记词”？"
 msgstr "8.What is the 'Seed Phrase'?"
 
 #: ../../FAQ/index.rst:47
@@ -144,7 +144,7 @@ msgstr ""
 "digital currency to ensure the safety of digital assets."
 
 #: ../../FAQ/index.rst:50
-msgid "9.我比特派里的币可以转到其他地方去吗？可以收取其他地方转入的币吗？"
+msgid "9. 我比特派里的币可以转到其他地方去吗？可以收取其他地方转入的币吗？"
 msgstr ""
 "9.Could I transfer my Bitcoin on Bitpie to other platforms? Could I take "
 "over Bitcoin transferred from other platforms?"
@@ -157,7 +157,7 @@ msgstr ""
 "addresses."
 
 #: ../../FAQ/index.rst:55
-msgid "10.转币一直长时间不确认怎么办？"
+msgid "10. 转币一直长时间不确认怎么办？"
 msgstr ""
 "10.What should user do if it has taken a long time not to confirm the "
 "transferred Bitcoin?"
@@ -172,7 +172,7 @@ msgstr ""
 " for a particular transaction."
 
 #: ../../FAQ/index.rst:60
-msgid "11.点对点交易对方故意拖延或不回复怎么办？"
+msgid "11. 点对点交易对方故意拖延或不回复怎么办？"
 msgstr ""
 "11.What should user do if the counterparty on OTC intentionally delays or"
 " not reply?"
@@ -185,7 +185,7 @@ msgstr ""
 "punishment."
 
 #: ../../FAQ/index.rst:65
-msgid "12.区块链上交易的矿工费谁来承担？"
+msgid "12. 区块链上交易的矿工费谁来承担？"
 msgstr "12.Who will pay for Miners’ Fee on the Blockchain?"
 
 #: ../../FAQ/index.rst:69 ../../FAQ/index.rst:87
@@ -226,7 +226,7 @@ msgid "点对点交易下单卖"
 msgstr "Ordering to sell on OTC"
 
 #: ../../FAQ/index.rst:82
-msgid "13.费率详情见下表："
+msgid "13. 费率详情见下表："
 msgstr "13.Details of rates are shown in the table below:"
 
 #: ../../FAQ/index.rst:84
@@ -296,7 +296,7 @@ msgstr ""
 "0.001BTC for BTC withdrawal"
 
 #: ../../FAQ/index.rst:95
-msgid "14.如何防范点对点交易中的潜在风险？"
+msgid "14. 如何防范点对点交易中的潜在风险？"
 msgstr "14.How to protect against potential risks on OTC transaction?"
 
 #: ../../FAQ/index.rst:97
@@ -310,7 +310,7 @@ msgstr ""
 "paying money or issuing Bitcoin"
 
 #: ../../FAQ/index.rst:100
-msgid "15.点对点交易什么时候需要“仲裁”？"
+msgid "15. 点对点交易什么时候需要“仲裁”？"
 msgstr "15.When would OTC transaction need ‘Arbitration’?"
 
 #: ../../FAQ/index.rst:102
@@ -321,7 +321,7 @@ msgstr ""
 "arbitration."
 
 #: ../../FAQ/index.rst:105
-msgid "16.助记词没有备份怎么办？"
+msgid "16. 助记词没有备份怎么办？"
 msgstr "16.What should user do if user doesn’t have a back-up of Seed Phrase?"
 
 #: ../../FAQ/index.rst:107
@@ -332,7 +332,7 @@ msgstr ""
 " Phrase in earnest."
 
 #: ../../FAQ/index.rst:110
-msgid "17.忘记pin码怎么办？"
+msgid "17. 忘记pin码怎么办？"
 msgstr "17.How to solve it if user forgets Pin Code?"
 
 #: ../../FAQ/index.rst:112
@@ -343,7 +343,7 @@ msgstr ""
 "wallet. After recovery, you can reset Pin Code."
 
 #: ../../FAQ/index.rst:115
-msgid "18.手机丢失了怎么办？"
+msgid "18. 手机丢失了怎么办？"
 msgstr "18.What if user loses own phone, are there some solutions to provide?"
 
 #: ../../FAQ/index.rst:117
@@ -355,7 +355,7 @@ msgstr ""
 "Bitcoin of original wallet into another (new) wallet."
 
 #: ../../FAQ/index.rst:120
-msgid "19.为什么我的支付宝/网银/微信，转账被退回？绑定失败？"
+msgid "19. 为什么我的支付宝/网银/微信，转账被退回？绑定失败？"
 msgstr ""
 "19.Why does my transferred money be returned to Alipay / Online Banking "
 "/We Chat? Binding failed?"
@@ -368,7 +368,7 @@ msgstr ""
 "information."
 
 #: ../../FAQ/index.rst:125
-msgid "20.为什么要交场外押金？什么情况下会扣押金？"
+msgid "20. 为什么要交场外押金？什么情况下会扣押金？"
 msgstr ""
 "20.Why does user pay OTC deposit? Which circumstances would the deposit "
 "be deducted?"
@@ -385,7 +385,7 @@ msgstr ""
 "and Regulations, Bitpie would warn or deduct deposit of related party."
 
 #: ../../FAQ/index.rst:130
-msgid "21.为什么各家平台显示的价格不一样？"
+msgid "21. 为什么各家平台显示的价格不一样？"
 msgstr "21.Why are there different prices on different platforms?"
 
 #: ../../FAQ/index.rst:132
@@ -396,7 +396,7 @@ msgstr ""
 "supermarket', although all are fish, but the price will not be the same."
 
 #: ../../FAQ/index.rst:135
-msgid "22.我能卸载比特派吗？"
+msgid "22. 我能卸载比特派吗？"
 msgstr "22.Could I unload Bitpie?"
 
 #: ../../FAQ/index.rst:137
@@ -406,7 +406,7 @@ msgstr ""
 " losses. After keeping Seed Phrase well, user can unload Bitpie."
 
 #: ../../FAQ/index.rst:140
-msgid "23.如何使用助记词恢复钱包？"
+msgid "23. 如何使用助记词恢复钱包？"
 msgstr "23.How to use Seed Phrase to restore the wallet?"
 
 #: ../../FAQ/index.rst:142
@@ -417,7 +417,7 @@ msgstr ""
 " Phrase, then you can recover your account."
 
 #: ../../FAQ/index.rst:145
-msgid "24.钱包恢复后，我的币、原来的地址和交易记录还在吗？"
+msgid "24. 钱包恢复后，我的币、原来的地址和交易记录还在吗？"
 msgstr ""
 "24.Are my Bitcoin, the original address and trading history still in "
 "wallet after the wallet is restored?"
@@ -427,7 +427,7 @@ msgid "在。"
 msgstr "Yes, they are"
 
 #: ../../FAQ/index.rst:150
-msgid "25.如果我手机号/支付宝/银行信息，换了该怎么办？"
+msgid "25. 如果我手机号/支付宝/银行信息，换了该怎么办？"
 msgstr ""
 "25.What should I do if I change my phone number / Alipay / Bank "
 "Information? "
@@ -437,7 +437,7 @@ msgid "更换之前应做好比特派内的信息变更。"
 msgstr "The replacement of Bitpie information should be done before the change."
 
 #: ../../FAQ/index.rst:155
-msgid "26.我的不同银行/支付宝/手机账户，可以注册多个比特派账户吗？"
+msgid "26. 我的不同银行/支付宝/手机账户，可以注册多个比特派账户吗？"
 msgstr ""
 "26.Could I register multiple Bitpie accounts for my different bank / "
 "Alipay / phone accounts?"
@@ -449,7 +449,7 @@ msgstr ""
 "consistent."
 
 #: ../../FAQ/index.rst:160
-msgid "27.怎么更新到比特派最新版本？"
+msgid "27. 怎么更新到比特派最新版本？"
 msgstr "27.How to update the latest version of Bitpie?"
 
 #: ../../FAQ/index.rst:162
@@ -457,7 +457,7 @@ msgid "Android 客户端点击“我 — 关于比特派 - 版本更新”；iOS
 msgstr "Click \"Me-About Bitpie-Version Update\" on the Android; iOS needs to be downloaded by overseas Apple id"
 
 #: ../../FAQ/index.rst:165
-msgid "28.为什么我只打算购买1个交易加速器的时候，显示需要多个加速器?"
+msgid "28. 为什么我只打算购买1个交易加速器的时候，显示需要多个加速器?"
 msgstr ""
 "28.When I plan to buy one TX Accelerator, why are showed many TX "
 "Accelerators? What does it mean that a certain transaction ID has "
@@ -473,7 +473,7 @@ msgstr ""
 " number of previous transactions."
 
 #: ../../FAQ/index.rst:170
-msgid "29.“动态矿工费”是根据什么标准计算的？"
+msgid "29. “动态矿工费”是根据什么标准计算的？"
 msgstr "29.Which kind of criteria is for counting the 'Dynamic Miners’ Fee ?"
 
 #: ../../FAQ/index.rst:172
@@ -486,7 +486,7 @@ msgstr ""
 "these information."
 
 #: ../../FAQ/index.rst:175
-msgid "30.我想了解一下比太钱包（bither.net)的使用方法，有什么资料？"
+msgid "30. 我想了解一下比太钱包的使用方法，有什么资料？"
 msgstr ""
 "30.If I would like to know the usage of Bither wallet (bither.net), how "
 "could I look up this related information?"
