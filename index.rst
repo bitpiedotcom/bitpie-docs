@@ -19,6 +19,7 @@
    RegisterAndRecover/index
    VerificationOfIdentity/index
    SendAndReceive/index
+   InstantTrade/index
    TxAcelerate/index
    AddressBook/index
    piestore/index
