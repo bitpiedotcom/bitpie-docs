@@ -46,5 +46,6 @@
    tokenFactory/index
    etherscantokenupdate/index
    sendToAddresses/index
+   addressCollection/index
    DetectContract/index
    FAQ/index
