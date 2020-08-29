@@ -4,7 +4,7 @@
 功能简介：
 ----
 
-比特派的批量转账归集功能可以将你的多个 ETH 或 ERC20 的 TOKEN 同时归集到一个地址（最多支持10000个账户内地址+10000个导入地址）。
+比特派的批量转账归集功能可以将你的多个 ETH 或 ERC20 的 TOKEN 同时归集到一个地址（最多支持1000个账户内地址+1000个导入地址）。
 
 操作教程：
 ----
@@ -47,8 +47,13 @@
 5、如归集的交易数目较多，请耐心等待。
 
 .. image:: ../img/address_collection5.jpg
-    :width: 978px
-    :height: 828px
+    :width: 320px
+    :height: 690px
     :scale: 100%
     :align: center
 
+.. image:: ../img/address_collection6.jpg
+    :width: 320px
+    :height: 690px
+    :scale: 100%
+    :align: center
