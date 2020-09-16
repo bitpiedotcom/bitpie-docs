@@ -48,4 +48,5 @@
    sendToAddresses/index
    addressCollection/index
    DetectContract/index
+   UTXOConsolidation/index
    FAQ/index
