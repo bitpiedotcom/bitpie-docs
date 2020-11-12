@@ -49,6 +49,7 @@
    addressCollection/index
    DetectContract/index
    UTXOConsolidation/index
-   PureOTCVideo/index
    PureOTC/index
+   PureOTCVideo/index
+   PureOTCKYC/index
    FAQ/index
