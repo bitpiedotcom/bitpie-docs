@@ -50,4 +50,5 @@
    PureOTC/index
    PureOTCVideo/index
    PureOTCKYC/index
+   PayMinerFee/index
    FAQ/index
