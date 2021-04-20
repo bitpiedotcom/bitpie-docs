@@ -19,6 +19,7 @@
    RegisterAndRecover/index
    VerificationOfIdentity/index
    SendAndReceive/index
+   PayMinerFee/index
    TxAcelerate/index
    AddressBook/index
    MessageSigning/index
@@ -50,5 +51,4 @@
    PureOTC/index
    PureOTCVideo/index
    PureOTCKYC/index
-   PayMinerFee/index
    FAQ/index
