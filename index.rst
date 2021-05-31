@@ -17,7 +17,6 @@
    Download/index
    Function/index
    RegisterAndRecover/index
-   VerificationOfIdentity/index
    SendAndReceive/index
    PayMinerFee/index
    TxAcelerate/index
@@ -35,7 +34,6 @@
    eosscan/index
    eosmainchain/index
    eosram/index
-   coinswap/index
    cpulease/index
    eosvote/index
    invitedFriends/index
@@ -48,7 +46,4 @@
    addressCollection/index
    DetectContract/index
    UTXOConsolidation/index
-   PureOTC/index
-   PureOTCVideo/index
-   PureOTCKYC/index
    FAQ/index
