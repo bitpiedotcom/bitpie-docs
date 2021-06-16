@@ -28,3 +28,8 @@ USDT 是由 Tether 发行的基于美元的稳定币代币（Token），当前�
 ..  image:: ../img/pay_miner_fee_2.jpg
     :scale: 50%
     :align: center
+
+USDT-ERC20 矿工费代付功能视频：https://v.qq.com/x/page/a3253xo85j5.html
+
+USDT-TRC20 矿工费代付功能视频：https://v.qq.com/x/page/u32535clb5z.html
+

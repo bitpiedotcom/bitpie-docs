@@ -31,4 +31,8 @@ msgstr "Since this function requires the construction of multiple transactions, 
 msgid "矿工费代付功能及加油包选项的钱包界面截图参见图1和图2。"
 msgstr "See Figure 1 and Figure 2 for the screenshots of the wallet interface of the miner fee payment function and the miner fee package option."
 
+msgid "USDT-ERC20 矿工费代付功能视频：https://v.qq.com/x/page/a3253xo85j5.html"
+msgstr "USDT-ERC20 https://v.qq.com/x/page/a3253xo85j5.html"
 
+msgid "USDT-TRC20 矿工费代付功能视频：https://v.qq.com/x/page/u32535clb5z.html"
+msgstr "USDT-TRC20 https://v.qq.com/x/page/u32535clb5z.html"
