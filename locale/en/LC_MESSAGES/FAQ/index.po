@@ -85,21 +85,9 @@ msgstr ""
 "severe operational problem, Bitpie still can’t access to the user’s "
 "money."
 
-#: ../../FAQ/index.rst:25
-msgid "5. 交易有最低的限额吗？我需要至少多少钱才可以开始交易？"
-msgstr ""
-"5.Does the transaction have the minimum limits? How much money do I have "
-"at least to start trading?"
-
-#: ../../FAQ/index.rst:27
-msgid "目前：“一键买卖”最低交易0.001BTC，“点对点交易”买卖双方自定义限额。后期也有可能动态调整。"
-msgstr ""
-"The minimum limits of ‘Instant Trade’ are 0.001 BTC. The buyer and seller "
-"on OTC Escrow transaction can define the limits."
-
 #: ../../FAQ/index.rst:30
-msgid "6. 我可以通过哪些方式参与数字货币的交易？"
-msgstr "6.How could I participate in digital currency transaction?"
+msgid "5. 我可以通过哪些方式参与数字货币的交易？"
+msgstr "5.How could I participate in digital currency transaction?"
 
 #: ../../FAQ/index.rst:32
 msgid "比特派提供了iOS 和 Android 版本的客户端。"
@@ -107,17 +95,17 @@ msgstr "Bitpie provides IOS and Android versions."
 
 #: ../../FAQ/index.rst:34
 #, fuzzy
-msgid "下载地址：苹果 iOS： https://bitpie.com/ios/"
-msgstr "Android: http://bitpie.com/android/"
+msgid "iOS：https://bitpiehk.com/ios/"
+msgstr "iOS：https://bitpie.com/ios/"
 
 #: ../../FAQ/index.rst:36
 #, fuzzy
-msgid "安卓android： https://bitpie.com/android/"
+msgid "android：https://bitpiehk.com/android/"
 msgstr "Android: http://bitpie.com/android/"
 
 #: ../../FAQ/index.rst:40
-msgid "7. “比特派（bitpie）”和“比太钱包（bither）”是什么关系？"
-msgstr "7.What is the relationship between 'bitpie' and 'bither'?"
+msgid "6. “比特派”和“比太钱包”是什么关系？"
+msgstr "6.What is the relationship between 'bitpie' and 'bither'?"
 
 #: ../../FAQ/index.rst:42
 msgid "比太钱包和比特派同属于一个技术团队，而比太钱包是团队的早期产品，比特派是随后运营的另一个产品。两个产品的主要相同点：都提供HD钱包管理方案；主要不同点：比太钱包是功能相对完整的纯钱包App产品，而比特派是提供基础HD钱包功能和数字货币交易功能的综合App。"
@@ -131,8 +119,8 @@ msgstr ""
 "function."
 
 #: ../../FAQ/index.rst:45
-msgid "8. 什么是“助记词”？"
-msgstr "8.What is the 'Seed Phrase'?"
+msgid "7. 什么是“助记词”？"
+msgstr "7.What is the 'Seed Phrase'?"
 
 #: ../../FAQ/index.rst:47
 msgid "助记词是HD钱包技术的重要概念，在比特派上它是“12个单词”，这个助记词非常重要，用户应当妥善保管和备份。通过助记词，用户可以在各类情形下恢复HD钱包、以及该钱包内的所有地址和数字货币的私钥，确保数字资产安全。"
@@ -144,9 +132,9 @@ msgstr ""
 "digital currency to ensure the safety of digital assets."
 
 #: ../../FAQ/index.rst:50
-msgid "9. 我比特派里的币可以转到其他地方去吗？可以收取其他地方转入的币吗？"
+msgid "8. 我比特派里的币可以转到其他地方去吗？可以收取其他地方转入的币吗？"
 msgstr ""
-"9.Could I transfer my Bitcoin on Bitpie to other platforms? Could I take "
+"8.Could I transfer my Bitcoin on Bitpie to other platforms? Could I take "
 "over Bitcoin transferred from other platforms?"
 
 #: ../../FAQ/index.rst:52
@@ -157,9 +145,9 @@ msgstr ""
 "addresses."
 
 #: ../../FAQ/index.rst:55
-msgid "10. 转币一直长时间不确认怎么办？"
+msgid "9. 转币一直长时间不确认怎么办？"
 msgstr ""
-"10.What should user do if it has taken a long time not to confirm the "
+"9.What should user do if it has taken a long time not to confirm the "
 "transferred Bitcoin?"
 
 #: ../../FAQ/index.rst:57
@@ -171,158 +159,9 @@ msgstr ""
 "transaction as soon as possible, you can buy 'TX Accelerator' to speed up"
 " for a particular transaction."
 
-#: ../../FAQ/index.rst:60
-msgid "11. 点对点交易对方故意拖延或不回复怎么办？"
-msgstr ""
-"11.What should user do if the counterparty on OTC intentionally delays or"
-" not reply?"
-
-#: ../../FAQ/index.rst:62
-msgid "可以申请仲裁。如果多次沟通无果，用户可以联系比特派管理员，查实后如果确属恶意，将会得到警告或惩罚。"
-msgstr ""
-"If the multiple-communication is invalid, user can contact the manager of"
-" Bitpie to investigate. If it is malicious, there would be a warning or "
-"punishment."
-
-#: ../../FAQ/index.rst:65
-msgid "12. 区块链上交易的矿工费谁来承担？"
-msgstr "12.Who will pay for Miners’ Fee on the Blockchain?"
-
-#: ../../FAQ/index.rst:69 ../../FAQ/index.rst:87
-msgid "项目"
-msgstr "Project"
-
-#: ../../FAQ/index.rst:69
-msgid "矿工费承担方"
-msgstr "Payer for Miners’ Fee"
-
-#: ../../FAQ/index.rst:71
-msgid "一键买卖"
-msgstr "Buy/Sell"
-
-#: ../../FAQ/index.rst:71
-msgid "用户"
-msgstr "User"
-
-#: ../../FAQ/index.rst:72
-msgid "点对点交易挂广告买"
-msgstr "Placing advertisement to buy on OTC"
-
-#: ../../FAQ/index.rst:72 ../../FAQ/index.rst:73 ../../FAQ/index.rst:74
-#: ../../FAQ/index.rst:75
-msgid "无矿工费"
-msgstr "No Miner Fee"
-
-#: ../../FAQ/index.rst:73
-msgid "点对点交易挂广告卖"
-msgstr "Placing advertisement to sell on OTC"
-
-#: ../../FAQ/index.rst:74
-msgid "点对点交易下单买"
-msgstr "Ordering to buy on OTC"
-
-#: ../../FAQ/index.rst:75
-msgid "点对点交易下单卖"
-msgstr "Ordering to sell on OTC"
-
-#: ../../FAQ/index.rst:82
-msgid "13. 费率详情见下表："
-msgstr "13.Details of rates are shown in the table below:"
-
-#: ../../FAQ/index.rst:84
-msgid "费率根据实际情况会调整。"
-msgstr "Fee Rate will be adjusted according to the actual situation"
-
-#: ../../FAQ/index.rst:87
-msgid "结算币种"
-msgstr "Currency type"
-
-#: ../../FAQ/index.rst:87
-msgid "费用承担方"
-msgstr "Payer for Miners’ Fee"
-
-#: ../../FAQ/index.rst:87
-msgid "费率"
-msgstr "Rates"
-
-#: ../../FAQ/index.rst:89
-msgid "一键买卖交易手续费"
-msgstr "Service Fee on Instant Trade"
-
-#: ../../FAQ/index.rst:89
-msgid "法币"
-msgstr "Fait"
-
-#: ../../FAQ/index.rst:89
-msgid "下单方"
-msgstr "Buyer/Seller"
-
-#: ../../FAQ/index.rst:89
-msgid "0.3%"
-msgstr "0.3%"
-
-#: ../../FAQ/index.rst:90
-msgid "点对点交易手续费"
-msgstr "OTC trade fee"
-
-#: ../../FAQ/index.rst:90
-msgid "数字货币"
-msgstr "Digital currency"
-
-#: ../../FAQ/index.rst:90
-msgid "广告方"
-msgstr "Advertising party"
-
-#: ../../FAQ/index.rst:90
-msgid "0"
-msgstr "0"
-
-#: ../../FAQ/index.rst:91
-msgid "场外押金充提手续费"
-msgstr "Service Fee on OTC Deposit fee"
-
-#: ../../FAQ/index.rst:91
-msgid "法币/数字货币"
-msgstr "Fait /Digital currency"
-
-#: ../../FAQ/index.rst:91
-msgid "申请人"
-msgstr "Proposer"
-
-#: ../../FAQ/index.rst:91
-msgid "定额（充值0.5元,提现1元；BTC充值免费,BTC提现0.001BTC）"
-msgstr ""
-"Fixed (0.5 yuan for top up, 1 yuan for withdrawal; free for BTC top up; "
-"0.001BTC for BTC withdrawal"
-
-#: ../../FAQ/index.rst:95
-msgid "14. 如何防范点对点交易中的潜在风险？"
-msgstr "14.How to protect against potential risks on OTC transaction?"
-
-#: ../../FAQ/index.rst:97
-msgid "首先建议使用比特派点对点交易，任何私下成交的买卖与平台无关。其次，在点对点交易的情况下，用户应当遵循“确认一致”原则，即：在付款或发币前，应当确认对方义务已经履行完毕。"
-msgstr ""
-"First, we recommend that user chooses ' Escrow transaction Platform' of "
-"OTC, on which any private transactions have no connection with platform. "
-"What’s more, in the case of OTC Escrow transaction, user should follow "
-"the 'confirmed consistency' principle. That is to say: it should be "
-"confirmed that the obligations of both sides have been fulfilled before "
-"paying money or issuing Bitcoin"
-
-#: ../../FAQ/index.rst:100
-msgid "15. 点对点交易什么时候需要“仲裁”？"
-msgstr "15.When would OTC transaction need ‘Arbitration’?"
-
-#: ../../FAQ/index.rst:102
-msgid "当“点对点交易”双方认为遇到争议、且无法自行协调的情况下，可以申请仲裁。"
-msgstr ""
-"When the two parties of 'OTC Escrow transaction' has encountered with "
-"disputes, and has not be able to coordinate, you can apply for "
-"arbitration."
-
 #: ../../FAQ/index.rst:105
-msgid "16. 助记词没有备份怎么办？"
-msgstr "16.What should user do if user doesn’t have a back-up of Seed Phrase?"
+msgid "10. 助记词没有备份怎么办？"
+msgstr "10.What should user do if user doesn’t have a back-up of Seed Phrase?"
 
 #: ../../FAQ/index.rst:107
 msgid "如果用户丢失了助记词，比特派也无法帮用户找回——这一点非常重要，所以再次提醒用户:必须妥善保管好助记词。"
@@ -332,8 +171,8 @@ msgstr ""
 " Phrase in earnest."
 
 #: ../../FAQ/index.rst:110
-msgid "17. 忘记pin码怎么办？"
-msgstr "17.How to solve it if user forgets Pin Code?"
+msgid "11. 忘记pin码怎么办？"
+msgstr "11.How to solve it if user forgets Pin Code?"
 
 #: ../../FAQ/index.rst:112
 msgid "如果确认已经保存好助记词，用户可以在其他手机。重新安装比特派、并恢复钱包，恢复后可以重置pin密码。"
@@ -343,8 +182,8 @@ msgstr ""
 "wallet. After recovery, you can reset Pin Code."
 
 #: ../../FAQ/index.rst:115
-msgid "18. 手机丢失了怎么办？"
-msgstr "18.What if user loses own phone, are there some solutions to provide?"
+msgid "12. 手机丢失了怎么办？"
+msgstr "12.What if user loses own phone, are there some solutions to provide?"
 
 #: ../../FAQ/index.rst:117
 msgid "如果确认已经保存好助记词，那么用户资产依然安全，但是我们仍然建议用户采取安全防范措施：在新手机上用助记词恢复比特派，然后将钱包内的币转移到另一个（新建的）钱包内。"
@@ -355,9 +194,9 @@ msgstr ""
 "Bitcoin of original wallet into another (new) wallet."
 
 #: ../../FAQ/index.rst:120
-msgid "19. 为什么我的支付宝/网银/微信，转账被退回？绑定失败？"
+msgid "13. 为什么我的支付宝/网银/微信，转账被退回？绑定失败？"
 msgstr ""
-"19.Why does my transferred money be returned to Alipay / Online Banking "
+"13.Why does my transferred money be returned to Alipay / Online Banking "
 "/We Chat? Binding failed?"
 
 #: ../../FAQ/index.rst:122
@@ -367,37 +206,9 @@ msgstr ""
 " account number, etc.) is consistent with other certification "
 "information."
 
-#: ../../FAQ/index.rst:125
-msgid "20. 为什么要交场外押金？什么情况下会扣押金？"
-msgstr ""
-"20.Why does user pay OTC deposit? Which circumstances would the deposit "
-"be deducted?"
-
-#: ../../FAQ/index.rst:127
-msgid "缴纳场外押金之后可在点对点交易中创建广告。当场外交易的任何一方，违反用户协议或国家法律法规等情形时，比特派会酌情警告或扣相关方押金。"
-msgstr ""
-"OTC deposit is divided into 'Ordering deposit' and 'Advertising deposit'."
-" Ordering deposit is an essential precondition for OTC transactions and "
-"Advertising deposit is for advertising party. Hence, only if paid order "
-"deposit, user could make OTC transaction. Similarly, only if paid "
-"advertising deposit, it is allowed to put advertisement. When each party "
-"on OTC transaction violates the term of User Agreement or National Laws "
-"and Regulations, Bitpie would warn or deduct deposit of related party."
-
-#: ../../FAQ/index.rst:130
-msgid "21. 为什么各家平台显示的价格不一样？"
-msgstr "21.Why are there different prices on different platforms?"
-
-#: ../../FAQ/index.rst:132
-msgid "遵循市场自愿原则，就像“北京家乐福超市的鱼”和“上海沃尔玛超市的鱼”，虽然都是鱼，但价格也不会一样。"
-msgstr ""
-"Followed the voluntary principle of market, it is like 'the fish on "
-"Beijing Carrefour supermarket' and 'the fish on Shanghai Wal-Mart "
-"supermarket', although all are fish, but the price will not be the same."
-
 #: ../../FAQ/index.rst:135
-msgid "22. 我能卸载比特派吗？"
-msgstr "22.Could I unload Bitpie?"
+msgid "14. 我能卸载比特派吗？"
+msgstr "24.Could I unload Bitpie?"
 
 #: ../../FAQ/index.rst:137
 msgid "如果没有特殊情况，谨慎卸载避免损失。在妥善保管助记词后，用户可以卸载比特派。"
@@ -406,8 +217,8 @@ msgstr ""
 " losses. After keeping Seed Phrase well, user can unload Bitpie."
 
 #: ../../FAQ/index.rst:140
-msgid "23. 如何使用助记词恢复钱包？"
-msgstr "23.How to use Seed Phrase to restore the wallet?"
+msgid "15. 如何使用助记词恢复钱包？"
+msgstr "15.How to use Seed Phrase to restore the wallet?"
 
 #: ../../FAQ/index.rst:142
 msgid "重新安装打开后，选择\"我有种子,直接恢复\"，选择\"比特派助记词恢复\"，录入\"12个助记词\" 进行恢复。"
@@ -417,9 +228,9 @@ msgstr ""
 " Phrase, then you can recover your account."
 
 #: ../../FAQ/index.rst:145
-msgid "24. 钱包恢复后，我的币、原来的地址和交易记录还在吗？"
+msgid "16. 钱包恢复后，我的币、原来的地址和交易记录还在吗？"
 msgstr ""
-"24.Are my Bitcoin, the original address and trading history still in "
+"16.Are my Bitcoin, the original address and trading history still in "
 "wallet after the wallet is restored?"
 
 #: ../../FAQ/index.rst:147
@@ -427,9 +238,9 @@ msgid "在。"
 msgstr "Yes, they are"
 
 #: ../../FAQ/index.rst:150
-msgid "25. 如果我手机号/支付宝/银行信息，换了该怎么办？"
+msgid "17. 如果我手机号/支付宝/银行信息，换了该怎么办？"
 msgstr ""
-"25.What should I do if I change my phone number / Alipay / Bank "
+"17.What should I do if I change my phone number / Alipay / Bank "
 "Information? "
 
 #: ../../FAQ/index.rst:152
@@ -437,9 +248,9 @@ msgid "更换之前应做好比特派内的信息变更。"
 msgstr "The replacement of Bitpie information should be done before the change."
 
 #: ../../FAQ/index.rst:155
-msgid "26. 我的不同银行/支付宝/手机账户，可以注册多个比特派账户吗？"
+msgid "18. 我的不同银行/支付宝/手机账户，可以注册多个比特派账户吗？"
 msgstr ""
-"26.Could I register multiple Bitpie accounts for my different bank / "
+"18.Could I register multiple Bitpie accounts for my different bank / "
 "Alipay / phone accounts?"
 
 #: ../../FAQ/index.rst:157
@@ -449,17 +260,17 @@ msgstr ""
 "consistent."
 
 #: ../../FAQ/index.rst:160
-msgid "27. 怎么更新到比特派最新版本？"
-msgstr "27.How to update the latest version of Bitpie?"
+msgid "19. 怎么更新到比特派最新版本？"
+msgstr "19.How to update the latest version of Bitpie?"
 
 #: ../../FAQ/index.rst:162
 msgid "Android 客户端点击“我 — 关于比特派 - 版本更新”；iOS 版通过非大陆 ID 登陆 App Store 更新 bitpie。"
 msgstr "Click \"Me-About Bitpie-Version Update\" on the Android; iOS needs to be downloaded by overseas Apple id"
 
 #: ../../FAQ/index.rst:165
-msgid "28. 为什么我只打算购买1个交易加速器的时候，显示需要多个加速器?"
+msgid "20. 为什么我只打算购买一个交易加速器的时候，显示需要多个加速器?"
 msgstr ""
-"28.When I plan to buy one TX Accelerator, why are showed many TX "
+"20.When I plan to buy one TX Accelerator, why are showed many TX "
 "Accelerators? What does it mean that a certain transaction ID has "
 "dependent on other multiple-transactions?"
 
@@ -473,8 +284,8 @@ msgstr ""
 " number of previous transactions."
 
 #: ../../FAQ/index.rst:170
-msgid "29. “动态矿工费”是根据什么标准计算的？"
-msgstr "29.Which kind of criteria is for counting the 'Dynamic Miners’ Fee ?"
+msgid "21. “动态矿工费”是根据什么标准计算的？"
+msgstr "21.Which kind of criteria is for counting the 'Dynamic Miners’ Fee ?"
 
 #: ../../FAQ/index.rst:172
 msgid "动态矿工费不是固定的比例或固定的金额，而是根据网络状况区分的，因未确认交易有个“交易手续费分布”，另一个指标“单位Byte包含的币量”。所谓动态调整就是根据这些信息进行的性价比最优选择。"
@@ -486,9 +297,9 @@ msgstr ""
 "these information."
 
 #: ../../FAQ/index.rst:175
-msgid "30. 我想了解一下比太钱包的使用方法，有什么资料？"
+msgid "22. 我想了解一下比太钱包的使用方法，有什么资料？"
 msgstr ""
-"30.If I would like to know the usage of Bither wallet (bither.net), how "
+"22.If I would like to know the usage of Bither wallet (bither.net), how "
 "could I look up this related information?"
 
 #: ../../FAQ/index.rst:176
