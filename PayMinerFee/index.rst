@@ -35,6 +35,7 @@ USDT-TRC20 矿工费代付功能视频：https://v.qq.com/x/page/u32535clb5z.htm
 
 
 当前我们用于提供矿工费代付功能的 ETH 地址如下：
+
 - `0xf64edd94558ca8b3a0e3b362e20bb13ff52ea513 <https://etherscan.io/address/0xf64edd94558ca8b3a0e3b362e20bb13ff52ea513>`_ （etherscan 上标注为 Bitpie: Bitpie 1）
 - `0x5c9f3fff6ee846a83080f373f8cea1451bb4a3d9 <https://etherscan.io/address/0x5c9f3fff6ee846a83080f373f8cea1451bb4a3d9>`_ （etherscan 上标注为 Bitpie: Bitpie 2）
 - `0x8979d1e0ecab3cf5ae8a5a7b2d792aa119f34be1 <https://etherscan.io/address/0x8979d1e0ecab3cf5ae8a5a7b2d792aa119f34be1>`_ （etherscan 上标注为 Bitpie: Bitpie 3）
@@ -44,6 +45,7 @@ USDT-TRC20 矿工费代付功能视频：https://v.qq.com/x/page/u32535clb5z.htm
 
 
 当前我们用于提供矿工费代付功能的 TRX 地址如下：
+
 - `TMuPWRhYxXvL2PSyiaKhASefaCv5daiRHK <https://tronscan.io/#/address/TMuPWRhYxXvL2PSyiaKhASefaCv5daiRHK>`_ （tronscan 上标注为 Bitpie1）
 - `TJKTuEuJSwdJpz8oeDpLTh9VniWrUeZzdZ <https://tronscan.io/#/address/TJKTuEuJSwdJpz8oeDpLTh9VniWrUeZzdZ>`_ （tronscan 上标注为 Bitpie2）
 - `TFBVumaHsaJm2ea8JFaa3yjFL1geLQXiEj <https://tronscan.io/#/address/TFBVumaHsaJm2ea8JFaa3yjFL1geLQXiEj>`_ （tronscan 上标注为 Bitpie3）
