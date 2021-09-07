@@ -42,6 +42,7 @@ USDT-TRC20 矿工费代付功能视频：https://v.qq.com/x/page/u32535clb5z.htm
 `0xb685d0daea607fe75e02c1a7679261eac661b9bc <https://etherscan.io/address/0xb685d0daea607fe75e02c1a7679261eac661b9bc>`_ （etherscan 上标注为 Bitpie: Bitpie 5）
 `0xadef6b2c5e848a4f04145ee88f20ac079f17beab <https://etherscan.io/address/0xadef6b2c5e848a4f04145ee88f20ac079f17beab>`_ （etherscan 上标注为 Bitpie: Bitpie 6）
 
+
 当前我们用于提供矿工费代付功能的 TRX 地址如下：
 `TMuPWRhYxXvL2PSyiaKhASefaCv5daiRHK <https://tronscan.io/#/address/TMuPWRhYxXvL2PSyiaKhASefaCv5daiRHK>`_ （tronscan 上标注为 Bitpie1）
 `TJKTuEuJSwdJpz8oeDpLTh9VniWrUeZzdZ <https://tronscan.io/#/address/TJKTuEuJSwdJpz8oeDpLTh9VniWrUeZzdZ>`_ （tronscan 上标注为 Bitpie2）
