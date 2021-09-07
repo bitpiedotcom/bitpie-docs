@@ -36,3 +36,17 @@ msgstr "USDT-ERC20 https://v.qq.com/x/page/a325377sh38.html"
 
 msgid "USDT-TRC20 矿工费代付功能视频：https://v.qq.com/x/page/u32535clb5z.html"
 msgstr "USDT-TRC20 https://v.qq.com/x/page/u32535clb5z.html"
+
+
+msgid "当前我们用于提供矿工费代付功能的 ETH 地址如下："
+msgstr "The ETH address that we provide the miner fee payment:"
+
+msgid "etherscan 上标注为"
+msgstr "Marked on etherscan as"
+
+msgid "当前我们用于提供矿工费代付功能的 TRX 地址如下："
+msgstr "The TRX address that we provide the miner fee payment:"
+
+msgid "tronscan 上标注为"
+msgstr "Marked on tronscan as"
+
