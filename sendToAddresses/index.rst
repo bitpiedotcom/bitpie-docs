@@ -90,5 +90,3 @@
     :height: 520px
     :scale: 100%
     :align: center
-
-批量转账视频：https://m.weibo.cn/6404560407/4442923904567124
