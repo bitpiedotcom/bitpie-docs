@@ -84,9 +84,3 @@
     :height: 520px
     :scale: 100%
     :align: center
-
-..  image:: ../img/sendtoaddresses6.jpeg
-    :width: 320px
-    :height: 520px
-    :scale: 100%
-    :align: center
