@@ -85,42 +85,9 @@ msgstr ""
 "severe operational problem, Bitpie still can’t access to the user’s "
 "money."
 
-#: ../../FAQ/index.rst:30
-msgid "5. 我可以通过哪些方式参与数字货币的交易？"
-msgstr "5.How could I participate in digital currency transaction?"
-
-#: ../../FAQ/index.rst:32
-msgid "比特派提供了iOS 和 Android 版本的客户端。"
-msgstr "Bitpie provides IOS and Android versions."
-
-#: ../../FAQ/index.rst:34
-#, fuzzy
-msgid "iOS：https://bitpiehk.com/ios/"
-msgstr "iOS：https://bitpie.com/ios/"
-
-#: ../../FAQ/index.rst:36
-#, fuzzy
-msgid "android：https://bitpiehk.com/android/"
-msgstr "Android: http://bitpie.com/android/"
-
-#: ../../FAQ/index.rst:40
-msgid "6. “比特派”和“比太钱包”是什么关系？"
-msgstr "6.What is the relationship between 'bitpie' and 'bither'?"
-
-#: ../../FAQ/index.rst:42
-msgid "比太钱包和比特派同属于一个技术团队，而比太钱包是团队的早期产品，比特派是随后运营的另一个产品。两个产品的主要相同点：都提供HD钱包管理方案；主要不同点：比太钱包是功能相对完整的纯钱包App产品，而比特派是提供基础HD钱包功能和数字货币交易功能的综合App。"
-msgstr ""
-"Bither and Bitpie both belong to the same technical team, however Bither "
-"is the team's early products and Bitpie is subsequently operated product."
-" The main similarity between the two products: they all provide HD wallet"
-" management program; the main difference: Bither is a singular App "
-"product with relatively perfect functions, however Bitpie is an "
-"integrated App to provide HD wallet and digital currency trading "
-"function."
-
 #: ../../FAQ/index.rst:45
-msgid "7. 什么是“助记词”？"
-msgstr "7.What is the 'Seed Phrase'?"
+msgid "5. 什么是“助记词”？"
+msgstr "5.What is the 'Seed Phrase'?"
 
 #: ../../FAQ/index.rst:47
 msgid "助记词是HD钱包技术的重要概念，在比特派上它是“12个单词”，这个助记词非常重要，用户应当妥善保管和备份。通过助记词，用户可以在各类情形下恢复HD钱包、以及该钱包内的所有地址和数字货币的私钥，确保数字资产安全。"
@@ -132,9 +99,9 @@ msgstr ""
 "digital currency to ensure the safety of digital assets."
 
 #: ../../FAQ/index.rst:50
-msgid "8. 我比特派里的币可以转到其他地方去吗？可以收取其他地方转入的币吗？"
+msgid "6. 我比特派里的币可以转到其他地方去吗？可以收取其他地方转入的币吗？"
 msgstr ""
-"8.Could I transfer my Bitcoin on Bitpie to other platforms? Could I take "
+"6.Could I transfer my Bitcoin on Bitpie to other platforms? Could I take "
 "over Bitcoin transferred from other platforms?"
 
 #: ../../FAQ/index.rst:52
@@ -145,9 +112,9 @@ msgstr ""
 "addresses."
 
 #: ../../FAQ/index.rst:55
-msgid "9. 转币一直长时间不确认怎么办？"
+msgid "7. 转币一直长时间不确认怎么办？"
 msgstr ""
-"9.What should user do if it has taken a long time not to confirm the "
+"7.What should user do if it has taken a long time not to confirm the "
 "transferred Bitcoin?"
 
 #: ../../FAQ/index.rst:57
@@ -160,8 +127,8 @@ msgstr ""
 " for a particular transaction."
 
 #: ../../FAQ/index.rst:105
-msgid "10. 助记词没有备份怎么办？"
-msgstr "10.What should user do if user doesn’t have a back-up of Seed Phrase?"
+msgid "8. 助记词没有备份怎么办？"
+msgstr "8.What should user do if user doesn’t have a back-up of Seed Phrase?"
 
 #: ../../FAQ/index.rst:107
 msgid "如果用户丢失了助记词，比特派也无法帮用户找回——这一点非常重要，所以再次提醒用户:必须妥善保管好助记词。"
@@ -171,8 +138,8 @@ msgstr ""
 " Phrase in earnest."
 
 #: ../../FAQ/index.rst:110
-msgid "11. 忘记pin码怎么办？"
-msgstr "11.How to solve it if user forgets Pin Code?"
+msgid "9. 忘记pin码怎么办？"
+msgstr "9.How to solve it if user forgets Pin Code?"
 
 #: ../../FAQ/index.rst:112
 msgid "如果确认已经保存好助记词，用户可以在其他手机。重新安装比特派、并恢复钱包，恢复后可以重置pin密码。"
@@ -182,8 +149,8 @@ msgstr ""
 "wallet. After recovery, you can reset Pin Code."
 
 #: ../../FAQ/index.rst:115
-msgid "12. 手机丢失了怎么办？"
-msgstr "12.What if user loses own phone, are there some solutions to provide?"
+msgid "10. 手机丢失了怎么办？"
+msgstr "10.What if user loses own phone, are there some solutions to provide?"
 
 #: ../../FAQ/index.rst:117
 msgid "如果确认已经保存好助记词，那么用户资产依然安全，但是我们仍然建议用户采取安全防范措施：在新手机上用助记词恢复比特派，然后将钱包内的币转移到另一个（新建的）钱包内。"
@@ -193,22 +160,9 @@ msgstr ""
 "Recovering Bitpie by Seed Phrase of new phone, and then transferring "
 "Bitcoin of original wallet into another (new) wallet."
 
-#: ../../FAQ/index.rst:120
-msgid "13. 为什么我的支付宝/网银/微信，转账被退回？绑定失败？"
-msgstr ""
-"13.Why does my transferred money be returned to Alipay / Online Banking "
-"/We Chat? Binding failed?"
-
-#: ../../FAQ/index.rst:122
-msgid "请核对账户信息（例如名称、手机号、账户号……等）是否与其他认证信息一致。"
-msgstr ""
-"Please check whether the account information (such as name, phone number,"
-" account number, etc.) is consistent with other certification "
-"information."
-
 #: ../../FAQ/index.rst:135
-msgid "14. 我能卸载比特派吗？"
-msgstr "24.Could I unload Bitpie?"
+msgid "11. 我能卸载比特派吗？"
+msgstr "11.Could I unload Bitpie?"
 
 #: ../../FAQ/index.rst:137
 msgid "如果没有特殊情况，谨慎卸载避免损失。在妥善保管助记词后，用户可以卸载比特派。"
@@ -217,8 +171,8 @@ msgstr ""
 " losses. After keeping Seed Phrase well, user can unload Bitpie."
 
 #: ../../FAQ/index.rst:140
-msgid "15. 如何使用助记词恢复钱包？"
-msgstr "15.How to use Seed Phrase to restore the wallet?"
+msgid "12. 如何使用助记词恢复钱包？"
+msgstr "12.How to use Seed Phrase to restore the wallet?"
 
 #: ../../FAQ/index.rst:142
 msgid "重新安装打开后，选择\"我有种子,直接恢复\"，选择\"比特派助记词恢复\"，录入\"12个助记词\" 进行恢复。"
@@ -228,49 +182,27 @@ msgstr ""
 " Phrase, then you can recover your account."
 
 #: ../../FAQ/index.rst:145
-msgid "16. 钱包恢复后，我的币、原来的地址和交易记录还在吗？"
+msgid "13. 钱包恢复后，我的币、原来的地址和交易记录还在吗？"
 msgstr ""
-"16.Are my Bitcoin, the original address and trading history still in "
+"13.Are my Bitcoin, the original address and trading history still in "
 "wallet after the wallet is restored?"
 
 #: ../../FAQ/index.rst:147
 msgid "在。"
 msgstr "Yes, they are"
 
-#: ../../FAQ/index.rst:150
-msgid "17. 如果我手机号/支付宝/银行信息，换了该怎么办？"
-msgstr ""
-"17.What should I do if I change my phone number / Alipay / Bank "
-"Information? "
-
-#: ../../FAQ/index.rst:152
-msgid "更换之前应做好比特派内的信息变更。"
-msgstr "The replacement of Bitpie information should be done before the change."
-
-#: ../../FAQ/index.rst:155
-msgid "18. 我的不同银行/支付宝/手机账户，可以注册多个比特派账户吗？"
-msgstr ""
-"18.Could I register multiple Bitpie accounts for my different bank / "
-"Alipay / phone accounts?"
-
-#: ../../FAQ/index.rst:157
-msgid "是的。但是每一个账户内登记的信息应当保持一致。"
-msgstr ""
-"Yes, you could. But the registered information in each account should be "
-"consistent."
-
 #: ../../FAQ/index.rst:160
-msgid "19. 怎么更新到比特派最新版本？"
-msgstr "19.How to update the latest version of Bitpie?"
+msgid "14. 怎么更新到比特派最新版本？"
+msgstr "14.How to update the latest version of Bitpie?"
 
 #: ../../FAQ/index.rst:162
 msgid "Android 客户端点击“我 — 关于比特派 - 版本更新”；iOS 版通过非大陆 ID 登陆 App Store 更新 bitpie。"
 msgstr "Click \"Me-About Bitpie-Version Update\" on the Android; iOS needs to be downloaded by overseas Apple id"
 
 #: ../../FAQ/index.rst:165
-msgid "20. 为什么我只打算购买一个交易加速器的时候，显示需要多个加速器?"
+msgid "15. 为什么我只打算购买一个交易加速器的时候，显示需要多个加速器?"
 msgstr ""
-"20.When I plan to buy one TX Accelerator, why are showed many TX "
+"15.When I plan to buy one TX Accelerator, why are showed many TX "
 "Accelerators? What does it mean that a certain transaction ID has "
 "dependent on other multiple-transactions?"
 
@@ -284,8 +216,8 @@ msgstr ""
 " number of previous transactions."
 
 #: ../../FAQ/index.rst:170
-msgid "21. “动态矿工费”是根据什么标准计算的？"
-msgstr "21.Which kind of criteria is for counting the 'Dynamic Miners’ Fee ?"
+msgid "16. “动态矿工费”是根据什么标准计算的？"
+msgstr "16.Which kind of criteria is for counting the 'Dynamic Miners’ Fee ?"
 
 #: ../../FAQ/index.rst:172
 msgid "动态矿工费不是固定的比例或固定的金额，而是根据网络状况区分的，因未确认交易有个“交易手续费分布”，另一个指标“单位Byte包含的币量”。所谓动态调整就是根据这些信息进行的性价比最优选择。"
@@ -295,558 +227,3 @@ msgstr ""
 "Distribution of Service Fee' and 'The Amount of Bitcoin on United Byte'. "
 "The so-called Dynamic Adjustment can make a best choice according to "
 "these information."
-
-#: ../../FAQ/index.rst:175
-msgid "22. 我想了解一下比太钱包的使用方法，有什么资料？"
-msgstr ""
-"22.If I would like to know the usage of Bither wallet (bither.net), how "
-"could I look up this related information?"
-
-#: ../../FAQ/index.rst:176
-#, python-format
-msgid ""
-"你可以通过“比太钱包官网”https://bither.net/ 、“比太钱包常见问题解答”https://github.com/bither"
-"/bither-doc/blob/gh-pages/faq.md "
-"、以及“搜索结果”https://www.baidu.com/s?ie=utf8&oe=utf8&wd=%E6%AF%94%E5%A4%AA%E9%92%B1%E5%8C%85%E4%BD%93%E9%AA%8C&tn=98010089_dg&ch=2"
-" 来了解。"
-msgstr ""
-"You can refer to the 'Bither wallet’s official website  "
-"https://bither.net/' Bither wallet’s FAQ https://github.com/bither"
-"/bither-doc/blob/gh-pages/faq.md, and Search results "
-"https://www.baidu.com/s?ie=utf8&oe=utf8&wd=%E6%AF%94%E5%A4%AA%E9%92%B1%E5%8C%85%E4%BD%93%E9%AA%8C&tn=98010089_dg&ch=2"
-" Bither wallet’s FAQ"
-
-#~ msgid "费率"
-#~ msgstr "rates"
-
-#~ msgid "费率(更新时间：2017年6月)"
-#~ msgstr ""
-
-#~ msgid "一键买币"
-#~ msgstr "Buying Bitcoin on Instant Trade"
-
-#~ msgid "43.身份认证要求?"
-#~ msgstr ""
-
-#~ msgid "按照要求将如下资料发我下，并提供认证手机号,需要提供身份证正反面照片，手持身份证照片和一段视频。身份证正反面照片要求拍清晰，拍全。手持身份证照片要求能看清身份证号码。,视频要求：你需要拿身份证读到（我是***，我在比特派上一键买卖比特币，我承诺资金来源合法，不会用于非法用途，并且对自己的行为负责）"
-#~ msgstr ""
-
-#~ msgid "55.矿工费"
-#~ msgstr ""
-
-#~ msgid "矿工费是你发送这笔交易，是需要矿工把你的这个交易做到区块儿链中，矿工会收取一定的费用，比特派的发送和接收两个功能是不收任何手续费的"
-#~ msgstr ""
-
-#~ msgid "71.未备份好种子?"
-#~ msgstr ""
-
-#~ msgid "如果没备份好种子，当前账户没卸载的话，私聊发我认证手机号和UID"
-#~ msgstr ""
-
-#~ msgid "72.种子验证码?"
-#~ msgstr ""
-
-#~ msgid "如果需要查看种子验证码，需要你认证通过KYC5，之前没认证的话，先上传下资料，上传资料后私聊发我认证手机号。涉及资金安全，望理解。如果认证完毕，认证手机号和你的UID发我下，（UID在设置—查看种子（技术支持），点击复制给我就行）。经过核实，您给我的UID和认证手机号对应的是同一个人，请自己确保该账户属于本人的情况下，进行以下操作，您的种子验证码是（270926），将此种子验证码输入到“技术支持”界面的输入框中，点击“使用”按钮，您会看到出现一个二维码，该二维码您可以理解为你的12个汉字，以后恢复账户的时候，可以直接通过这个二维码进行恢复。使用方法—在下载安装好比特派后，使用种子二维码进行扫描恢复即可恢复你的本账户。建议将二维码打印到纸上，保存到家里，不要仅仅保存到手机图库，被删除或者盗取的风险较高。"
-#~ msgstr ""
-
-#~ msgid "86.普通账户私钥形式?"
-#~ msgstr ""
-
-#~ msgid "87.HD钱包和普通钱包差别?"
-#~ msgstr ""
-
-#~ msgid "88.支持***个币种吗？"
-#~ msgstr ""
-
-#~ msgid "89.隔离验证是什么？"
-#~ msgstr ""
-
-#~ msgid "90.支持隔离验证后旧地址可以用吗？"
-#~ msgstr ""
-
-#~ msgid "91.如何加入电报群?"
-#~ msgstr ""
-
-#~ msgid "35.恢复步骤?"
-#~ msgstr "----------"
-
-#~ msgid ""
-#~ "在下载安装好，在第一次打开，可以看到页面按钮—“我有种子，直接恢复”  。使用助记词恢复需要输入之前备份好的12个汉字（单词）"
-#~ " ，就可以恢复你的账户"
-#~ msgstr "----------"
-
-#~ msgid "36.恢复提示错误?"
-#~ msgstr "----------"
-
-#~ msgid "汉字的偏旁部首特别容易弄错，看下是不是输入错误，或者是您备份的时候就备份有误哈"
-#~ msgstr "----------"
-
-#~ msgid "37.二维码恢复?"
-#~ msgstr "----------"
-
-#~ msgid "使用二维码恢复需要你扫描之前账户通过种子码生成的二维码，方可恢复，记住，不是之前账户的地址二维码哈。附：在比特派设置—查看种子处可以通过和技术支持联系索要种子码，通过种子码可以得到一个比特派二维码。"
-#~ msgstr "----------"
-
-#~ msgid "38.恢复种子输入完没反应"
-#~ msgstr "----------"
-
-#~ msgid "您输入完12个汉字后，点击键盘中的空格键或者回车键（下一步），就可以进入您的钱包账户了。"
-#~ msgstr "----------"
-
-#~ msgid "39.升级?"
-#~ msgstr "----------"
-
-#~ msgid "看下是不是最新版 设置里  版本号看下是否是最新， 如果不是 ，点击检测新版本 ，升级到最新版"
-#~ msgstr "----------"
-
-#~ msgid "40.种子的重要性?"
-#~ msgstr "----------"
-
-#~ msgid "一定要抄写好、并且要秘密的保管好密语，不要泄露、不要弄丢，另外，永远不要卸载比特派"
-#~ msgstr "----------"
-
-#~ msgid "41.验证种子?"
-#~ msgstr "----------"
-
-#~ msgid ""
-#~ "在您开始使用比特派时候，会看到有提示让您备份好12个汉字，将这12个汉字备份好，重新输入一遍，便可以进入账户。最正确的操作步骤就是先到"
-#~ " 底部菜单—设置—验证种子  "
-#~ "将您备份好的12个汉字重新输入一遍，确保备份的种子没有问题，然后将您备份的种子抄纸上，或者打印一份，放家里，备份好。（注：经常有用户备份种子时，抄写的字迹模糊，在恢复种子的时候，无法正常恢复，所以请大家注意哈，一定要验证好种子）。"
-#~ msgstr "----------"
-
-#~ msgid "42.身份认证未通过原因列表?"
-#~ msgstr "----------"
-
-#~ msgid ""
-#~ "照片不完整 视频不正确,照片不清晰 视频不正确,照片不完整 只拍了一半,请先认证KYC1 "
-#~ "再认证KYC5,视频需要拿身份证读一段话,视频没有声音 请检查设备,身份证已过期 无法通过审核,视频看不到录像"
-#~ " 加微信 13120215576 处理"
-#~ msgstr "----------"
-
-#~ msgid "43.普通账户私钥形式?"
-#~ msgstr "----------"
-
-#~ msgid "私钥二维码（加密）：是将私钥进行加密后转化为二维码形式，在导入时候需要输入原钱包的密码，导入路径：导入私钥—来自比太私钥二维码。私钥二维码（解密）：是将私钥转化为二维码形式，导入后需要设置新钱包密码，导入路径：导入私钥—来自私钥明文—弹框中的摄像机。私钥明文：是一段字符串，保存好这个，可以在比太或者其他钱包中恢复账户。导入路径：导入私钥—来自私钥明文（输入时不要有空格）。BIP38私钥，支持BIP38规范，导入路径：设置—高级选项—导入BIP38私钥。"
-#~ msgstr "----------"
-
-#~ msgid "44.什么是KYC？"
-#~ msgstr "----------"
-
-#~ msgid "KYC是身份认证，认证不影响钱包功能使用，但是建议认证下KYC1和KYC5，上传资料后排队等待审核即可哈。"
-#~ msgstr "----------"
-
-#~ msgid "45.如何验证?"
-#~ msgstr "----------"
-
-#~ msgid "我的—身份验证直接认证KYC1 和 5 即可哈 上传资料后排队等待审核即可哈。"
-#~ msgstr ""
-
-#~ msgid "46.身份认证不通过原因?"
-#~ msgstr "----------"
-
-#~ msgid "KYC2需要认证手机号支付宝实名认证,KYC3 不通过 可能是你在比特派和银行留的手机号不一致。"
-#~ msgstr "----------"
-
-#~ msgid "47.身份认证KYC5拍摄闪退问题?"
-#~ msgstr "----------"
-
-#~ msgid "看下是不是最新版 设置里  版本号看下是否最新， 如果不是 ，点击检测新版本 ，升级到最新版.手机设置—权限—比特派  让比特派允许访问录音。"
-#~ msgstr "----------"
-
-#~ msgid "48.收不到验证码?"
-#~ msgstr "----------"
-
-#~ msgid "看下是不是信号问题，或者是手机内软件拦截了哈。"
-#~ msgstr "----------"
-
-#~ msgid "49.比特派可以使用吗？"
-#~ msgstr "----------"
-
-#~ msgid "比特派是钱包，密语在自己手里的哈，币也在自己手里的哈，放心使用。"
-#~ msgstr "----------"
-
-#~ msgid "50.显示内测可以用吗？"
-#~ msgstr "----------"
-
-#~ msgid "从官网下载的是企业版，带有内测字样，可以正常使用的哈"
-#~ msgstr "----------"
-
-#~ msgid "51.可以在其他地方导入吗？"
-#~ msgstr "----------"
-
-#~ msgid "比特派严格遵循BIP39/44规范的哈，只要支持规范的钱包就可以导入比特派的密语恢复您的账户，放心吧，比如比太钱包就可以的哈。"
-#~ msgstr "----------"
-
-#~ msgid "52.内测的和苹果商店都能用吗？"
-#~ msgstr "----------"
-
-#~ msgid "从官网下载的是企业版，带有内测字样，可以正常使用的哈，从苹果商店（美）下载的是正式版，也是可以放心使用的哈。"
-#~ msgstr "----------"
-
-#~ msgid "53. 比特派有电脑版的吗？"
-#~ msgstr "----------"
-
-#~ msgid "比特派目前支持安卓和苹果哈，没有电脑端"
-#~ msgstr "----------"
-
-#~ msgid "54.提币多久可以到？"
-#~ msgstr "----------"
-
-#~ msgid "要看对方平台的发币时间哈，发送后一般很快在钱包里有确认的哈。"
-#~ msgstr "----------"
-
-#~ msgid "55.矿工费？"
-#~ msgstr "----------"
-
-#~ msgid "矿工费是你发送这笔交易，是需要矿工把你的这个交易做到区块儿链中，矿工会收取一定的费用，比特派的发送和接收两个功能是不收任何手续费的。"
-#~ msgstr "----------"
-
-#~ msgid "56.比特派发送的矿工费从哪里扣"
-#~ msgstr "----------"
-
-#~ msgid "如果是全部发送的话，矿工费是从发送金额里扣除的，如果是未完全发送的话，是从余额里扣除的。"
-#~ msgstr "----------"
-
-#~ msgid "57.比特派收发币的手续费是多少?"
-#~ msgstr "----------"
-
-#~ msgid "比特派收发币是没有手续费的，只有矿工费，动态矿工费是根据交易大小和网络拥堵情况计算的。"
-#~ msgstr "----------"
-
-#~ msgid "58.收币地址会变?"
-#~ msgstr "----------"
-
-#~ msgid "比特派是HD账户，收币后地址会变的哈，新旧地址都可以使用的，旧地址在我的—我的地址里 可以查看的哈"
-#~ msgstr "----------"
-
-#~ msgid "59.收币地址?"
-#~ msgstr ""
-
-#~ msgid ""
-#~ "打开主界面收币按钮，里面有自己账户的地址和地址二维码，如果要是接收比特币，就发送到你的账户上的地址就可以了。点击“请求新地址”按钮，每次最多可以请求十个地址，同时，旧地址也可以使用的。在我的—我的地址"
-#~ " 里可以查到。此外，你还可以把你的旧地址点击选择添加到地址簿，并且做好备注，方便下次使用。"
-#~ msgstr "----------"
-
-#~ msgid "60.找零地址?"
-#~ msgstr "----------"
-
-#~ msgid "找零地址：找零地址就是你发送比特币出去后，为了找零给你而生成的地址，就叫找零地址。比特币交易的规则：将用户有权使用的若干比特币汇款地址上的之前交易的输出金额作为一次交易的输入，若干比特币收款地址上增加的交易金额作为本次交易的输出。输入金额必须大于等于输出金额，超出部分作为本次交易的手续费。手续费没有输出地址，奖励给将本次交易记账成功的矿工。因为有时作为输出的金额超过了用户想要支付的金额。在这种情况下，比特币客户端会创建一个新的比特币地址，并把差额发送回这个地址，这就是比特币的找零机制。"
-#~ msgstr "----------"
-
-#~ msgid "61.比特派和比太的差别?"
-#~ msgstr "----------"
-
-#~ msgid ""
-#~ "----------比太和比特派都是比太团队研发的钱包软件，比太支持比特币，分冷钱包和热钱包，冷钱包适合存储大额币，断网隔离，安全性比较高。热钱包适合经常收发使用。"
-#~ " "
-#~ "比特派除啦可以收发存币外，此外还有交易加速器，可以对未确认交易进行加速，此外，比特派支持比特币，莱特币，狗狗币，以太坊，BCC和ZEC，ETC等多币种"
-#~ msgstr "----------"
-
-#~ msgid "62.如何获取***币的地址?"
-#~ msgstr "----------"
-
-#~ msgid "首页 左上角 切换币种 切换到对应币种，然后返回首页 接收 里面有您的收币地址哈"
-#~ msgstr "----------"
-
-#~ msgid "63.如何修改手机号?"
-#~ msgstr "----------"
-
-#~ msgid "底部菜单—我的—个人头像点击进去—手机号—添加 添加手机号后 左滑可设置为默认"
-#~ msgstr "----------"
-
-#~ msgid "64.苹果闪退问题?"
-#~ msgstr "----------"
-
-#~ msgid ""
-#~ "比特派 iOS 版一打开就闪退状况的用户，请一定不要卸载！这是苹果的证书问题导致的。只需要用 "
-#~ "safari 打开 bitpie.com/ios 点击安装，更新一下就会修复了。"
-#~ msgstr "----------"
-
-#~ msgid "65.消息签名的作用?"
-#~ msgstr "----------"
-
-#~ msgid "消息签名就是不需要花钱就能证明你拥有一个地址的私钥。"
-#~ msgstr "----------"
-
-#~ msgid "66.比太钱包不显示余额？"
-#~ msgstr "----------"
-
-#~ msgid "在设置—高级选项—网络监控，打开后会自动同步的，你 看到peers和 blcoks 同步到最新块儿就可以了哈"
-#~ msgstr "----------"
-
-#~ msgid "67.比太钱包同步后还不显示余额?"
-#~ msgstr "----------"
-
-#~ msgid "在设置—高级选项—重载交易数据"
-#~ msgstr "----------"
-
-#~ msgid "68. 比太热钱包如何监控冷钱包？"
-#~ msgstr "----------"
-
-#~ msgid ""
-#~ "使用热钱包，在设置—一键监控冷钱包（冷钱包普通账户）/ 监控冷HD账户（冷钱包HD账户），扫描冷钱包上的 监控二维码"
-#~ "  便可用热钱包监控冷钱包了哈。"
-#~ msgstr "----------"
-
-#~ msgid "69.发送BTC到BCC地址上了?"
-#~ msgstr "----------"
-
-#~ msgid "左上角切换币种，切换到BCC,然后底部菜单—我的—我的地址，找到您填错的收币地址（BCC），点击该地址，选择检测BTC资产，然后获取您的BTC资产即可。"
-#~ msgstr "----------"
-
-#~ msgid "70.种子码是啥？"
-#~ msgstr "----------"
-
-#~ msgid ""
-#~ "技术支持码是针对没备份好密语的用户的哈，如果您没备份好密语并且没卸载当前账户，可以私聊发我认证手机号和UID "
-#~ "，获取技术支持码，然后自己可获取到当前账户的比特派二维码，以后恢复可以使用此二维码恢复。如果备份好种子并且确保没问题，就不用管这个的哈。"
-#~ msgstr "----------"
-
-#~ msgid "71.HD钱包和普通钱包差别?"
-#~ msgstr "----------"
-
-#~ msgid ""
-#~ "HD账户是分层确定性钱包，首先，要用一个随机数来生成主（根）私钥，这和任何一个比特币钱包生成任何一个私钥没任何区别；然后，再用一个确定的、不可逆的算法，基于主私钥生成任意数量的子私钥；"
-#~ "  "
-#~ "热钱包地址就是通常说的普通账户，地址不变。关于HD钱包，您可以看下这个：http://8btc.com/article-2020-1.html"
-#~ msgstr "----------"
-
-#~ msgid "72.支持***个币种吗？"
-#~ msgstr "----------"
-
-#~ msgid "目前不支持哈，以后会逐步支持其他主流币种的哈。"
-#~ msgstr "----------"
-
-#~ msgid "73.交易加速器人民币价格提高了?"
-#~ msgstr "----------"
-
-#~ msgid "加速器的成本是以比特币计价的，因为比特币涨得比较多，成本也高了很多，以人民币计价的加速器只能稍微提价了哈"
-#~ msgstr "----------"
-
-#~ msgid "74.比特派的加速器优势?"
-#~ msgstr "----------"
-
-#~ msgid "加速器是有成本的，而且成本很高，如果大家对比过价格，就能知道，比特派的加速器价格是全网最低、加速效果最好的哈"
-#~ msgstr "----------"
-
-#~ msgid "75.使用加速器后还没确认?"
-#~ msgstr "----------"
-
-#~ msgid "使用加速器加速后也要依赖于和我们合作的几个矿池的出块速度，正常情况下，使用加速器加速后，会比较快的有确认的，再耐心等等哈。"
-#~ msgstr "----------"
-
-#~ msgid "76.交易长时间不确认?"
-#~ msgstr "----------"
-
-#~ msgid "在网络拥堵的情况下，交易有可能长时间不确认，如果交易长时间不确认并且比较着急的话，可以使用比特派的加速器加速的。"
-#~ msgstr "----------"
-
-#~ msgid "77.交易加速器的使用?"
-#~ msgstr "----------"
-
-#~ msgid "你可以给自己的不在比特派上的交易进行加速，你可以把交易id复制粘贴过来，我的—交易加速器—tx id—复制粘贴交易Hash—加速。"
-#~ msgstr "----------"
-
-#~ msgid "78.为什么我需要多个加速器?"
-#~ msgstr "----------"
-
-#~ msgid "一个加速器对应一个不大于1K的未确认交易，如果您的未确认交易有前置交易也未确认，或者交易比较大，就需要使用多个加速器加速哈。"
-#~ msgstr "----------"
-
-#~ msgid "79.多重签名原理?"
-#~ msgstr "----------"
-
-#~ msgid ""
-#~ "一个多重签名地址可以关联n个私钥，在需要转账等操作时，只要其中的m个私钥签名就可以把资金转移了，其中m要小于等于n，也就是说m/n小于1，可以是2/3,"
-#~ " 3/5等等，是要在建立这个多重签名地址的时候确定好的。"
-#~ msgstr "----------"
-
-#~ msgid "80.BIP的区别?"
-#~ msgstr "----------"
-
-#~ msgid "32是HD的核心.39是SEED的生成算法.43是32增加了域的扩展.44是在43和32的基础上增加多币种,例如你一个HD的钱包可以同时管理主网和测试网的比特币."
-#~ msgstr "----------"
-
-#~ msgid "81.确定和分层确定性钱包区别?"
-#~ msgstr "----------"
-
-#~ msgid "分层确定性钱包是确定性钱包的一种，它具有一种重要的特点——它具有彻底分离公钥与私钥的生成从而提升安全协议的能力."
-#~ msgstr "----------"
-
-#~ msgid "82.比太钱包如何导出私钥?"
-#~ msgstr "----------"
-
-#~ msgid "冷钱包的HD账户，在右边有个钥匙的图标，点击图标，可以查看HD账户的种子或者种子二维码。冷钱包的普通账户，在右下角有个锁的图标，长按锁，可以查看普通账户的私钥明文或者私钥二维码。"
-#~ msgstr "----------"
-
-#~ msgid "83.冷钱包如何发送币?"
-#~ msgstr "----------"
-
-#~ msgid "如果要讲冷钱包的币发送出去，使用监控冷钱包的热钱包直接发送，然后使用冷钱包扫描热钱包上的二维码进行签名，确认无误后即可发送出去。"
-#~ msgstr "----------"
-
-#~ msgid "84.冷钱包如何接受币?"
-#~ msgstr "----------"
-
-#~ msgid "直接发送到你冷钱包的地址上就可以了，监控冷钱包的热钱包可以查看余额的哈。"
-#~ msgstr "----------"
-
-#~ msgid "85.HD账户的知识点?"
-#~ msgstr "----------"
-
-#~ msgid "1、知道主公匙就能知道所有的子公匙吗？能"
-#~ msgstr "----------"
-
-#~ msgid "2、知道某个子公匙能不能推算出其它子公匙或主公匙？不能"
-#~ msgstr "----------"
-
-#~ msgid "3、能不能判断任意两个子公匙是否都属于某个主公匙？（即判断有没有关联）不能"
-#~ msgstr "----------"
-
-#~ msgid "4、知道任一子私匙+主公匙，就能算出主私匙，那样 整个HD钱包系统的财富都不保了吧？是的"
-#~ msgstr "----------"
-
-#~ msgid "5、子钱包的使用不需要提供主公匙吧？可以不用，但现在大家都用"
-#~ msgstr "----------"
-
-#~ msgid "6、主私匙冷藏， 主公匙从不透露， 这样HD钱包应该就没什么风险了吧？是的，这样就没风险了"
-#~ msgstr "----------"
-
-#~ msgid "86.隔离验证是什么？"
-#~ msgstr "----------"
-
-#~ msgid "隔离验证是一种新的比特币交易格式。从隔离验证地址上发出来的交易就会是隔离验证交易。隔离验证解决了比特币的交易延展性问题。隔离验证交易多了一个新的概念叫虚拟大小，虚拟大小小于普通交易的大小，矿工费和块容量都依虚拟大小计算，也就是说隔离验证交易可以使用更少的矿工费更快的得到确认。我们目前支持的3开头的隔离验证地址是一种兼容性的地址，既能享受部分隔离验证带来的好处，又与旧版钱包相兼容，这是在比特币社区全部迁移到隔离验证前的一个步骤。需要注意的是目前并没有一个公认的方法使用3开头的地址进行消息签名，所以比特派也就暂不支持这个功能了。"
-#~ msgstr "----------"
-
-#~ msgid "87.支持隔离验证后旧地址可以用吗？"
-#~ msgstr "----------"
-
-#~ msgid "以前地址也可以的，比特派支持非隔离验证和隔离验证的地址，完全遵守HD的相关规范，隔离验证也是按照相关路径生成出来的哈，这个大家不用担心哈。"
-#~ msgstr "----------"
-
-#~ msgid "88.如何加入电报群?"
-#~ msgstr "----------"
-
-#~ msgid ""
-#~ "为了更好，更安全的为大家服务，请大家下载 Telegram "
-#~ "软件（打开官方https://telegram.org/，或者google play "
-#~ "商店、itunes中搜索\"Telegram\",都需要使用翻墙服务才能打开，另外请大家不要去不可信的网站来源下载此软件，以免造成财产损失"
-#~ " ，下载安装好后，速加派电报群 https://t.me/bitpie1"
-#~ msgstr "----------"
-
-#~ msgid "下载地址：苹果iOS： http://bitpie.com/ios/"
-#~ msgstr "Download Address: Apple iOS: http://bitpie.com/ios/"
-
-#~ msgid "10.一键买卖和OTC的买币/卖币一般什么时候到账？"
-#~ msgstr ""
-#~ "10.When would Bitcoin generally be "
-#~ "credited into account on Instant Trade"
-#~ " and OTC after buying and selling "
-#~ "Bitcoin?"
-
-#~ msgid "在没有不合规或意外情形的条件下，一键买卖和OTC交易在收款方已确认转账成功和收币方已确认转币成功后到账。"
-#~ msgstr ""
-#~ "In the absence of non-compliance "
-#~ "or accident conditions, only if buyer"
-#~ " confirms to transfer money successfully"
-#~ " and the counterparty also receives "
-#~ "transferred money, buyer will receive "
-#~ "Bitcoin."
-
-#~ msgid "去往托管矿工费由卖币方承担，托管释放由买币方承担"
-#~ msgstr ""
-#~ "Miners’ Fee on obtaining Escrow is "
-#~ "paid by Seller party ,Miners’ Fee "
-#~ "on releasing Escrow is paid by "
-#~ "Buyer party"
-
-#~ msgid "OTC托管交易手续费"
-#~ msgstr "Service Fee on OTC Escrow transaction"
-
-#~ msgid "1‰"
-#~ msgstr "1‰"
-
-#~ msgid "VIP OTC押金充提手续费"
-#~ msgstr "Service Fee on VIP OTC Deposit fee"
-
-#~ msgid "定额 (充值300元,提现300元；BTC充值免费,BTC提现0.01BTC)"
-#~ msgstr ""
-#~ "Fixed (50 yuan for top up and "
-#~ "withdrawal; free for BTC top up, "
-#~ "0.01BTC for BTC withdrawal"
-
-#~ msgid "22.一键买卖和OTC交易什么区别？为什么价格不一样？"
-#~ msgstr ""
-#~ "22.What is the difference between "
-#~ "Instant Trade and OTC transaction? Why"
-#~ " are there different prices?"
-
-#~ msgid "一键买卖提供的是“快速成交”服务，为用户买卖数字货币节约了时间成本；而OTC交易是“托管-多重签名-仲裁”机制的“广告投方式”模式，为用户提供更多样化的个性服务。"
-#~ msgstr ""
-#~ "Instant Trade provides the ‘quick-"
-#~ "dealing ‘ service which helps user "
-#~ "save time for selling and buying "
-#~ "digital currency. The OTC transaction is"
-#~ " a ‘ Advertisement and Promotion’ "
-#~ "model in the system of ‘ Escrow"
-#~ " -Multiple-signature-Arbitration’, which "
-#~ "offers users with a greater variety "
-#~ "of personality services. "
-
-#~ msgid "重新安装打开后，点击右上角按钮，选择恢复，录入“12个汉字”的助记词。"
-#~ msgstr ""
-#~ "After re-installing Bitpie, you open "
-#~ "Bitpie firstly, and then click a "
-#~ "button on the upper right corner, "
-#~ "select the recovery, and finally enter"
-#~ " into '12 words' Seed Phrase"
-
-#~ msgid "iOS和Android客户端点击“底部菜单 — 设置 - 检测新版本”。"
-#~ msgstr ""
-#~ "Clicking 'Bottom Menu - Settingss - "
-#~ "Detecting new version' on IOS and "
-#~ "Android."
-
-#~ msgid "33.OTC交易的“VIP用户”是什么意思？"
-#~ msgstr "33.What's the meaning of 'VIP user' on OTC transaction?"
-
-#~ msgid "“VIP用户”是指比特派向特定用户提供的个性化高端服务，该服务区别于普通的交易模式，提供了定制化的针对性服务。OTC的VIP模块，是专门为大客户、大宗交易、迅速成交准备的托管交易模式。例如您希望在限定的价格、更低的成本、更快的交易速度、在限定的时间内完成一笔相对较大（较之普通OTC数量级）的、更安全有保障的买卖交易。有兴趣参与的普通用户，可以选择加入。"
-#~ msgstr ""
-#~ "Unlike the ordinary transaction, 'VIP "
-#~ "user' refers to the personalized service"
-#~ " provided by Bitpie to a specific "
-#~ "user. OTC's VIP module is designed "
-#~ "for large clients, bulk deals, and "
-#~ "fast trading to make Escrow transaction."
-#~ " For example, if you would like "
-#~ "to complete a relatively larger and "
-#~ "more secured trade(compared to the "
-#~ "ordinary transaction) under a defined "
-#~ "price, a lower cost, faster dealing "
-#~ "speed and a limited time, you can"
-#~ " choose to join in. "
-
-#~ msgid "26.一个手机可以装几个比特派？"
-#~ msgstr "28.Could a phone be uploaded a few Bitpie?"
-
-#~ msgid "一个。"
-#~ msgstr "Only one."
-
-#~ msgid "下载地址：苹果 iOS：请通过非大陆ID登陆 App Store 搜索 bitpie 下载安装。"
-#~ msgstr ""
-
-#~ msgid "一键买币 ( < 5BTC )"
-#~ msgstr "Buying Bitcoin on Instant Trade(Less than 5BTC)"
-
-#~ msgid "买币方"
-#~ msgstr "Buyer party"
-
-#~ msgid "一键买币 ( > 5BTC )"
-#~ msgstr "Buying Bitcoin on Instant Trade(Greater than 5BTC)"
-
-#~ msgid "比特派"
-#~ msgstr "Bitpie"
-
-#~ msgid "卖币方"
-#~ msgstr "Seller party"
-

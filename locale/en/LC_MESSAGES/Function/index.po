@@ -23,11 +23,11 @@ msgstr "Software Function Description"
 
 #: ../../Function/index.rst:6
 #, fuzzy
-msgid "比特派是全球领先的多链钱包，支持 BTC/ETH/EOS/USDT 等多种区块链资产。主要功能包括：收发、买卖、借贷、加速交易、资讯、DApp 等。"
+msgid "比特派是全球领先的多链钱包，支持 BTC/ETH/EOS/USDT 等多种区块链资产。主要功能包括：收发、加速交易、资讯、DApp 等。"
 msgstr "Bitpie is a world-leading multichain wallet,"
 "supporting such crypto assets as BTC, ETH, EOS, USDT, etc."
 "The major features of Bitpie are: Send & Receive,"
-"Fiat Buy & Sell, Crypto Lend & Borrow, Tx Acceleration, News, DApp, etc."
+"Tx Acceleration, News, DApp, etc."
 
 #: ../../Function/index.rst:10
 msgid "首页"
@@ -40,29 +40,6 @@ msgstr "Features at Front Page:"
 #: ../../Function/index.rst:14
 msgid "转账、收款"
 msgstr "Send and receive coins/tokens"
-
-#: ../../Function/index.rst:16
-msgid "一键买卖：快捷方便"
-msgstr "Buy/Sell Cryptos: Peer to peer secure and convenient trade;"
-
-#: ../../Function/index.rst:18
-#, fuzzy
-msgid "币币兑换：可以进行币种之间的兑换，例如使用 BTC 兑换成 USDT"
-msgstr "Coin Swap: Exchange coins/tokens, e.g. BTC to USDT;"
-
-#: ../../Function/index.rst:20
-#, fuzzy
-msgid "借贷：可以快速借入或者贷出资产，享受高额借贷收益"
-msgstr "Transactions: all records of receiving and sending"
-
-#: ../../Function/index.rst:22
-#, fuzzy
-msgid "派银行：配合点对点交易和理财使用，查看银行流水"
-msgstr "Pie Bank: supporting OTC trade and financial plans subscribing"
-
-#: ../../Function/index.rst:24
-msgid "点对点交易：个人对个人的交易，安全，快捷"
-msgstr "OTC trade: customer to customer trade with safety and convenience"
 
 #: ../../Function/index.rst:28
 msgid "派商店：可以直接到淘宝或者微店购买硬件钱包"
@@ -81,7 +58,7 @@ msgstr "Top left corner: to switch your chain system;"
 
 #: ../../Function/index.rst:36
 msgid ""
-"更多：对应的功能有派银行、派商店、点对点交易、币币兑换、借贷、交易记录、加速器、消息签名等功能。"
+"更多：对应的功能有派银行、派商店、交易记录、加速器、消息签名等功能。"
 "钱包当前所选币种不同，更多中功能也不尽相同。"
 msgstr "More: You have more functions such as Pie Bank, Pie Store, OTC Trading, Coin "
 "Swap, Loan, Tx History, Message Signature etc. in here."
@@ -130,10 +107,6 @@ msgstr "Bitpie Cold : Connect to your Bither wallet to monitor the cold wallet, 
 msgid "钱包设置：修改密码、显示助记词、验证助记词、转入资产、默认货币、地址格式选项"
 msgstr "Wallet Setting：Change Code， Show Seed Phrase， Verify Seed Phrase，"
 "Import Assets， Default Currency, Address format options"
-
-#: ../../Function/index.rst:101
-msgid "交易管理：身份验证（KYC）、收款信息、我的订单、我的 OTC 押金、我的 OTC 广告"
-msgstr "Trade Management：Identity Verification（KYC）,Receipt, My Order, My OTC Mortgage, My OTC AD"
 
 #: ../../Function/index.rst:103
 msgid "关于比特派：可以通过“帮助与反馈”反馈相关问题。如果您有问题，随时可以使用用户反馈提交工单提问。"

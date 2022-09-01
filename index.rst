@@ -22,11 +22,9 @@
    TxAcelerate/index
    AddressBook/index
    MessageSigning/index
-   BankCard/index
    coinprivatekey/index
    eosback/index
    cpulcecream/index
-   privateKeyImport/index
    tokenFactory/index
    etherscantokenupdate/index
    sendToAddresses/index

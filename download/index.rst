@@ -7,13 +7,6 @@
 
 此外谷歌商店（Google Play）和苹果商店（Apple Store）（国外用户）都支持下载比特派。
 
-..  image:: ../img/download.png
-    :width: 920px
-    :scale: 100%
-    :align: center
-
-
-
 
 
 
