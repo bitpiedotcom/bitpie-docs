@@ -23,20 +23,8 @@
    AddressBook/index
    MessageSigning/index
    BankCard/index
-   MultiCurrency/index
-   bitherImportPrivateKeyToken/index
    coinprivatekey/index
-   anotherAssets/index
-   eosaccount/index
    eosback/index
-   eosresourcessos/index
-   eosleased/index
-   eosscan/index
-   eosmainchain/index
-   eosram/index
-   cpulease/index
-   eosvote/index
-   invitedFriends/index
    cpulcecream/index
    privateKeyImport/index
    tokenFactory/index
