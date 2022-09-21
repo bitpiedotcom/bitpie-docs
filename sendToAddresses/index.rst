@@ -18,7 +18,7 @@
 
 ..  image:: ../img/sendtoaddresses1.jpg
     :width: 320px
-    :height: 520px
+    :height: 670px
     :scale: 100%
     :align: center
 
@@ -26,7 +26,7 @@
 
 ..  image:: ../img/sendtoaddresses2.jpg
     :width: 320px
-    :height: 520px
+    :height: 670px
     :scale: 100%
     :align: center
 
@@ -73,7 +73,7 @@ TWmpgF……DuJ7bU, 0.002
 
 ..  image:: ../img/sendtoaddresses4.jpg
     :width: 320px
-    :height: 520px
+    :height: 670px
     :scale: 100%
     :align: center
 
@@ -81,6 +81,6 @@ TWmpgF……DuJ7bU, 0.002
 
 ..  image:: ../img/sendtoaddresses5.jpg
     :width: 320px
-    :height: 520px
+    :height: 670px
     :scale: 100%
     :align: center
