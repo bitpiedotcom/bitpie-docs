@@ -14,7 +14,6 @@
 
 
    Introduction/index
-   Download/index
    Function/index
    RegisterAndRecover/index
    SendAndReceive/index
@@ -22,11 +21,6 @@
    TxAcelerate/index
    AddressBook/index
    MessageSigning/index
-   coinprivatekey/index
-   eosback/index
-   cpulcecream/index
-   tokenFactory/index
-   etherscantokenupdate/index
    sendToAddresses/index
    addressCollection/index
    DetectContract/index
