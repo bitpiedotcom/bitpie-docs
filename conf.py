@@ -19,7 +19,7 @@
 # import os
 # import sys
 # sys.path.insert(0, os.path.abspath('.'))
-
+import os
 
 # -- General configuration ------------------------------------------------
 
@@ -46,7 +46,7 @@ master_doc = 'index'
 
 # General information about the project.
 project = u'Bitpie'
-copyright = u'2018, bitpie'
+copyright = u'2024, bitpie'
 author = u'bitpie'
 
 # The version info for the project you're documenting, acts as replacement for
@@ -155,5 +155,5 @@ texinfo_documents = [
      'Miscellaneous'),
 ]
 
-
-
+# Set canonical URL from the Read the Docs Domain
+html_baseurl = os.environ.get("BASEURL", "")
